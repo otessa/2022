@@ -1,7 +1,7 @@
 --- 
 title: "OTESSA 2022 Program"
 author: "Open Technology in Education, Society, and Scholarship Association"
-date: "`r Sys.Date()`"
+date: "Last updated `r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -12,13 +12,14 @@ github-repo: otessa/2022
 description: "Open Technology in Education, Society, and Scholarship Association"
 ---
 
-# Welcome
+# Welcome {-}
 
 ```{block, type='protip'}
 #### ✨ Note{-}
 
-*All times are in Eastern Time (Canada)
+***All times are in Eastern Time (Canada)***
 ```
+![](assets/media/image2.jpeg)
 
 All OTESSA Participants can attend the [Congress “Big Thinking” lecture series](https://www.federationhss.ca/en/congress/congress-2022/open-programming). These take place each day of the conference. Congress has “[open events](https://www.federationhss.ca/en/congress/congress-2022/calendar-open-events)” available as well (open to registrants across association conferences at Congress as well as those who hold community passes).
 
