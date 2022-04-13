@@ -13,4 +13,3 @@ bookdown::gitbook:
     edit: https://github.com/otessa/2022/edit/master/%s
     download: ["epub"]
 bookdown::epub_book: default
-

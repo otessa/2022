@@ -41,46 +41,6 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
-\usepackage{color}
-\usepackage{fancyvrb}
-\newcommand{\VerbBar}{|}
-\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
-\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
-% Add ',fontsize=\small' for more characters per line
-\usepackage{framed}
-\definecolor{shadecolor}{RGB}{248,248,248}
-\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
-\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
-\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
-\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-\newcommand{\BuiltInTok}[1]{#1}
-\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
-\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
-\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
-\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
-\newcommand{\ExtensionTok}[1]{#1}
-\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-\newcommand{\ImportTok}[1]{#1}
-\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
-\newcommand{\NormalTok}[1]{#1}
-\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
-\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
-\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
-\newcommand{\RegionMarkerTok}[1]{#1}
-\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -119,12 +79,10 @@
 \ifluatex
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
-\usepackage[]{natbib}
-\bibliographystyle{apalike}
 
 \title{OTESSA 2022 Program}
 \author{Open Technology in Education, Society, and Scholarship Association}
-\date{2022-04-12}
+\date{Last updated 2022-04-12}
 
 \begin{document}
 \maketitle
@@ -134,15 +92,18 @@
 \tableofcontents
 }
 \hypertarget{welcome}{%
-\chapter{Welcome}\label{welcome}}
+\chapter*{Welcome}\label{welcome}}
+\addcontentsline{toc}{chapter}{Welcome}
 
 \begin{protip}
 \hypertarget{note}{%
 \paragraph*{✨ Note}\label{note}}
 \addcontentsline{toc}{paragraph}{✨ Note}
 
-*All times are in Eastern Time (Canada)
+\textbf{\emph{All times are in Eastern Time (Canada)}}
 \end{protip}
+
+\includegraphics{assets/media/image2.jpeg}
 
 All OTESSA Participants can attend the \href{https://www.federationhss.ca/en/congress/congress-2022/open-programming}{Congress ``Big Thinking'' lecture series}. These take place each day of the conference. Congress has ``\href{https://www.federationhss.ca/en/congress/congress-2022/calendar-open-events}{open events}'' available as well (open to registrants across association conferences at Congress as well as those who hold community passes).
 
@@ -150,122 +111,501 @@ All OTESSA Registrants can also attend conference sessions offered by the \href{
 
 Please note that presenters must register in each conference in which they are presenting.
 
-\hypertarget{intro}{%
-\chapter{Introduction}\label{intro}}
+\hypertarget{keynotes-intro}{%
+\chapter*{Keynotes \{\#intro\}}\label{keynotes-intro}}
+\addcontentsline{toc}{chapter}{Keynotes \{\#intro\}}
 
-You can label chapter and section titles using \texttt{\{\#label\}} after them, e.g., we can reference Chapter \ref{intro}. If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \ref{methods}.
+\begin{reflect}
+\hypertarget{metaphors-of-edtech}{%
+\subsection{Metaphors of EdTech}\label{metaphors-of-edtech}}
 
-Figures and tables with captions will be placed in \texttt{figure} and \texttt{table} environments, respectively.
+\hypertarget{martin-weller}{%
+\paragraph{Martin Weller}\label{martin-weller}}
 
-\begin{Shaded}
-\begin{Highlighting}[]
-\FunctionTok{par}\NormalTok{(}\AttributeTok{mar =} \FunctionTok{c}\NormalTok{(}\DecValTok{4}\NormalTok{, }\DecValTok{4}\NormalTok{, .}\DecValTok{1}\NormalTok{, .}\DecValTok{1}\NormalTok{))}
-\FunctionTok{plot}\NormalTok{(pressure, }\AttributeTok{type =} \StringTok{\textquotesingle{}b\textquotesingle{}}\NormalTok{, }\AttributeTok{pch =} \DecValTok{19}\NormalTok{)}
-\end{Highlighting}
-\end{Shaded}
+In this talk, I will explore why metaphors are both a useful and
+potentially misleading way of thinking about educational technology. A
+number of metaphors will be proposed and analysed which demonstrate how
+metaphors can shape our thinking and help us view educational technology
+from different perspectives. The Covid pandemic saw nearly all education
+institutions engaging in an online pivot, which usually involved online
+versions of existing practices, such as lectures. As we seek to build on
+this experience and offer a richer online experience it has become
+evident that the face-to-face lecture has become a dominant model that
+many struggle to see past. This talk will examine how different
+metaphors can help us approach educational technology.
+\end{reflect}
 
-\begin{figure}
+\begin{reflect}
+\hypertarget{hide-and-seek-on-kids-power-and-resistance-in-education}{%
+\subsection{Hide and Seek: On Kids, Power, and Resistance in
+Education}\label{hide-and-seek-on-kids-power-and-resistance-in-education}}
 
-{\centering \includegraphics[width=0.8\linewidth]{OTESSA-2022-Program_files/figure-latex/nice-fig-1} 
+\hypertarget{sherri-spelic}{%
+\paragraph{Sherri Spelic}\label{sherri-spelic}}
 
-}
+I want to explore what happens when the learners in our care resist our
+offer of help, expertise, and teaching. How do we make sense of students
+applying refusal skills in the classroom? Rather than provide answers I
+will draw on student statements about the possibility and significance
+of saying ``no'' at school and use these to probe our understanding and
+appreciation of power in students' hands and voices. We'll also pose the
+question: to what degree do our pedagogies leave space for negotiation
+and power sharing? And where does this show itself in practice?
+\end{reflect}
 
-\caption{Here is a nice figure!}\label{fig:nice-fig}
-\end{figure}
+\begin{reflect}
+\hypertarget{outside-in-openness-as-subversion}{%
+\subsection{Outside-In: Openness as
+Subversion}\label{outside-in-openness-as-subversion}}
 
-Reference a figure by its code chunk label with the \texttt{fig:} prefix, e.g., see Figure \ref{fig:nice-fig}. Similarly, you can reference tables generated from \texttt{knitr::kable()}, e.g., see Table \ref{tab:nice-tab}.
+\hypertarget{maha-bali}{%
+\paragraph{Maha Bali}\label{maha-bali}}
 
-\begin{Shaded}
-\begin{Highlighting}[]
-\NormalTok{knitr}\SpecialCharTok{::}\FunctionTok{kable}\NormalTok{(}
-  \FunctionTok{head}\NormalTok{(iris, }\DecValTok{20}\NormalTok{), }\AttributeTok{caption =} \StringTok{\textquotesingle{}Here is a nice table!\textquotesingle{}}\NormalTok{,}
-  \AttributeTok{booktabs =} \ConstantTok{TRUE}
-\NormalTok{)}
-\end{Highlighting}
-\end{Shaded}
+We often talk about how open education expands access, supports
+knowledge sharing, and potentially enhances the quality of education. We
+also critique open education for sometimes reproducing inequalities
+despite promising to promote social justice.\\
+But what about the ways in which ``openness'' removes/destroys barriers
+within us? In what ways does openness empower us from the outside-in?
+When does openness influence critical change and when might it fail to
+do so?\\
+In this interactive session, we will explore some of the things openness
+makes possible that are often not possible within the walls of
+institutions, and which can end up challenging and subverting injustice.
+\end{reflect}
 
-\begin{table}
+\begin{reflect}
+\hypertarget{things-unsaid-exploring-the-margins-and-limits-of-open}{%
+\subsection{Things Unsaid: Exploring the Margins and Limits of
+Open}\label{things-unsaid-exploring-the-margins-and-limits-of-open}}
 
-\caption{\label{tab:nice-tab}Here is a nice table!}
-\centering
-\begin{tabular}[t]{rrrrl}
+\hypertarget{brenna-clarke-gray}{%
+\paragraph{Brenna Clarke Gray}\label{brenna-clarke-gray}}
+
+Open is not an unambiguous good, a panacea, or accessible to everyone.
+But maybe it could be more of all of those things if, as a community, we
+could talk more openly about open's borders and limitations. What does
+it mean to say we are a community of open educators? What is the edge of
+open-ness, and how do we account for its definition? What --- and whose
+--- truths remain unsaid or unspoken even in communities that define
+themselves as open? And who is safe to choose open? Offering an
+autoethnography of pregnancy loss set against the backdrop of the
+pandemic university as a place to start this exploration, this talk
+looks to chart the margins and limits of open and to ask about the
+benefits of expanding the scope and possibilities of openness in our
+institutions. It invites all of us to imagine a more perfect open, or at
+least to consider how more of us can be supported to speak our things
+unsaid.
+\end{reflect}
+
+\hypertarget{monday-may-16-2022}{%
+\chapter{Monday, May 16, 2022}\label{monday-may-16-2022}}
+
+Legend
+
+\begin{wp}
+\hypertarget{invited-speaker}{%
+\paragraph{Invited Speaker}\label{invited-speaker}}
+\end{wp}
+
+\begin{reflect}
+\hypertarget{keynote}{%
+\paragraph{Keynote}\label{keynote}}
+\end{reflect}
+
+\begin{secondary}
+\hypertarget{presentation}{%
+\paragraph{Presentation}\label{presentation}}
+\end{secondary}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.50}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.50}}@{}}
 \toprule
-Sepal.Length & Sepal.Width & Petal.Length & Petal.Width & Species\\
+& \\
 \midrule
-5.1 & 3.5 & 1.4 & 0.2 & setosa\\
-4.9 & 3.0 & 1.4 & 0.2 & setosa\\
-4.7 & 3.2 & 1.3 & 0.2 & setosa\\
-4.6 & 3.1 & 1.5 & 0.2 & setosa\\
-5.0 & 3.6 & 1.4 & 0.2 & setosa\\
-\addlinespace
-5.4 & 3.9 & 1.7 & 0.4 & setosa\\
-4.6 & 3.4 & 1.4 & 0.3 & setosa\\
-5.0 & 3.4 & 1.5 & 0.2 & setosa\\
-4.4 & 2.9 & 1.4 & 0.2 & setosa\\
-4.9 & 3.1 & 1.5 & 0.1 & setosa\\
-\addlinespace
-5.4 & 3.7 & 1.5 & 0.2 & setosa\\
-4.8 & 3.4 & 1.6 & 0.2 & setosa\\
-4.8 & 3.0 & 1.4 & 0.1 & setosa\\
-4.3 & 3.0 & 1.1 & 0.1 & setosa\\
-5.8 & 4.0 & 1.2 & 0.2 & setosa\\
-\addlinespace
-5.7 & 4.4 & 1.5 & 0.4 & setosa\\
-5.4 & 3.9 & 1.3 & 0.4 & setosa\\
-5.1 & 3.5 & 1.4 & 0.3 & setosa\\
-5.7 & 3.8 & 1.7 & 0.3 & setosa\\
-5.1 & 3.8 & 1.5 & 0.3 & setosa\\
+\endhead
+10:30 - 12:30 & Welcome Desk Open \\
+11:00 - 12:30 & Conference Welcome \& Keynote ``Metaphors of Ed Tech'' \emph{Martin Weller, Open University (UK)} \\
 \bottomrule
-\end{tabular}
-\end{table}
+\end{longtable}
 
-You can write citations, too. For example, we are using the \textbf{bookdown} package \citep{R-bookdown} in this sample book, which was built on top of R Markdown and \textbf{knitr} \citep{xie2015}.
+\begin{reflect}
+\hypertarget{metaphors-of-ed-tech}{%
+\paragraph{Metaphors of Ed Tech}\label{metaphors-of-ed-tech}}
 
-\hypertarget{literature}{%
-\chapter{Literature}\label{literature}}
+\emph{Martin Weller}
+\end{reflect}
 
-Here is a review of existing methods.
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+& \\
+\midrule
+\endhead
+12:30 - 1:00 & Break \\
+1:00 -- 1:45 & Invited Speaker Options Parallel Session 1 \\
+\bottomrule
+\end{longtable}
 
-\hypertarget{methods}{%
-\chapter{Methods}\label{methods}}
+\hypertarget{parallel-session-1.1}{%
+\section*{Parallel Session 1.1}\label{parallel-session-1.1}}
+\addcontentsline{toc}{section}{Parallel Session 1.1}
 
-We describe our methods in this chapter.
+\begin{wp}
+\hypertarget{embracing-the-middle}{%
+\paragraph{\texorpdfstring{\textbf{Embracing the
+Middle}}{Embracing the Middle}}\label{embracing-the-middle}}
 
-Math can be added in body using usual syntax like this
+\emph{Jess Mitchell}
+\end{wp}
 
-\hypertarget{math-example}{%
-\section{math example}\label{math-example}}
+\hypertarget{parallel-session-1.2}{%
+\section*{Parallel Session 1.2}\label{parallel-session-1.2}}
+\addcontentsline{toc}{section}{Parallel Session 1.2}
 
-\(p\) is unknown but expected to be around 1/3. Standard error will be approximated
+\begin{wp}
+\hypertarget{one-for-all-all-for-one-to-support-and-enable-our-learning-societies}{%
+\paragraph{\texorpdfstring{\textbf{One for All, All for One, to Support
+and Enable Our Learning
+Societies}}{One for All, All for One, to Support and Enable Our Learning Societies}}\label{one-for-all-all-for-one-to-support-and-enable-our-learning-societies}}
 
-\[
-SE = \sqrt(\frac{p(1-p)}{n}) \approx \sqrt{\frac{1/3 (1 - 1/3)} {300}} = 0.027
-\]
+\emph{Nadia Naffi}
+\end{wp}
 
-You can also use math in footnotes like this\footnote{where we mention \(p = \frac{a}{b}\)}.
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+& \\
+\midrule
+\endhead
+1:45 -- 2:15 & Break \\
+2:15 -- 3:45 & Parallel Session 2 \\
+\bottomrule
+\end{longtable}
 
-We will approximate standard error to 0.027\footnote{\(p\) is unknown but expected to be around 1/3. Standard error will be approximated
+\hypertarget{parallel-session-2.1---wildcard-indigenous-language-revival-k12-truth-reconciliation}{%
+\section*{Parallel Session 2.1 - WILDCARD: Indigenous Language Revival \& K12 Truth \& Reconciliation}\label{parallel-session-2.1---wildcard-indigenous-language-revival-k12-truth-reconciliation}}
+\addcontentsline{toc}{section}{Parallel Session 2.1 - WILDCARD: Indigenous Language Revival \& K12 Truth \& Reconciliation}
 
-  \[
-  SE = \sqrt(\frac{p(1-p)}{n}) \approx \sqrt{\frac{1/3 (1 - 1/3)} {300}} = 0.027
-  \]}
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:15-2:45}\label{section}}
 
-\hypertarget{applications}{%
-\chapter{Applications}\label{applications}}
+\textbf{Elders' Conversations: Perspectives on leveraging digital
+technology in language revival (Research-Oriented)}
 
-Some \emph{significant} applications are demonstrated in this chapter.
+\emph{Melissa Bishop}
+\end{secondary}
 
-\hypertarget{example-one}{%
-\section{Example one}\label{example-one}}
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph*{2:45-3:45}\label{section}}
+\addcontentsline{toc}{paragraph}{2:45-3:45}
 
-\hypertarget{example-two}{%
-\section{Example two}\label{example-two}}
+\textbf{Truth and Reconciliation Through Inquiry-based Collaborative
+Learning (Practice-Oriented)}
 
-\hypertarget{final-words}{%
-\chapter{Final Words}\label{final-words}}
+\emph{Deirdre Houghton (Nechako Lakes School District \& University of
+Victoria), Gary Soles (Nechako Lakes School District \& University of
+Victoria), Andrew Vogelsang (Nechako Lakes School District \& University
+of Victoria), Valerie Irvine (University of Victoria)}
+\end{secondary}
 
-We have finished a nice book.
+\hypertarget{parallel-session-2.2-sustaining-positive-change-pse-ethics-pse-scholarship}{%
+\section*{Parallel Session 2.2 -- Sustaining Positive Change: PSE Ethics \& PSE Scholarship}\label{parallel-session-2.2-sustaining-positive-change-pse-ethics-pse-scholarship}}
+\addcontentsline{toc}{section}{Parallel Session 2.2 -- Sustaining Positive Change: PSE Ethics \& PSE Scholarship}
 
-  \bibliography{book.bib}
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph*{2:15-2:45}\label{section}}
+\addcontentsline{toc}{paragraph}{2:15-2:45}
+
+\textbf{Surveillance in the System: Data as Critical Change in Higher
+Education (Research-Oriented)}
+
+\emph{Bonnie Stewart (University of Windsor), Samatha Szcyrek
+(University of Windsor)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph*{2:45-3:45}\label{section}}
+\addcontentsline{toc}{paragraph}{2:45-3:45}
+
+\textbf{Cognification in Education in Light of the Fourth Industrial
+Revolution (Research-Oriented)}
+
+\emph{Vivekanandan Kumar (Athabasca University), Mohamed Ally (Athabasca
+University), Avgoustos Tsinakos (International Hellenic University),
+Muhammad Helmi Norman (Universiti Kebangsaan Malaysia)}
+\end{secondary}
+
+\hypertarget{parallel-session-2.3-transitions-of-online-learning-and-teaching-e-texts-oer}{%
+\section*{Parallel Session 2.3 -- Transitions of Online Learning and Teaching: E-Texts / OER}\label{parallel-session-2.3-transitions-of-online-learning-and-teaching-e-texts-oer}}
+\addcontentsline{toc}{section}{Parallel Session 2.3 -- Transitions of Online Learning and Teaching: E-Texts / OER}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph*{2:15-2:45}\label{section}}
+\addcontentsline{toc}{paragraph}{2:15-2:45}
+
+\textbf{Investigating the effects of computer-generated contextual
+landmarks on short-term recall of e-texts (Research-Oriented)}
+
+\emph{Jon Dron, Rory McGreal, Vive Kumar, Jennifer Davies (Athabasca
+University)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph*{2:45-3:45}\label{section}}
+\addcontentsline{toc}{paragraph}{2:45-3:45}
+
+\textbf{Community-Led Infrastructures for Open Access Books: A
+Sustainable Model and Platform (Practice-Oriented)}
+
+\emph{Judith Fathallah (Lancaster University), Martin Eve (University of
+London, Tom Grady (University of London)}
+\end{secondary}
+
+\hypertarget{parallel-session-2.4}{%
+\section*{Parallel Session 2.4}\label{parallel-session-2.4}}
+\addcontentsline{toc}{section}{Parallel Session 2.4}
+
+\begin{secondary}
+\hypertarget{time}{%
+\paragraph{\texorpdfstring{\texttt{TIME}}{TIME}}\label{time}}
+
+\textbf{Flexible approaches to learning: Bridging inclusive/exclusive
+spaces through open educational practice (Practice-Oriented)}
+
+\emph{Michelle Harrison (Thompson Rivers University)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{time}{%
+\paragraph{\texorpdfstring{\texttt{TIME}}{TIME}}\label{time}}
+
+\textbf{Warp and Weft: Weaving and Open Dissertation
+(Practice-Oriented)}
+
+\emph{Helen Dewaard (Lakehead University \& University of British
+Columbia), Leo Havemann (University College London), Verena Roberts
+(University of Calgary \& Thompson Rivers University)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{time}{%
+\paragraph{\texorpdfstring{\texttt{TIME}}{TIME}}\label{time}}
+
+\textbf{Incorporating Open Educational Pedagogies and Co-mentorship
+Practices in Graduate Education (Research-Oriented)}
+
+\emph{Cindy Ives (Athabasca University)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{time}{%
+\paragraph{\texorpdfstring{\texttt{TIME}}{TIME}}\label{time}}
+
+\textbf{Critical reflection: How can open reflexive frameworks redefine
+academic practices? (Practice-Oriented)}
+
+\emph{Helen DeWaard (Lakehead University \& University of British
+Columbia), Shauna Burnie (Lakehead University)}
+\end{secondary}
+
+\hypertarget{parallel-session-2.5}{%
+\section*{Parallel Session 2.5}\label{parallel-session-2.5}}
+\addcontentsline{toc}{section}{Parallel Session 2.5}
+
+\begin{secondary}
+\hypertarget{sustaining-positive-change-pse-open}{%
+\paragraph*{2:15-2:45 -- Sustaining Positive Change -- PSE
+Open}\label{sustaining-positive-change-pse-open}}
+\addcontentsline{toc}{paragraph}{2:15-2:45 -- Sustaining Positive Change
+-- PSE Open}
+
+\textbf{Open educational practice and research resources created by
+students, for students (Practice-Oriented)}
+
+\emph{Marie Bartlett \& Students (Thompson Rivers University)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{transitions-of-online-learning-and-teaching-pse-online}{%
+\paragraph*{2:45-3:45: -- Transitions of Online Learning and Teaching --
+PSE
+Online}\label{transitions-of-online-learning-and-teaching-pse-online}}
+\addcontentsline{toc}{paragraph}{2:45-3:45: -- Transitions of Online
+Learning and Teaching -- PSE Online}
+
+\textbf{Building digital fluency skills during the rapid transition to
+online and hybrid teaching through open access with the Ontario Extend
+program (Practice-Oriented)}
+
+\emph{Alissa Bigelow (eCampusOntario)}
+\end{secondary}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+& \\
+\midrule
+\endhead
+3:45 -- 4:00 & Break \\
+4:00 -- 4:30 & Social Session \\
+\bottomrule
+\end{longtable}
+
+\begin{gh}
+\hypertarget{social-gurdeep-pandher-of-the-yukon}{%
+\paragraph*{Social: Gurdeep Pandher of the
+Yukon}\label{social-gurdeep-pandher-of-the-yukon}}
+\addcontentsline{toc}{paragraph}{Social: Gurdeep Pandher of the Yukon}
+
+\textbf{Bhangra dance class}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+& \\
+\midrule
+\endhead
+4:30 -- 5:30 & Parallel Session 3 \\
+\bottomrule
+\end{longtable}
+
+\hypertarget{parallel-session-3.1-sustaining-positive-change-k12-greentech}{%
+\subsection*{Parallel Session 3.1 -- Sustaining Positive Change: K12,
+GreenTech}\label{parallel-session-3.1-sustaining-positive-change-k12-greentech}}
+\addcontentsline{toc}{subsection}{Parallel Session 3.1 -- Sustaining
+Positive Change: K12, GreenTech}
+\end{gh}
+\begin{secondary}
+\hypertarget{time}{%
+\paragraph{\texorpdfstring{\texttt{Time}}{Time}}\label{time}}
+
+\textbf{Improving environmental sustainability by using public school
+systems as centers of green energy production and conservation:
+Approaches to offsetting the cost of increased technology use and
+associated pollution (Practice-Oriented)}
+
+\emph{Scott Warren, Scott Moran, Kristen McGuffin (University of North
+Texas)}
+\end{secondary}
+
+\hypertarget{parallel-session-3.2-sustaining-positive-change-pse-open}{%
+\section*{Parallel Session 3.2 -- Sustaining Positive Change -- PSE Open}\label{parallel-session-3.2-sustaining-positive-change-pse-open}}
+\addcontentsline{toc}{section}{Parallel Session 3.2 -- Sustaining Positive Change -- PSE Open}
+
+\begin{secondary}
+\hypertarget{time}{%
+\paragraph{\texorpdfstring{\texttt{TIME}}{TIME}}\label{time}}
+
+\textbf{Sustaining Complexity: Why Higher Education Should Avoid
+TechnoSolutionism (Practice-Oriented)}
+
+\emph{Jim Luke (Lansing Community College), Bonnie Stewart (University
+of Windsor)}
+\end{secondary}
+
+\hypertarget{parallel-session-3.3-addressing-the-new-inequities-critical-edtech}{%
+\subsection*{Parallel Session 3.3 -- Addressing the New Inequities: Critical EdTech}\label{parallel-session-3.3-addressing-the-new-inequities-critical-edtech}}
+\addcontentsline{toc}{subsection}{Parallel Session 3.3 -- Addressing the New Inequities: Critical EdTech}
+
+\begin{secondary}
+\hypertarget{time}{%
+\paragraph{\texorpdfstring{\texttt{time}}{time}}\label{time}}
+
+\textbf{Rejecting the ready-made future: Reimagining technologies from
+and for the classroom (Research-Oriented)}
+
+\emph{Esteban Morales, Rachel Horst (University of British Columbia)}
+\end{secondary}
+
+\hypertarget{parallel-session-3.4-addressing-the-new-inequities-open}{%
+\subsection*{Parallel Session 3.4 -- Addressing the New Inequities: Open}\label{parallel-session-3.4-addressing-the-new-inequities-open}}
+\addcontentsline{toc}{subsection}{Parallel Session 3.4 -- Addressing the New Inequities: Open}
+
+\begin{secondary}
+\hypertarget{time}{%
+\paragraph{\texorpdfstring{\texttt{TIME}}{TIME}}\label{time}}
+
+\textbf{Open Educational Practices (OEP): Critical Policy Analysis in
+the Canadian Post-Secondary Education Context (Research-Oriented)}
+
+\emph{Mara Bordignon (University of Western Ontario)}
+\end{secondary}
+
+\hypertarget{parallel-session-3.5-transitions-of-online-learning-and-teaching-online-society}{%
+\subsection*{Parallel Session 3.5 -- Transitions of Online Learning and Teaching -- Online \& Society}\label{parallel-session-3.5-transitions-of-online-learning-and-teaching-online-society}}
+\addcontentsline{toc}{subsection}{Parallel Session 3.5 -- Transitions of Online Learning and Teaching -- Online \& Society}
+
+\begin{secondary}
+\hypertarget{time}{%
+\paragraph{\texorpdfstring{\texttt{TIME}}{TIME}}\label{time}}
+
+\textbf{Online or Remote Learning and Mental Health (Research-Oriented)}
+
+\emph{Stephanie Moore (University of New Mexico), Michael Barbour (Touro
+University California), George Veletsianos (Royal Roads University)}
+\end{secondary}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+& \\
+\midrule
+\endhead
+5:30 - 6:00 & Break \\
+6:00 - 6:45 & Invited Speakers - Parallel Session 4 \\
+\bottomrule
+\end{longtable}
+
+\hypertarget{parallel-session-4.1}{%
+\section*{Parallel Session 4.1}\label{parallel-session-4.1}}
+\addcontentsline{toc}{section}{Parallel Session 4.1}
+
+\begin{reflect}
+\hypertarget{land-use-metaphor-in-scholarly-communication-a-brief-inventory-and-inspection}{%
+\paragraph*{Land-use Metaphor in Scholarly Communication: A Brief
+Inventory and
+Inspection}\label{land-use-metaphor-in-scholarly-communication-a-brief-inventory-and-inspection}}
+\addcontentsline{toc}{paragraph}{Land-use Metaphor in Scholarly
+Communication: A Brief Inventory and Inspection}
+
+\emph{AJ Boston}
+\end{reflect}
+
+\hypertarget{parallel-session-4.2}{%
+\section*{Parallel Session 4.2}\label{parallel-session-4.2}}
+\addcontentsline{toc}{section}{Parallel Session 4.2}
+
+\begin{reflect}
+\hypertarget{critical-change-in-online-education---what-we-can-learn-and-not-learn-from-covid-as-a-context}{%
+\paragraph*{Critical Change in Online Education - What We Can Learn (And
+Not Learn) From COVID as a
+Context}\label{critical-change-in-online-education---what-we-can-learn-and-not-learn-from-covid-as-a-context}}
+\addcontentsline{toc}{paragraph}{Critical Change in Online Education -
+What We Can Learn (And Not Learn) From COVID as a Context}
+
+\emph{Matt Bower}
+\end{reflect}
+
+\hypertarget{discussionnetworking-pods}{%
+\section*{Discussion/Networking Pods}\label{discussionnetworking-pods}}
+\addcontentsline{toc}{section}{Discussion/Networking Pods}
+
+6:45 -- 7:00
+
+\hypertarget{abstracts}{%
+\chapter{Abstracts}\label{abstracts}}
+
+\begin{protip}
+\hypertarget{note}{%
+\paragraph*{✨ Note}\label{note}}
+\addcontentsline{toc}{paragraph}{✨ Note}
+
+Abstracts linked in with daily schedule
+\end{protip}
 
 \end{document}
