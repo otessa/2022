@@ -5,7 +5,7 @@ bookdown::gitbook:
   config:
     toc:
       collapse: section
-      scroll_highlight: true    
+      scroll_highlight: true
       before: |
         <li><a href="https://otessa.org" target="blank">OTESSA</a></li>
       after: |
