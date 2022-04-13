@@ -6,8 +6,7 @@ bookdown::gitbook:
     toc:
       collapse: section
       scroll_highlight: true
-      before: |
-        <li><a href="./">OTESSA 2022 Program</a></li>
+      before: null
       after: |
         <li><a href="https://bookdown.org" target="blank">Published with bookdown</a></li>
     edit: https://github.com/otessa/2022/edit/master/%s
