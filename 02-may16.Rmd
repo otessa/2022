@@ -2,18 +2,18 @@
 
 ### Legend {-}
 
-```{block, type='wp'}
-#### Invited Speaker
-
-```
-
 ```{block, type='reflect'}
 #### Keynote
 
 ```
 
+```{block, type='wp'}
+#### Invited Speaker
+
+```
+
 ```{block, type='secondary'}
-#### Presentation
+#### Regular Session
 
 ```
 
