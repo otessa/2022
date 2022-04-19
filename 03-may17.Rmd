@@ -17,6 +17,10 @@
 #### Regular Session
 
 ```
+```{block, type='gh'}
+#### Social Session
+
+```
 
 --- 
 
@@ -25,7 +29,7 @@
 ##  Welcome Desk Open (10:30 - 12:30) {-}
 
 
-## Conference Welcome & Keynote (11:00 - 12:30) {-}
+## Conference Updates & Keynote (11:00 - 12:30) {-}
 
 ```{block, type='reflect'}
 #### Hide and Seek: On Kids, Power, and Resistance in Education
