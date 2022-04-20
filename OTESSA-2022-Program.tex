@@ -6,8 +6,8 @@
 ]{book}
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -33,14 +33,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  pdftitle={OTESSA 2022 Program},
-  pdfauthor={Open Technology in Education, Society, and Scholarship Association},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -68,23 +60,21 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
-\usepackage{booktabs}
-\usepackage{amsthm}
-\makeatletter
-\def\thm@space@setup{%
-  \thm@preskip=8pt plus 2pt minus 4pt
-  \thm@postskip=\thm@preskip
-}
-\makeatother
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
-\usepackage[]{natbib}
-\bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={OTESSA 2022 Program},
+  pdfauthor={Open Technology in Education, Society, and Scholarship Association},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
 
 \title{OTESSA 2022 Program}
 \author{Open Technology in Education, Society, and Scholarship Association}
-\date{Last updated 2022-04-13}
+\date{Last updated 2022-04-19}
 
 \begin{document}
 \maketitle
@@ -97,13 +87,13 @@
 \chapter*{Welcome}\label{welcome}}
 \addcontentsline{toc}{chapter}{Welcome}
 
-\begin{todo}
+\begin{protip}
 \hypertarget{note}{%
 \paragraph*{✨ Note}\label{note}}
 \addcontentsline{toc}{paragraph}{✨ Note}
 
 \textbf{\emph{All times are in Eastern Time (Canada)}}
-\end{todo}
+\end{protip}
 
 \includegraphics{assets/media/image2.jpeg}
 
@@ -211,20 +201,31 @@ unsaid.
 \subsection*{Legend}\label{legend}}
 \addcontentsline{toc}{subsection}{Legend}
 
-\begin{wp}
-\hypertarget{invited-speaker}{%
-\paragraph{Invited Speaker}\label{invited-speaker}}
-\end{wp}
-
 \begin{reflect}
 \hypertarget{keynote}{%
 \paragraph{Keynote}\label{keynote}}
 \end{reflect}
 
+\begin{wp}
+\hypertarget{invited-speaker}{%
+\paragraph{Invited Speaker}\label{invited-speaker}}
+\end{wp}
+
 \begin{secondary}
-\hypertarget{presentation}{%
-\paragraph{Presentation}\label{presentation}}
+\hypertarget{regular-session}{%
+\paragraph{Regular Session}\label{regular-session}}
 \end{secondary}
+\begin{gh}
+\hypertarget{social-session}{%
+\paragraph{Social Session}\label{social-session}}
+\end{gh}
+\begin{protip}
+\hypertarget{note}{%
+\paragraph*{✨ Note}\label{note}}
+\addcontentsline{toc}{paragraph}{✨ Note}
+
+\textbf{\emph{All times are in Eastern Time (Canada)}}
+\end{protip}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
@@ -248,11 +249,9 @@ unsaid.
 \section*{Break (12:30 - 1:00)}\label{break-1230---100}}
 \addcontentsline{toc}{section}{Break (12:30 - 1:00)}
 
-\hypertarget{parallel-session-1-100-145}{%
-\section*{Parallel Session 1 (1:00 -- 1:45)}\label{parallel-session-1-100-145}}
-\addcontentsline{toc}{section}{Parallel Session 1 (1:00 -- 1:45)}
-
-Invited Speaker Options
+\hypertarget{parallel-session-1---invited-speakers-100-145}{%
+\section*{Parallel Session 1 - Invited Speakers (1:00 -- 1:45)}\label{parallel-session-1---invited-speakers-100-145}}
+\addcontentsline{toc}{section}{Parallel Session 1 - Invited Speakers (1:00 -- 1:45)}
 
 \hypertarget{parallel-session-1.1}{%
 \subsection*{Parallel Session 1.1}\label{parallel-session-1.1}}
@@ -377,9 +376,6 @@ London, Tom Grady (University of London)}
 \addcontentsline{toc}{subsection}{Parallel Session 2.4}
 
 \begin{secondary}
-\hypertarget{time}{%
-\paragraph{\texorpdfstring{\texttt{TIME}}{TIME}}\label{time}}
-
 \textbf{Flexible approaches to learning: Bridging inclusive/exclusive
 spaces through open educational practice (Practice-Oriented)}
 
@@ -387,9 +383,6 @@ spaces through open educational practice (Practice-Oriented)}
 \end{secondary}
 
 \begin{secondary}
-\hypertarget{time}{%
-\paragraph{\texorpdfstring{\texttt{TIME}}{TIME}}\label{time}}
-
 \textbf{Warp and Weft: Weaving and Open Dissertation
 (Practice-Oriented)}
 
@@ -399,9 +392,6 @@ Columbia), Leo Havemann (University College London), Verena Roberts
 \end{secondary}
 
 \begin{secondary}
-\hypertarget{time}{%
-\paragraph{\texorpdfstring{\texttt{TIME}}{TIME}}\label{time}}
-
 \textbf{Incorporating Open Educational Pedagogies and Co-mentorship
 Practices in Graduate Education (Research-Oriented)}
 
@@ -409,9 +399,6 @@ Practices in Graduate Education (Research-Oriented)}
 \end{secondary}
 
 \begin{secondary}
-\hypertarget{time}{%
-\paragraph{\texorpdfstring{\texttt{TIME}}{TIME}}\label{time}}
-
 \textbf{Critical reflection: How can open reflexive frameworks redefine
 academic practices? (Practice-Oriented)}
 
@@ -460,10 +447,10 @@ program (Practice-Oriented)}
 \addcontentsline{toc}{section}{Social Session (4:00 -- 4:30)}
 
 \begin{gh}
-\hypertarget{social-gurdeep-pandher-of-the-yukon}{%
-\paragraph*{Social: Gurdeep Pandher of the
-Yukon}\label{social-gurdeep-pandher-of-the-yukon}}
-\addcontentsline{toc}{paragraph}{Social: Gurdeep Pandher of the Yukon}
+\hypertarget{gurdeep-pandher-of-the-yukon}{%
+\paragraph*{Gurdeep Pandher of the
+Yukon}\label{gurdeep-pandher-of-the-yukon}}
+\addcontentsline{toc}{paragraph}{Gurdeep Pandher of the Yukon}
 
 \textbf{Bhangra dance class}
 \end{gh}
@@ -477,9 +464,6 @@ Yukon}\label{social-gurdeep-pandher-of-the-yukon}}
 \addcontentsline{toc}{subsection}{Parallel Session 3.1 -- Sustaining Positive Change: K12, GreenTech}
 
 \begin{secondary}
-\hypertarget{time}{%
-\paragraph{\texorpdfstring{\texttt{Time}}{Time}}\label{time}}
-
 \textbf{Improving environmental sustainability by using public school
 systems as centers of green energy production and conservation:
 Approaches to offsetting the cost of increased technology use and
@@ -494,9 +478,6 @@ Texas)}
 \addcontentsline{toc}{subsection}{Parallel Session 3.2 -- Sustaining Positive Change -- PSE Open}
 
 \begin{secondary}
-\hypertarget{time}{%
-\paragraph{\texorpdfstring{\texttt{TIME}}{TIME}}\label{time}}
-
 \textbf{Sustaining Complexity: Why Higher Education Should Avoid
 TechnoSolutionism (Practice-Oriented)}
 
@@ -509,9 +490,6 @@ of Windsor)}
 \addcontentsline{toc}{subsection}{Parallel Session 3.3 -- Addressing the New Inequities: Critical EdTech}
 
 \begin{secondary}
-\hypertarget{time}{%
-\paragraph{\texorpdfstring{\texttt{time}}{time}}\label{time}}
-
 \textbf{Rejecting the ready-made future: Reimagining technologies from
 and for the classroom (Research-Oriented)}
 
@@ -523,9 +501,6 @@ and for the classroom (Research-Oriented)}
 \addcontentsline{toc}{subsection}{Parallel Session 3.4 -- Addressing the New Inequities: Open}
 
 \begin{secondary}
-\hypertarget{time}{%
-\paragraph{\texorpdfstring{\texttt{TIME}}{TIME}}\label{time}}
-
 \textbf{Open Educational Practices (OEP): Critical Policy Analysis in
 the Canadian Post-Secondary Education Context (Research-Oriented)}
 
@@ -537,9 +512,6 @@ the Canadian Post-Secondary Education Context (Research-Oriented)}
 \addcontentsline{toc}{subsection}{Parallel Session 3.5 -- Transitions of Online Learning and Teaching -- Online \& Society}
 
 \begin{secondary}
-\hypertarget{time}{%
-\paragraph{\texorpdfstring{\texttt{TIME}}{TIME}}\label{time}}
-
 \textbf{Online or Remote Learning and Mental Health (Research-Oriented)}
 
 \emph{Stephanie Moore (University of New Mexico), Michael Barbour (Touro
@@ -590,17 +562,1450 @@ What We Can Learn (And Not Learn) From COVID as a Context}
 \section*{Discussion/Networking Pods (6:45 -- 7:00)}\label{discussionnetworking-pods-645-700}}
 \addcontentsline{toc}{section}{Discussion/Networking Pods (6:45 -- 7:00)}
 
-\hypertarget{abstracts}{%
-\chapter{Abstracts}\label{abstracts}}
+\ldots or until the end of your conversation!
 
-\begin{todo}
+\hypertarget{tuesday-may-17-2022}{%
+\chapter{Tuesday, May 17, 2022}\label{tuesday-may-17-2022}}
+
+\hypertarget{legend-1}{%
+\subsection*{Legend}\label{legend-1}}
+\addcontentsline{toc}{subsection}{Legend}
+
+\begin{reflect}
+\hypertarget{keynote}{%
+\paragraph{Keynote}\label{keynote}}
+\end{reflect}
+
+\begin{wp}
+\hypertarget{invited-speaker}{%
+\paragraph{Invited Speaker}\label{invited-speaker}}
+\end{wp}
+
+\begin{secondary}
+\hypertarget{regular-session}{%
+\paragraph{Regular Session}\label{regular-session}}
+\end{secondary}
+\begin{gh}
+\hypertarget{social-session}{%
+\paragraph{Social Session}\label{social-session}}
+\end{gh}
+\begin{protip}
 \hypertarget{note}{%
 \paragraph*{✨ Note}\label{note}}
 \addcontentsline{toc}{paragraph}{✨ Note}
 
-Abstracts linked in with daily schedule
+\textbf{\emph{All times are in Eastern Time (Canada)}}
+\end{protip}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{welcome-desk-open-1030---1230-1}{%
+\section*{Welcome Desk Open (10:30 - 12:30)}\label{welcome-desk-open-1030---1230-1}}
+\addcontentsline{toc}{section}{Welcome Desk Open (10:30 - 12:30)}
+
+\hypertarget{conference-updates-keynote-1100---1230}{%
+\section*{Conference Updates \& Keynote (11:00 - 12:30)}\label{conference-updates-keynote-1100---1230}}
+\addcontentsline{toc}{section}{Conference Updates \& Keynote (11:00 - 12:30)}
+
+\begin{reflect}
+\hypertarget{hide-and-seek-on-kids-power-and-resistance-in-education}{%
+\paragraph{Hide and Seek: On Kids, Power, and Resistance in
+Education}\label{hide-and-seek-on-kids-power-and-resistance-in-education}}
+
+\emph{Sherri Spelic, American International School Vienna}
+\end{reflect}
+
+\hypertarget{break-1230---100-1}{%
+\section*{Break (12:30 - 1:00)}\label{break-1230---100-1}}
+\addcontentsline{toc}{section}{Break (12:30 - 1:00)}
+
+\hypertarget{parallel-session-5---invited-speakers-100-145}{%
+\section*{Parallel Session 5 - Invited Speakers (1:00 -- 1:45)}\label{parallel-session-5---invited-speakers-100-145}}
+\addcontentsline{toc}{section}{Parallel Session 5 - Invited Speakers (1:00 -- 1:45)}
+
+\hypertarget{parallel-session-5.1}{%
+\subsection*{Parallel Session 5.1}\label{parallel-session-5.1}}
+\addcontentsline{toc}{subsection}{Parallel Session 5.1}
+
+\begin{wp}
+\hypertarget{critical-approaches-to-researching-and-teaching-online}{%
+\paragraph{Critical approaches to researching and teaching
+online}\label{critical-approaches-to-researching-and-teaching-online}}
+
+\emph{Beyhan Farhadi, York University}
+\end{wp}
+
+\hypertarget{parallel-session-5.2}{%
+\subsection*{Parallel Session 5.2}\label{parallel-session-5.2}}
+\addcontentsline{toc}{subsection}{Parallel Session 5.2}
+
+\begin{wp}
+\hypertarget{shaping-the-new-normal-reflection-and-design-for-iterating-forward}{%
+\paragraph{Shaping `the new normal': Reflection and Design for Iterating
+Forward}\label{shaping-the-new-normal-reflection-and-design-for-iterating-forward}}
+
+\emph{Stephanie Moore, University of New Mexico}
+\end{wp}
+
+\hypertarget{break-145-215-1}{%
+\section*{Break (1:45 -- 2:15)}\label{break-145-215-1}}
+\addcontentsline{toc}{section}{Break (1:45 -- 2:15)}
+
+\hypertarget{parallel-session-6-215-345}{%
+\section*{Parallel Session 6 (2:15 -- 3:45)}\label{parallel-session-6-215-345}}
+\addcontentsline{toc}{section}{Parallel Session 6 (2:15 -- 3:45)}
+
+\hypertarget{parallel-session-6.1-sustaining-positive-change---k12-pse}{%
+\subsection*{Parallel Session 6.1 -- Sustaining Positive Change - K12 \& PSE}\label{parallel-session-6.1-sustaining-positive-change---k12-pse}}
+\addcontentsline{toc}{subsection}{Parallel Session 6.1 -- Sustaining Positive Change - K12 \& PSE}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:15-2:45}\label{section}}
+
+\textbf{Cloud computing in school: Teachers' feelings of comfort
+integrating Google Suite for Education in school contexts
+(Research-Oriented)}
+
+\emph{Vi Ly}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:45-3:45}\label{section}}
+
+\textbf{Global viewpoints on Open Educational Resources for Blended
+Learning (Research-Oriented)}
+
+\emph{Connie Blomgren (Athabasca University)}
+\end{secondary}
+
+\hypertarget{parallel-session-6.2}{%
+\subsection*{Parallel Session 6.2}\label{parallel-session-6.2}}
+\addcontentsline{toc}{subsection}{Parallel Session 6.2}
+
+\begin{secondary}
+\hypertarget{transitions-of-online-learning-and-teaching-pse}{%
+\paragraph{2:15-2:45 - Transitions of Online Learning and Teaching --
+PSE}\label{transitions-of-online-learning-and-teaching-pse}}
+
+\textbf{Favoriser l'alignement pédagogique lors d'une migration en
+formation à distance: Une Démarche SoTL (Practice-Oriented)}
+
+\emph{Marie-Michelle Gouin, Constance Denis, Nathalie Lefebvrem
+Stéphanie Lanctôt, Marilou Belisle (Université de Sherbrooke)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{sustaining-positive-change-pse-online}{%
+\paragraph{2:45-3:45 -- Sustaining Positive Change -- PSE
+Online}\label{sustaining-positive-change-pse-online}}
+
+\textbf{Sustaining Positive Change in the Teaching Scholars' Online
+Community of Practice (Research-Oriented)}
+
+\emph{Andrew Mardjetko, Michele Jacobsen, Beth Archer-Kuhn, Cari Din,
+Lorelli Nowell, Heather Jamniczky (University of Calgary)}
+\end{secondary}
+
+\hypertarget{parallel-session-6.3-transitions-of-online-learning-and-teaching-pse}{%
+\subsection*{Parallel Session 6.3 -- Transitions of Online Learning and Teaching -- PSE}\label{parallel-session-6.3-transitions-of-online-learning-and-teaching-pse}}
+\addcontentsline{toc}{subsection}{Parallel Session 6.3 -- Transitions of Online Learning and Teaching -- PSE}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:15-2:45}\label{section}}
+
+\textbf{Design Strategy Plus Pandemic Serendipity: Technology-Enhanced
+Entrepreneurship Education using Open Learning and Micro-credentials
+(Practice-Oriented)} \emph{Sonja Johnston, Michele Jacobsen (University
+of Calgary)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:45-3:45}\label{section}}
+
+\textbf{Adaptive Learning Uptake in Ontario's Post-secondary System:
+Factors Supporting Motivation, Implementation, and Readiness
+(Practice-Oriented)}
+
+\emph{Don Eldridge, Megan Houghton (eCampusOntario)}
+\end{secondary}
+
+\hypertarget{parallel-session-6.4}{%
+\subsection*{Parallel Session 6.4}\label{parallel-session-6.4}}
+\addcontentsline{toc}{subsection}{Parallel Session 6.4}
+
+\begin{secondary}
+\textbf{Teaching, learning, and assessment activities used in additional
+language courses in blended contexts in Quebec's higher education
+(Research-Oriented)}
+
+\emph{Paula Andrea Arancibia Erazo (Université de Sherbrooke)}
+\end{secondary}
+
+\begin{secondary}
+\textbf{Students Feel More Dignified'': Alternative Grading and
+Self-Assessment in Online Courses (Research-Oriented)}
+
+\emph{Sharon Lauricella (Ontario Tech University)}
+\end{secondary}
+
+\begin{secondary}
+\textbf{Student Motivation in Online Learning Based on Self
+Determination Theory: A Literature Review (Research-Oriented)}
+
+\emph{Behnoosh Khoramrooz, Valerie Irvine, Joan Martin (University of
+Victoria)}
+\end{secondary}
+
+\begin{secondary}
+\textbf{Assessment and Digital Technology in Higher Education: A Review
+of the Literature (Research-Oriented)}
+
+\emph{Colin Madland (University of Victoria)}
+\end{secondary}
+
+\hypertarget{parallel-session-6.5---wildcard-pse-open}{%
+\subsection*{Parallel Session 6.5 - WildCard -- PSE Open}\label{parallel-session-6.5---wildcard-pse-open}}
+\addcontentsline{toc}{subsection}{Parallel Session 6.5 - WildCard -- PSE Open}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:15-2:45}\label{section}}
+
+\textbf{Open Educational Resources as a Tool for Immersive EDI
+Professional Development (Research-Oriented)}
+
+\emph{Sara Humphreys, Loren Gaudet (University of Victoria)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:45-3:45}\label{section}}
+
+\textbf{Addressing the climate crisis through open pedagogy and
+practices: Affordances and challenges (Research-Oriented)}
+
+\emph{Leigh-Anne Perryman (The Open University UK)}
+\end{secondary}
+
+\hypertarget{break-345-400-1}{%
+\section*{Break (3:45 -- 4:00)}\label{break-345-400-1}}
+\addcontentsline{toc}{section}{Break (3:45 -- 4:00)}
+
+\hypertarget{social-session-400-430-1}{%
+\section*{Social Session (4:00 -- 4:30)}\label{social-session-400-430-1}}
+\addcontentsline{toc}{section}{Social Session (4:00 -- 4:30)}
+
+\begin{gh}
+\hypertarget{jon-dron-athabasca-university}{%
+\paragraph{Jon Dron, Athabasca
+University}\label{jon-dron-athabasca-university}}
+
+\textbf{Special Musical Guest}
+\end{gh}
+
+\hypertarget{parallel-session-7-430-530}{%
+\section*{Parallel Session 7 (4:30 -- 5:30)}\label{parallel-session-7-430-530}}
+\addcontentsline{toc}{section}{Parallel Session 7 (4:30 -- 5:30)}
+
+\hypertarget{parallel-session-7.1-addressing-the-new-inequities-online-ed}{%
+\subsection*{Parallel Session 7.1 -- Addressing the New Inequities: Online Ed}\label{parallel-session-7.1-addressing-the-new-inequities-online-ed}}
+\addcontentsline{toc}{subsection}{Parallel Session 7.1 -- Addressing the New Inequities: Online Ed}
+
+\begin{secondary}
+\textbf{Naamaktuq? A question of balancing professional learning needs
+of educators and online learning in Nunavut (Research-Oriented)}
+
+\emph{Lizzie Iblauk, Kathy Snow, Diane Montgomery (University of Prince
+Edward Island)}
+\end{secondary}
+
+\begin{secondary}
+\textbf{Parity of Participation and the Digital Divide
+(Practice-Oriented)}
+
+\emph{Tanya Elias, University of Calgary}
+\end{secondary}
+
+\hypertarget{parallel-session-7.2-addressing-new-inequitiessustaining-positive-change-pse-online-open}{%
+\subsection*{Parallel Session 7.2 -- Addressing New Inequities/Sustaining Positive Change: PSE Online \& Open}\label{parallel-session-7.2-addressing-new-inequitiessustaining-positive-change-pse-online-open}}
+\addcontentsline{toc}{subsection}{Parallel Session 7.2 -- Addressing New Inequities/Sustaining Positive Change: PSE Online \& Open}
+
+\begin{secondary}
+\textbf{From Study Abroad to Virtual Study Abroad: Decolonizing and
+Opening the Academy (Practice-Oriented)}
+
+\emph{Kristine Dreaver-Charles (University of Saskatchewan), Michael
+Cottrell (University of Saskatchewan)}
+\end{secondary}
+
+\begin{secondary}
+\textbf{Digital platforms and algorithmic erasure: What are the
+implications? (Practice-Oriented)}
+
+\emph{Colin Madland (University of Victoria)}
+\end{secondary}
+
+\hypertarget{parallel-session-7.3-sustaining-positive-change-pse}{%
+\subsection*{Parallel Session 7.3 -- Sustaining Positive Change: PSE}\label{parallel-session-7.3-sustaining-positive-change-pse}}
+\addcontentsline{toc}{subsection}{Parallel Session 7.3 -- Sustaining Positive Change: PSE}
+
+\begin{secondary}
+\textbf{Humanizing with Humility: The Challenge of Creating Caring,
+Compassionate, and Critical Educational Spaces in Higher Education
+(Practice-Oriented)}
+
+\emph{Sarah Driessens (Nipissing University), Michelann Parr (Nipissing
+University)}
+\end{secondary}
+
+\begin{secondary}
+\textbf{The Role of Technology in Fostering Communication and
+Collaboration in Post Secondary Face to Face Classrooms
+(Research-Oriented)}
+
+\emph{Melanie Opmeer (University of Calgary)}
+\end{secondary}
+
+\hypertarget{parallel-session-7.4-transitions-of-online-learning-and-teaching-pse-online}{%
+\subsection*{Parallel Session 7.4 -- Transitions of Online Learning and Teaching -- PSE Online}\label{parallel-session-7.4-transitions-of-online-learning-and-teaching-pse-online}}
+\addcontentsline{toc}{subsection}{Parallel Session 7.4 -- Transitions of Online Learning and Teaching -- PSE Online}
+
+\begin{secondary}
+\textbf{Turning to uncertainty for online learning (Practice-Oriented)}
+
+\emph{David Cormier, University of Windsor}
+\end{secondary}
+
+\hypertarget{parallel-session-7.5-transitions-of-online-learning-and-teaching-pse}{%
+\subsection*{Parallel Session 7.5 -- Transitions of Online Learning and Teaching: PSE}\label{parallel-session-7.5-transitions-of-online-learning-and-teaching-pse}}
+\addcontentsline{toc}{subsection}{Parallel Session 7.5 -- Transitions of Online Learning and Teaching: PSE}
+
+\begin{secondary}
+\textbf{Feedback Generation through Artificial Intelligence
+(Research-Oriented)}
+
+\emph{Okan Bulut, Tarid Wongvorachan (University of Alberta)}
+\end{secondary}
+
+\begin{secondary}
+\textbf{Perspectives and experiences of equity in the online domain
+during the pandemic: A multi-institutional study of Canadian
+Institutions (Research-Oriented)}
+
+\emph{Brad Wuetherick (University of British Columbia), Cherie Woolmer
+(Mount Royal University), Isabelle Barrette-Ng (University of Windsor),
+Patrick Maher (Nipissing University), Jill McSweeney-Flaherty (Dalhousie
+University), Laura Chittle (University of Windsor), Brett McCollum
+(Mount Royal University), Kaitlin Sibbald (Dalhousie University), Lori
+Tran (Mount Royal University), Heather Carroll (Nipissing University),
+Brittany McBride (Nipissing University), Charlotte Foster (Nipissing
+University), Kyle Scholz (University of Waterloo), Alise de Bie Das
+(McMaster University), Christopher Ostrowdun (University of Calgary)}
+\end{secondary}
+
+\hypertarget{break-530-600}{%
+\section*{Break (5:30 -- 6:00)}\label{break-530-600}}
+\addcontentsline{toc}{section}{Break (5:30 -- 6:00)}
+
+\hypertarget{parallel-session-8---invited-speakers-600-645}{%
+\section*{Parallel Session 8 - Invited Speakers (6:00 -- 6:45)}\label{parallel-session-8---invited-speakers-600-645}}
+\addcontentsline{toc}{section}{Parallel Session 8 - Invited Speakers (6:00 -- 6:45)}
+
+\hypertarget{parallel-session-8.1}{%
+\subsection*{Parallel Session 8.1}\label{parallel-session-8.1}}
+\addcontentsline{toc}{subsection}{Parallel Session 8.1}
+
+\begin{reflect}
+\hypertarget{learning-information-wants-to-be-free---open-access-publishing---challenges-and-successes}{%
+\paragraph{(learning) Information Wants to Be Free - Open Access
+Publishing - Challenges and
+Successes}\label{learning-information-wants-to-be-free---open-access-publishing---challenges-and-successes}}
+
+\emph{Terry Anderson, Athabasca University}
+\end{reflect}
+
+\hypertarget{parallel-session-8.2}{%
+\subsection*{Parallel Session 8.2}\label{parallel-session-8.2}}
+\addcontentsline{toc}{subsection}{Parallel Session 8.2}
+
+\begin{reflect}
+\hypertarget{exploring-the-inquiry-classroom}{%
+\paragraph{Exploring the Inquiry
+Classroom}\label{exploring-the-inquiry-classroom}}
+
+\emph{Trevor Mackenzie, Greater Victoria School District (\#61)}
+\end{reflect}
+
+\hypertarget{discussionnetworking-pods-645-700-1}{%
+\section*{Discussion/Networking Pods (6:45 -- 7:00)}\label{discussionnetworking-pods-645-700-1}}
+\addcontentsline{toc}{section}{Discussion/Networking Pods (6:45 -- 7:00)}
+
+\ldots or until the end of your conversation!
+
+\hypertarget{wedesday-may-18-2022}{%
+\chapter{Wedesday, May 18, 2022}\label{wedesday-may-18-2022}}
+
+\hypertarget{legend-2}{%
+\subsection*{Legend}\label{legend-2}}
+\addcontentsline{toc}{subsection}{Legend}
+
+\begin{reflect}
+\hypertarget{keynote}{%
+\paragraph{Keynote}\label{keynote}}
+\end{reflect}
+
+\begin{wp}
+\hypertarget{invited-speaker}{%
+\paragraph{Invited Speaker}\label{invited-speaker}}
+\end{wp}
+
+\begin{secondary}
+\hypertarget{regular-session}{%
+\paragraph{Regular Session}\label{regular-session}}
+\end{secondary}
+\begin{gh}
+\hypertarget{social-session}{%
+\paragraph{Social Session}\label{social-session}}
+\end{gh}
+
+\begin{protip}
+\hypertarget{note}{%
+\paragraph*{✨ Note}\label{note}}
+\addcontentsline{toc}{paragraph}{✨ Note}
+
+\textbf{\emph{All times are in Eastern Time (Canada)}}
+\end{protip}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{welcome-desk-open-1030---1230-2}{%
+\section*{Welcome Desk Open (10:30 - 12:30)}\label{welcome-desk-open-1030---1230-2}}
+\addcontentsline{toc}{section}{Welcome Desk Open (10:30 - 12:30)}
+
+\hypertarget{conference-updates-keynote-1100---1230-1}{%
+\section*{Conference Updates \& Keynote (11:00 - 12:30)}\label{conference-updates-keynote-1100---1230-1}}
+\addcontentsline{toc}{section}{Conference Updates \& Keynote (11:00 - 12:30)}
+
+\begin{reflect}
+\hypertarget{outside-in-openness-as-subversion}{%
+\paragraph{Outside-In: Openness as
+Subversion}\label{outside-in-openness-as-subversion}}
+
+\emph{Maha Bali, American University in Cairo}
+\end{reflect}
+
+\hypertarget{break-1230---100-2}{%
+\section*{Break (12:30 - 1:00)}\label{break-1230---100-2}}
+\addcontentsline{toc}{section}{Break (12:30 - 1:00)}
+
+\hypertarget{parallel-session-9---invited-speakers-100-145}{%
+\section*{Parallel Session 9 - Invited Speakers (1:00 -- 1:45)}\label{parallel-session-9---invited-speakers-100-145}}
+\addcontentsline{toc}{section}{Parallel Session 9 - Invited Speakers (1:00 -- 1:45)}
+
+\hypertarget{parallel-session-9.1}{%
+\subsection*{Parallel Session 9.1}\label{parallel-session-9.1}}
+\addcontentsline{toc}{subsection}{Parallel Session 9.1}
+
+\begin{wp}
+\hypertarget{embracing-feminist-pedagogies-in-learning-design}{%
+\paragraph{Embracing Feminist Pedagogies in Learning
+Design}\label{embracing-feminist-pedagogies-in-learning-design}}
+
+\emph{Enilda Romero-Hall, University of Tampa}
+\end{wp}
+
+\hypertarget{parallel-session-9.2}{%
+\subsection*{Parallel Session 9.2}\label{parallel-session-9.2}}
+\addcontentsline{toc}{subsection}{Parallel Session 9.2}
+
+\begin{wp}
+\hypertarget{using-wikimedia-as-a-teaching-tool-how-wikidata-can-support-indigenous-and-low-resource-languages-on-the-internet}{%
+\paragraph{Using Wikimedia as a Teaching Tool: How Wikidata can support
+Indigenous and low resource languages on the
+internet}\label{using-wikimedia-as-a-teaching-tool-how-wikidata-can-support-indigenous-and-low-resource-languages-on-the-internet}}
+
+\emph{Sadik Shahadu}
+\end{wp}
+
+\hypertarget{break-145-215-2}{%
+\section*{Break (1:45 -- 2:15)}\label{break-145-215-2}}
+\addcontentsline{toc}{section}{Break (1:45 -- 2:15)}
+
+\hypertarget{parallel-session-10-215-345}{%
+\section*{Parallel Session 10 (2:15 -- 3:45)}\label{parallel-session-10-215-345}}
+\addcontentsline{toc}{section}{Parallel Session 10 (2:15 -- 3:45)}
+
+\hypertarget{parallel-session-10.1-transitions-of-online-learning-and-teaching}{%
+\subsection*{Parallel Session 10.1 -- Transitions of Online Learning and Teaching}\label{parallel-session-10.1-transitions-of-online-learning-and-teaching}}
+\addcontentsline{toc}{subsection}{Parallel Session 10.1 -- Transitions of Online Learning and Teaching}
+
+\begin{secondary}
+\hypertarget{k12}{%
+\paragraph{2:15-2:45 -- K12}\label{k12}}
+
+\textbf{Flipped Learning in Grade 7 and 9 Mathematics
+(Research-Oriented)}
+
+\emph{Barb Brown, Nadia Delanoy, Mark Webster (University of Calgary)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{k12}{%
+\paragraph{2:45-3:15 -- K12}\label{k12}}
+
+\textbf{Using Teacher Presence to Engage Online Learners
+(Practice-Oriented)}
+
+\emph{Leanne Huston,} \emph{Rochelle Smith, Rhyanon Logan-Goyette
+(Langley School District \& University of Victoria)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{k12-pse-society}{%
+\paragraph{3:15-3:45 -- K12, PSE, Society}\label{k12-pse-society}}
+
+\textbf{Implementation of Education Technology in Canada: A Comparison
+with Korea, Finland and the EU (Research-Oriented)}
+
+\emph{Keith Rispin (West Vancouver School District \& University of
+Victoria), Valerie Irvine (University of Victoria)}
+\end{secondary}
+
+\hypertarget{parallel-session-10.2-transitions-of-online-learning-and-teaching-pse-online}{%
+\section*{Parallel Session 10.2 -- Transitions of Online Learning and Teaching: PSE Online}\label{parallel-session-10.2-transitions-of-online-learning-and-teaching-pse-online}}
+\addcontentsline{toc}{section}{Parallel Session 10.2 -- Transitions of Online Learning and Teaching: PSE Online}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:15-2:45}\label{section}}
+
+\textbf{Taking Experiential Learning Online During COVID-19
+(Research-Oriented)}
+
+\emph{Theodora Kapoyannis, Astrid Kendrick, Patricia Danyluk (University
+of Calgary)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:45-3:45}\label{section}}
+
+\textbf{What we do today will change what happens tomorrow -- Exploring
+university teaching during a pandemic to derive recommendations for
+post-pandemic times (Research-Oriented)}
+
+\emph{Joerdis Weilandt, Sandra Dixon, Richelle Marynowski, Lorraine
+Beaudin, Rumi Graham, Stavroula Malla, Angeliki Pantazi (University of
+Lethbridge)}
+\end{secondary}
+
+\hypertarget{parallel-session-10.3-addressing-the-new-inequities-pse}{%
+\subsection*{Parallel Session 10.3 -- Addressing the New Inequities: PSE}\label{parallel-session-10.3-addressing-the-new-inequities-pse}}
+\addcontentsline{toc}{subsection}{Parallel Session 10.3 -- Addressing the New Inequities: PSE}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:15-2:45}\label{section}}
+
+\textbf{Co-designing OER with Learners: A Replacement to Traditional
+College Level Assessments (Practice-Oriented)}
+
+\emph{Kimberlee Carter, Maria Camila Redondo Morant (Conestoga College)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:45-3:45}\label{section}}
+
+\textbf{A Critical Examination of Learner-Educator Co-Creation Within a
+Course (Practice-Oriented)}
+
+\emph{Laura Killam (Queens University), Jess Mitchell (Ontario College
+of Art and Design University)}
+\end{secondary}
+
+\hypertarget{parallel-session-10.4}{%
+\subsection*{Parallel Session 10.4}\label{parallel-session-10.4}}
+\addcontentsline{toc}{subsection}{Parallel Session 10.4}
+
+\begin{secondary}
+\hypertarget{wildcard-microlearningsociety}{%
+\paragraph{2:15-2:45 -- Wildcard:
+Microlearning/Society}\label{wildcard-microlearningsociety}}
+
+\textbf{The use of design-based research to design and evaluate an
+online microlearning intervention aiming to interrupt COVID-19 vaccine
+misinformation (Research-Oriented)}
+
+\emph{George Veletsianos (Royal Roads University), Shandell Houlden
+(Royal Roads University), Jaigris Hodson (Royal Roads University),
+Darren Reid (University College London), Christiani Thompson (University
+of Saskatchewan)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{transitions-of-online-learning-and-teaching-pse}{%
+\paragraph{2:45-3:15-- Transitions of Online Learning and Teaching:
+PSE}\label{transitions-of-online-learning-and-teaching-pse}}
+
+\textbf{Méthodes d'évaluation et technologies : vers des activités
+authentiques, dans un processus itératif en soutien aux apprentissages
+(Practice-Oriented)}
+
+\emph{Géraldine Heilporn (Université Laval), Audrey Raynault (Université
+Laval), Alice Mascarenhas (Université de Sherbrooke), Constance Denis
+(Université de Sherbrooke)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{transitions-of-online-learning-and-teaching-pse}{%
+\paragraph{2:45-3:15 -- Transitions of Online Learning and Teaching:
+PSE}\label{transitions-of-online-learning-and-teaching-pse}}
+
+\textbf{Quels nouveaux modèles d'affaires pour supporter les communautés
+de pratique en éducation? (Practice-Oriented)}
+
+\emph{Robert Grégoire, Jacques Cool, Olivier Alfieri (Réseau
+d'enseignement francophone à distance)}
+\end{secondary}
+
+\hypertarget{parallel-session-10.5}{%
+\subsection*{Parallel Session 10.5}\label{parallel-session-10.5}}
+\addcontentsline{toc}{subsection}{Parallel Session 10.5}
+
+\begin{secondary}
+\hypertarget{sustaining-positive-change-pse-online}{%
+\paragraph{2:15-2:45 -- Sustaining Positive Change -- PSE
+Online}\label{sustaining-positive-change-pse-online}}
+
+\textbf{Orlando: Broadening the Conversation on Women's Writing Through
+A Scholarly Podcast (Practice-Oriented)}
+
+\emph{Christie Hurrell, Karen Bourrier, Kathryn Holland, Jessica J Khuu
+(University of Calgary)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{addressing-the-new-inequities}{%
+\paragraph{2:45-3:45 -- Addressing the New
+Inequities}\label{addressing-the-new-inequities}}
+
+\textbf{A(nother) Guide for Resisting EdTech: The Case Against (or For?)
+Course Hero (Practice-Oriented)}
+
+\emph{Brenna Clarke Gray (Thompson Rivers University)}
+\end{secondary}
+
+\hypertarget{break-345-400-2}{%
+\section*{Break 3:45 -- 4:00}\label{break-345-400-2}}
+\addcontentsline{toc}{section}{Break 3:45 -- 4:00}
+
+\hypertarget{social-session-400-430-2}{%
+\section*{Social Session (4:00 -- 4:30)}\label{social-session-400-430-2}}
+\addcontentsline{toc}{section}{Social Session (4:00 -- 4:30)}
+
+\begin{gh}
+\hypertarget{kendra-coupland}{%
+\paragraph{Kendra Coupland}\label{kendra-coupland}}
+
+\textbf{Mindfulness Session}
+\end{gh}
+
+\hypertarget{parallel-session-11-430-530}{%
+\section*{Parallel Session 11 (4:30 -- 5:30)}\label{parallel-session-11-430-530}}
+\addcontentsline{toc}{section}{Parallel Session 11 (4:30 -- 5:30)}
+
+\hypertarget{parallel-session-11.1-transitions-of-online-learning-and-teaching-pse-open}{%
+\subsection*{Parallel Session 11.1 -- Transitions of Online Learning and Teaching: PSE Open}\label{parallel-session-11.1-transitions-of-online-learning-and-teaching-pse-open}}
+\addcontentsline{toc}{subsection}{Parallel Session 11.1 -- Transitions of Online Learning and Teaching: PSE Open}
+
+\begin{secondary}
+\hypertarget{multi-section-open-course-design-design-and-implications-for-faculty-sessional-instructors-and-learners-practice-oriented}{%
+\paragraph{Multi-Section Open Course Design: Design and Implications for
+Faculty, Sessional Instructors, and Learners
+(Practice-Oriented)}\label{multi-section-open-course-design-design-and-implications-for-faculty-sessional-instructors-and-learners-practice-oriented}}
+
+\emph{Valerie Irvine, Michael Paskevicius, Colin Madland, Rich McCue,
+Verena Roberts (University of Victoria)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{parallel-session-11.2-transitions-of-online-learning-and-teaching-k12-online}{%
+\paragraph{Parallel Session 11.2 -- Transitions of Online Learning and
+Teaching: K12
+Online}\label{parallel-session-11.2-transitions-of-online-learning-and-teaching-k12-online}}
+
+\textbf{Nonverbal Communication (NVC) and teacher presence in
+collaborative online learning in primary school (Research-Oriented)}
+
+\emph{Ayşegül Liman Kaban (Bahcesehir University)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{integration-of-technology-with-udl-and-rti-in-inclusive-classrooms-research-oriented}{%
+\paragraph{Integration of Technology with UDL and RTI in Inclusive
+Classrooms
+(Research-Oriented)}\label{integration-of-technology-with-udl-and-rti-in-inclusive-classrooms-research-oriented}}
+
+\emph{Diane Montgomery (University of Prince Edward Island)}
+\end{secondary}
+\begin{secondary}
+\hypertarget{creating-a-socially-inclusive-learning-environment-through-mobile-technologies-for-students-with-autism-spectrum-disorders-research-oriented}{%
+\paragraph{Creating a Socially Inclusive Learning Environment Through
+Mobile Technologies for Students with Autism Spectrum Disorders
+(Research-Oriented)}\label{creating-a-socially-inclusive-learning-environment-through-mobile-technologies-for-students-with-autism-spectrum-disorders-research-oriented}}
+
+\emph{Rahim Pira (University of Calgary)}
+\end{secondary}
+
+\hypertarget{parallel-session-11.3-transitions-of-online-learning-and-teaching-pse-assessment}{%
+\subsection*{Parallel Session 11.3 -- Transitions of Online Learning and Teaching -- PSE Assessment}\label{parallel-session-11.3-transitions-of-online-learning-and-teaching-pse-assessment}}
+\addcontentsline{toc}{subsection}{Parallel Session 11.3 -- Transitions of Online Learning and Teaching -- PSE Assessment}
+
+\begin{secondary}
+\hypertarget{no-need-to-cheat-every-reason-to-succeed-the-benefits-of-alternative-authentic-assessments-in-online-english-literature-courses-research-oriented}{%
+\paragraph{No Need to Cheat, Every Reason to Succeed: The Benefits of
+Alternative, Authentic Assessments in Online English Literature Courses
+(Research-Oriented)}\label{no-need-to-cheat-every-reason-to-succeed-the-benefits-of-alternative-authentic-assessments-in-online-english-literature-courses-research-oriented}}
+
+\emph{Shannon Lodoen, University of Waterloo}
+\end{secondary}
+
+\hypertarget{parallel-session-11.4-sustaining-positive-change---ethics}{%
+\subsection*{Parallel Session 11.4 -- Sustaining Positive Change - Ethics}\label{parallel-session-11.4-sustaining-positive-change---ethics}}
+\addcontentsline{toc}{subsection}{Parallel Session 11.4 -- Sustaining Positive Change - Ethics}
+
+\begin{secondary}
+\hypertarget{applying-trauma-informed-design-to-online-and-face-to-face-teaching-and-learning-research-oriented}{%
+\paragraph{Applying Trauma-informed Design to Online and Face-to-Face
+Teaching and Learning
+(Research-Oriented)}\label{applying-trauma-informed-design-to-online-and-face-to-face-teaching-and-learning-research-oriented}}
+
+\emph{Suzanne Reinhardt (Simon Fraser University)}
+\end{secondary}
+
+\hypertarget{parallel-session-11.5-transitions-of-online-learning-and-teaching---pse}{%
+\subsection*{Parallel Session 11.5 -- Transitions of Online Learning and Teaching - PSE}\label{parallel-session-11.5-transitions-of-online-learning-and-teaching---pse}}
+\addcontentsline{toc}{subsection}{Parallel Session 11.5 -- Transitions of Online Learning and Teaching - PSE}
+
+\begin{secondary}
+\hypertarget{the-samr-model-as-a-framework-for-scaffolding-online-chat-research-oriented}{%
+\paragraph{The SAMR Model as a Framework for Scaffolding Online Chat
+(Research-Oriented)}\label{the-samr-model-as-a-framework-for-scaffolding-online-chat-research-oriented}}
+
+\emph{Janine Aldous Arantes}
+\end{secondary}
+
+\hypertarget{break-530-600-1}{%
+\section*{Break (5:30 -- 6:00)}\label{break-530-600-1}}
+\addcontentsline{toc}{section}{Break (5:30 -- 6:00)}
+
+\hypertarget{parallel-session-12---invited-speakers-600-645}{%
+\section*{Parallel Session 12 - Invited Speakers (6:00 -- 6:45)}\label{parallel-session-12---invited-speakers-600-645}}
+\addcontentsline{toc}{section}{Parallel Session 12 - Invited Speakers (6:00 -- 6:45)}
+
+\hypertarget{parallel-session-12.1}{%
+\subsection*{Parallel Session 12.1}\label{parallel-session-12.1}}
+\addcontentsline{toc}{subsection}{Parallel Session 12.1}
+
+\begin{wp}
+\hypertarget{online-learning-and-the-disruption-of-teaching-and-learning}{%
+\paragraph{Online Learning and the Disruption of Teaching and
+Learning}\label{online-learning-and-the-disruption-of-teaching-and-learning}}
+
+\emph{Tony Bates}, Chang School of Continuing Education (Ryerson
+University) and Contact North*
+\end{wp}
+
+\hypertarget{parallel-session-12.2}{%
+\subsection*{Parallel Session 12.2}\label{parallel-session-12.2}}
+\addcontentsline{toc}{subsection}{Parallel Session 12.2}
+
+\begin{wp}
+\hypertarget{indigenous-representation-in-the-academy-and-beyond}{%
+\paragraph{Indigenous Representation in the Academy and
+Beyond}\label{indigenous-representation-in-the-academy-and-beyond}}
+
+\emph{Lyn Trudeau, Brock University}
+\end{wp}
+
+\hypertarget{discussionnetworking-pods-645-700-2}{%
+\section*{Discussion/Networking Pods (6:45 -- 7:00)}\label{discussionnetworking-pods-645-700-2}}
+\addcontentsline{toc}{section}{Discussion/Networking Pods (6:45 -- 7:00)}
+
+\ldots or till end of convo
+
+\hypertarget{thursday-may-19-2022}{%
+\chapter{Thursday, May 19, 2022}\label{thursday-may-19-2022}}
+
+\hypertarget{legend-3}{%
+\subsection*{Legend}\label{legend-3}}
+\addcontentsline{toc}{subsection}{Legend}
+
+\begin{reflect}
+\hypertarget{keynote}{%
+\paragraph{Keynote}\label{keynote}}
+\end{reflect}
+
+\begin{wp}
+\hypertarget{invited-speaker}{%
+\paragraph{Invited Speaker}\label{invited-speaker}}
+\end{wp}
+
+\begin{secondary}
+\hypertarget{regular-session}{%
+\paragraph{Regular Session}\label{regular-session}}
+\end{secondary}
+\begin{gh}
+\hypertarget{social-session}{%
+\paragraph{Social Session}\label{social-session}}
+\end{gh}
+
+\begin{protip}
+\hypertarget{note}{%
+\paragraph*{✨ Note}\label{note}}
+\addcontentsline{toc}{paragraph}{✨ Note}
+
+\textbf{\emph{All times are in Eastern Time (Canada)}}
+\end{protip}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{welcome-desk-open-1030---1230-3}{%
+\section*{Welcome Desk Open (10:30 - 12:30)}\label{welcome-desk-open-1030---1230-3}}
+\addcontentsline{toc}{section}{Welcome Desk Open (10:30 - 12:30)}
+
+\hypertarget{conference-updates-keynote-1100---1230-2}{%
+\section*{Conference Updates \& Keynote (11:00 - 12:30)}\label{conference-updates-keynote-1100---1230-2}}
+\addcontentsline{toc}{section}{Conference Updates \& Keynote (11:00 - 12:30)}
+
+\begin{reflect}
+\hypertarget{things-unsaid-exploring-the-margins-and-limits-of-open}{%
+\paragraph{Things Unsaid: Exploring the Margins and Limits of
+Open}\label{things-unsaid-exploring-the-margins-and-limits-of-open}}
+
+\emph{Brenna Clarke Gray, Thompson Rivers University}
+\end{reflect}
+
+\hypertarget{break-1230---100-3}{%
+\section*{Break (12:30 - 1:00)}\label{break-1230---100-3}}
+\addcontentsline{toc}{section}{Break (12:30 - 1:00)}
+
+\hypertarget{parallel-session-13---invited-speakers-100-145}{%
+\section*{Parallel Session 13 - Invited Speakers (1:00 -- 1:45)}\label{parallel-session-13---invited-speakers-100-145}}
+\addcontentsline{toc}{section}{Parallel Session 13 - Invited Speakers (1:00 -- 1:45)}
+
+\hypertarget{parallel-session-13.1}{%
+\subsection*{Parallel Session 13.1}\label{parallel-session-13.1}}
+\addcontentsline{toc}{subsection}{Parallel Session 13.1}
+
+\begin{wp}
+\hypertarget{digital-inequalities-in-education-by-design}{%
+\paragraph{Digital Inequalities in Education by
+Design}\label{digital-inequalities-in-education-by-design}}
+
+\emph{Simon Collin, Université du Québec à Montréal}
+\end{wp}
+
+\hypertarget{parallel-session-13.2}{%
+\subsection*{Parallel Session 13.2}\label{parallel-session-13.2}}
+\addcontentsline{toc}{subsection}{Parallel Session 13.2}
+
+\begin{wp}
+\hypertarget{the-ripple-effect-reflecting-upon-and-developing-an-open-learning-identity-through-the-pandemic-and-beyond}{%
+\paragraph{The Ripple Effect: Reflecting Upon and Developing an Open
+Learning Identity Through the Pandemic and
+Beyond}\label{the-ripple-effect-reflecting-upon-and-developing-an-open-learning-identity-through-the-pandemic-and-beyond}}
+
+\emph{Verena Roberts, Thompson Rivers University}
+\end{wp}
+
+\hypertarget{break-145-215-3}{%
+\section*{Break (1:45 -- 2:15)}\label{break-145-215-3}}
+\addcontentsline{toc}{section}{Break (1:45 -- 2:15)}
+
+\hypertarget{parallel-session-14-215-345}{%
+\section*{Parallel Session 14 (2:15 -- 3:45)}\label{parallel-session-14-215-345}}
+\addcontentsline{toc}{section}{Parallel Session 14 (2:15 -- 3:45)}
+
+\hypertarget{parallel-session-14.1-transitions-of-online-learning-and-teaching-pse}{%
+\subsection*{Parallel Session 14.1 -- Transitions of Online Learning and Teaching: PSE}\label{parallel-session-14.1-transitions-of-online-learning-and-teaching-pse}}
+\addcontentsline{toc}{subsection}{Parallel Session 14.1 -- Transitions of Online Learning and Teaching: PSE}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:15-2:45}\label{section}}
+
+\textbf{Évolution de pratiques pédagogiques inclusives au collégial en
+contexte pandémique (Research-Oriented)}
+
+\emph{Géraldine Heilporn (Université Laval), Simon Larose (Université
+Laval), Catherine Beaulieu (Cégep de Saint-Laurent, Montréal, Québec)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:45-3:45}\label{section}}
+
+\textbf{Aspirations for post pandemic teaching and learning: Stepping
+stones for future possibilities} \emph{Lisa Gedak (Royal Roads
+University \& Kwantlen Polytechnic University)}
+\end{secondary}
+
+\hypertarget{parallel-session-14.2-sustaining-positive-change-k12-online}{%
+\subsection*{Parallel Session 14.2 -- Sustaining Positive Change: K12 Online}\label{parallel-session-14.2-sustaining-positive-change-k12-online}}
+\addcontentsline{toc}{subsection}{Parallel Session 14.2 -- Sustaining Positive Change: K12 Online}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:15-2:45}\label{section}}
+
+\textbf{Project MIXITÉ: Towards a Numér-ACTIF process of the
+intervention plan promoting the active participation of the student, his
+parents, and interprofessional collaborative practices
+(Practice-Oriented)}
+
+\emph{Audrey Raynault}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:45-3:45}\label{section}}
+
+\textbf{Professional Learning and Online Tutoring}
+
+\emph{Michael Canuel (LearnQuebec)}
+\end{secondary}
+
+\hypertarget{parallel-session-14.3-transitions-of-online-learning-and-teaching-community}{%
+\subsection*{Parallel Session 14.3 -- Transitions of Online Learning and Teaching: Community}\label{parallel-session-14.3-transitions-of-online-learning-and-teaching-community}}
+\addcontentsline{toc}{subsection}{Parallel Session 14.3 -- Transitions of Online Learning and Teaching: Community}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:15-2:45}\label{section}}
+
+\textbf{How Digital Technologies Shapes Pedagogical Practices in Virtual
+Chinese Language Classroom (Research-Oriented)}
+
+\emph{Yina Liu (University of Alberta), Jing Jin (University of
+Alberta)}
+\end{secondary}
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:45-3:45}\label{section}}
+
+\textbf{Indigenizing Internationalization and Internationalizing
+Indigenization: Insights from a Virtual Study Abroad to Ireland,
+Jamaica, and Aotearoa/New Zealand (Research-Oriented)}
+
+\emph{Michael Cottrell, Kristine Dreaver-Charles (University of
+Saskatchewan)}
+\end{secondary}
+
+\hypertarget{parallel-session-14.4-sustaining-positive-change-open}{%
+\subsection*{Parallel Session 14.4 -- Sustaining Positive Change: Open}\label{parallel-session-14.4-sustaining-positive-change-open}}
+\addcontentsline{toc}{subsection}{Parallel Session 14.4 -- Sustaining Positive Change: Open}
+
+\begin{secondary}
+\hypertarget{provocations-and-perspectives-a-work-in-progress-learning-design-framework-practice-oriented}{%
+\paragraph{Provocations and Perspectives: A Work in Progress Learning
+Design Framework
+(Practice-Oriented)}\label{provocations-and-perspectives-a-work-in-progress-learning-design-framework-practice-oriented}}
+
+\emph{Michael Paskevicius (University of Victoria)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{open-learning-design-principles-practices-practice-oriented}{%
+\paragraph{Open Learning Design: Principles \& Practices
+(Practice-Oriented)}\label{open-learning-design-principles-practices-practice-oriented}}
+
+\emph{Verena Roberts (University of Calgary \& Thompson Rivers
+University), Leo Havemann (University College London), Helen Dewaard
+(Lakehead University \& University of British Columbia)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{how-faculty-perceptions-of-and-experiences-with-open-access-and-predatory-publications-impact-teaching-and-learning-research-oriented}{%
+\paragraph{How faculty perceptions of and experiences with open access
+and predatory publications impact teaching and learning
+(Research-Oriented)}\label{how-faculty-perceptions-of-and-experiences-with-open-access-and-predatory-publications-impact-teaching-and-learning-research-oriented}}
+
+\emph{Richard Hayman (Mount Royal University)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{conestoga-oer-teaching-case-journal-creating-a-peer-reviewed-openly-licensed-and-accessible-teaching-case-journal-at-conestoga-college-practice-oriented}{%
+\paragraph{Conestoga OER Teaching Case Journal: Creating a
+peer-reviewed, openly licensed, and accessible teaching case journal at
+Conestoga College
+(Practice-Oriented)}\label{conestoga-oer-teaching-case-journal-creating-a-peer-reviewed-openly-licensed-and-accessible-teaching-case-journal-at-conestoga-college-practice-oriented}}
+
+\emph{Kevin McDermott, Jane Gravill, Fatih Yegal, Kimberlee Carter
+(Conestoga College)}
+\end{secondary}
+
+\hypertarget{parallel-session-14.5-wildcard-open}{%
+\subsection*{Parallel Session 14.5 -- Wildcard: Open}\label{parallel-session-14.5-wildcard-open}}
+\addcontentsline{toc}{subsection}{Parallel Session 14.5 -- Wildcard: Open}
+
+\hypertarget{wildcard-10-min-alt-format}{%
+\subsubsection*{\texorpdfstring{2:15-2:45: \emph{Wildcard: 10-min ALT Format}}{2:15-2:45: Wildcard: 10-min ALT Format}}\label{wildcard-10-min-alt-format}}
+\addcontentsline{toc}{subsubsection}{2:15-2:45: \emph{Wildcard: 10-min ALT Format}}
+
+\begin{secondary}
+\hypertarget{fostering-resiliency-in-online-learners-a-blended-test-anxiety-intervention}{%
+\paragraph{Fostering Resiliency in Online Learners: A Blended Test
+Anxiety
+Intervention}\label{fostering-resiliency-in-online-learners-a-blended-test-anxiety-intervention}}
+
+\emph{Jacqueline Yu}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{the-liberated-learner-how-to-learn-with-style}{%
+\paragraph{The Liberated Learner: How to Learn with
+Style}\label{the-liberated-learner-how-to-learn-with-style}}
+
+\emph{Terry Greene (Trent University), Giulia Forsythe (Brock
+University)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{the-role-of-inquiry-based-information-literacy-curriculum-design-in-fostering-self-efficacy-in-the-digital-learning-environment}{%
+\paragraph{The role of inquiry-based information literacy curriculum
+design in fostering self-efficacy in the digital learning
+environment}\label{the-role-of-inquiry-based-information-literacy-curriculum-design-in-fostering-self-efficacy-in-the-digital-learning-environment}}
+
+\emph{Marta Samokishyn (Saint Paul University)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{section}{%
+\paragraph{2:45-3:45}\label{section}}
+
+\textbf{Learning In the Open: The Journey of Creating and Implementing
+Open Web-Based Portfolio Templates (Practice-Oriented)}
+
+\emph{Melanie Laurie (Fraser Health), Jamie Drozda (Thompson Rivers
+University)}
+\end{secondary}
+
+\hypertarget{break-345-400-3}{%
+\section*{Break (3:45 -- 4:00)}\label{break-345-400-3}}
+\addcontentsline{toc}{section}{Break (3:45 -- 4:00)}
+
+\hypertarget{social-session-400-430-3}{%
+\section*{Social Session (4:00 -- 4:30)}\label{social-session-400-430-3}}
+\addcontentsline{toc}{section}{Social Session (4:00 -- 4:30)}
+
+\begin{gh}
+\hypertarget{dr-jones-dj}{%
+\paragraph{Dr Jones (DJ)}\label{dr-jones-dj}}
+
+\emph{Beats}
+\end{gh}
+
+\hypertarget{parallel-session-15-430-530}{%
+\section*{Parallel Session 15 (4:30 -- 5:30)}\label{parallel-session-15-430-530}}
+\addcontentsline{toc}{section}{Parallel Session 15 (4:30 -- 5:30)}
+
+\hypertarget{parallel-session-15.1-sustaining-positive-change-pse-online-teacher-education}{%
+\subsection*{Parallel Session 15.1 -- Sustaining Positive Change: PSE Online Teacher Education}\label{parallel-session-15.1-sustaining-positive-change-pse-online-teacher-education}}
+\addcontentsline{toc}{subsection}{Parallel Session 15.1 -- Sustaining Positive Change: PSE Online Teacher Education}
+
+\begin{secondary}
+\hypertarget{practicum-during-the-pandemic-zooming-in-practice-oriented}{%
+\paragraph{Practicum During the Pandemic: Zooming In
+(Practice-Oriented)}\label{practicum-during-the-pandemic-zooming-in-practice-oriented}}
+
+\emph{Christine Ho Younghusband (University of Northern British
+Columbia)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{equipping-pre-service-teacher-candidates-for-a-post-pandemic-reality-building-e-pedagogy-skills-and-connecting-theory-to-praxis-practice-oriented}{%
+\paragraph{Equipping Pre-Service Teacher Candidates for a Post-Pandemic
+Reality: Building e-Pedagogy Skills and Connecting Theory to Praxis
+(Practice-Oriented)}\label{equipping-pre-service-teacher-candidates-for-a-post-pandemic-reality-building-e-pedagogy-skills-and-connecting-theory-to-praxis-practice-oriented}}
+
+\emph{Karen Roeck (Heritage Christian Online School), Nina Pak Lui
+(Trinity Western University)}
+\end{secondary}
+
+\hypertarget{parallel-session-15.2-sustaining-positive-change-pse-graduate-ed}{%
+\subsection*{Parallel Session 15.2 -- Sustaining Positive Change: PSE Graduate Ed}\label{parallel-session-15.2-sustaining-positive-change-pse-graduate-ed}}
+\addcontentsline{toc}{subsection}{Parallel Session 15.2 -- Sustaining Positive Change: PSE Graduate Ed}
+
+\begin{secondary}
+\hypertarget{graduate-supervision-webinar-series-open-online-and-transdisciplinary-faculty-development-research-oriented}{%
+\paragraph{Graduate Supervision Webinar Series: Open, Online, and
+Transdisciplinary Faculty Development
+(Research-Oriented)}\label{graduate-supervision-webinar-series-open-online-and-transdisciplinary-faculty-development-research-oriented}}
+
+\emph{Michele Jacobsen (University of Calgary)}
+\end{secondary}
+
+\hypertarget{parallel-session-15.3---wildcard-pse-online}{%
+\subsection*{Parallel Session 15.3 - Wildcard: PSE Online}\label{parallel-session-15.3---wildcard-pse-online}}
+\addcontentsline{toc}{subsection}{Parallel Session 15.3 - Wildcard: PSE Online}
+
+\begin{secondary}
+\hypertarget{from-crime-scene-to-the-laboratory-travel-csi-style}{%
+\paragraph{From Crime Scene to the Laboratory: Travel CSI
+style!}\label{from-crime-scene-to-the-laboratory-travel-csi-style}}
+
+\emph{Sanela Martic, Stephanie Ferguson, James Bailey (Trent
+University)}
+\end{secondary}
+
+\hypertarget{parallel-session-15.4-transitions-of-online-learning-and-teaching-open}{%
+\subsection*{Parallel Session 15.4 -- Transitions of Online Learning and Teaching -- Open}\label{parallel-session-15.4-transitions-of-online-learning-and-teaching-open}}
+\addcontentsline{toc}{subsection}{Parallel Session 15.4 -- Transitions of Online Learning and Teaching -- Open}
+
+\begin{secondary}
+\hypertarget{lessons-from-the-pandemic-how-did-a-terrible-online-course-make-a-better-textbook-practice-oriented}{%
+\paragraph{Lessons from the Pandemic: How did a terrible online course
+make a better textbook?
+(Practice-Oriented)}\label{lessons-from-the-pandemic-how-did-a-terrible-online-course-make-a-better-textbook-practice-oriented}}
+
+\emph{Rebekah Bennetch (University of Saskatchewan), Zach Keesey}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{show-me-your-crystal-ball-an-environmental-scan-for-usefulness-practice-oriented}{%
+\paragraph{Show Me Your Crystal Ball: An Environmental Scan for
+Usefulness
+(Practice-Oriented)}\label{show-me-your-crystal-ball-an-environmental-scan-for-usefulness-practice-oriented}}
+
+\emph{Jenni Hayman (Cambrian College)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{opening-a-seminal-work-for-the-next-century-practice-oriented}{%
+\paragraph{Opening a Seminal Work for the Next Century
+(Practice-Oriented)}\label{opening-a-seminal-work-for-the-next-century-practice-oriented}}
+
+\emph{Kristine Dreaver-Charles, Monique Mayer (University of
+Saskatchewan)}
+\end{secondary}
+
+\hypertarget{parallel-session-15.5}{%
+\section*{Parallel Session 15.5}\label{parallel-session-15.5}}
+\addcontentsline{toc}{section}{Parallel Session 15.5}
+
+\begin{secondary}
+\hypertarget{sustaining-positive-change---pse}{%
+\paragraph{4:30-5:00 -- Sustaining Positive Change -
+PSE}\label{sustaining-positive-change---pse}}
+
+\textbf{Investigating the Conversational Framework as a design approach
+(Research-Oriented)}
+
+\emph{Maryam Shirdel Pour, Michael Paskevicius (University of Victoria)}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{addressing-the-new-inequities---pse}{%
+\paragraph{5:00-5:30 -- Addressing the New Inequities -
+PSE}\label{addressing-the-new-inequities---pse}}
+
+\textbf{Defining Diversity in the Development of a Health Education
+Media Library (Practice-Oriented)}
+
+\emph{Danielle Dilkes (University of Western Ontario)}
+\end{secondary}
+
+\hypertarget{break-530-600-2}{%
+\section*{Break( 5:30 -- 6:00)}\label{break-530-600-2}}
+\addcontentsline{toc}{section}{Break( 5:30 -- 6:00)}
+
+\hypertarget{tresdancing---invited-speakers-600-645}{%
+\section*{\#tresdancing - Invited Speakers (6:00 -- 6:45)}\label{tresdancing---invited-speakers-600-645}}
+\addcontentsline{toc}{section}{\#tresdancing - Invited Speakers (6:00 -- 6:45)}
+
+\begin{wp}
+\hypertarget{short-film-screening-and-qa-with-filmmakers}{%
+\paragraph{Short Film Screening and Q\&A with
+Filmmakers}\label{short-film-screening-and-qa-with-filmmakers}}
+
+\emph{sava saheli singh, University of Ottawa (co-producer)}\\
+\emph{Tim Maughan (script writer)}\\
+\emph{Hingman Leung (director)}\\
+\emph{Lesley Marshall (co-producer)}
+\end{wp}
+
+\hypertarget{closing-comments---conference-co-chairs-introducing-workshops-unconference-645-655}{%
+\section*{Closing Comments - Conference Co-Chairs / Introducing Workshops \& Unconference (6:45 -- 6:55)}\label{closing-comments---conference-co-chairs-introducing-workshops-unconference-645-655}}
+\addcontentsline{toc}{section}{Closing Comments - Conference Co-Chairs / Introducing Workshops \& Unconference (6:45 -- 6:55)}
+
+\hypertarget{discussionnetworking-pods-655}{%
+\section*{Discussion/Networking Pods 6:55 -- ♾️}\label{discussionnetworking-pods-655}}
+\addcontentsline{toc}{section}{Discussion/Networking Pods 6:55 -- ♾️}
+
+\hypertarget{friday-may-20-2022}{%
+\chapter{Friday, May 20, 2022}\label{friday-may-20-2022}}
+
+\hypertarget{legend-4}{%
+\subsection*{Legend}\label{legend-4}}
+\addcontentsline{toc}{subsection}{Legend}
+
+\begin{reflect}
+\hypertarget{keynote}{%
+\paragraph{Keynote}\label{keynote}}
+\end{reflect}
+
+\begin{wp}
+\hypertarget{invited-speaker}{%
+\paragraph{Invited Speaker}\label{invited-speaker}}
+\end{wp}
+
+\begin{secondary}
+\hypertarget{regular-session}{%
+\paragraph{Regular Session}\label{regular-session}}
+\end{secondary}
+
+\begin{gh}
+\hypertarget{social-session}{%
+\paragraph{Social Session}\label{social-session}}
+\end{gh}
+
+\begin{protip}
+\hypertarget{note}{%
+\paragraph*{✨ Note}\label{note}}
+\addcontentsline{toc}{paragraph}{✨ Note}
+
+\textbf{\emph{All times are in Eastern Time (Canada)}}
+\end{protip}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{welcome-desk-open-1030---1230-4}{%
+\section*{Welcome Desk Open (10:30 - 12:30)}\label{welcome-desk-open-1030---1230-4}}
+\addcontentsline{toc}{section}{Welcome Desk Open (10:30 - 12:30)}
+
+\hypertarget{conference-updates-keynote-1100---1230-3}{%
+\section*{Conference Updates \& Keynote (11:00 - 12:30)}\label{conference-updates-keynote-1100---1230-3}}
+\addcontentsline{toc}{section}{Conference Updates \& Keynote (11:00 - 12:30)}
+
+\hypertarget{parallel-session-16---workshops-1130---1230}{%
+\section*{Parallel Session 16 - Workshops (11:30 - 12:30)}\label{parallel-session-16---workshops-1130---1230}}
+\addcontentsline{toc}{section}{Parallel Session 16 - Workshops (11:30 - 12:30)}
+
+\hypertarget{parallel-session-16.1}{%
+\subsection*{Parallel Session 16.1}\label{parallel-session-16.1}}
+\addcontentsline{toc}{subsection}{Parallel Session 16.1}
+
+\begin{todo}
+\hypertarget{design-based-research}{%
+\paragraph{Design-Based Research''}\label{design-based-research}}
+
+\emph{Michele Jacobsen, University of Calgary}
 \end{todo}
 
-  \bibliography{book.bib}
+\hypertarget{parallel-session-16.2}{%
+\subsection*{Parallel Session 16.2}\label{parallel-session-16.2}}
+\addcontentsline{toc}{subsection}{Parallel Session 16.2}
+
+\begin{todo}
+\hypertarget{open-education-title-forthcoming}{%
+\paragraph{``Open Education -- Title
+Forthcoming''}\label{open-education-title-forthcoming}}
+
+\emph{Leo Havemann, University College London}
+\end{todo}
+
+\hypertarget{parallel-session-16.3}{%
+\subsection*{Parallel Session 16.3}\label{parallel-session-16.3}}
+\addcontentsline{toc}{subsection}{Parallel Session 16.3}
+
+\begin{todo}
+\hypertarget{decolonisation-of-learning-spaces-its-not-about-knowing-more-but-knowing-better}{%
+\paragraph{Decolonisation of learning spaces: It's not about knowing
+more but knowing
+better}\label{decolonisation-of-learning-spaces-its-not-about-knowing-more-but-knowing-better}}
+
+\emph{Marguerite Koole (University of Saskatchewan), John Traxler
+(UNESCO, Wolverhampton University), Shri Footring (Independent
+Researcher)}
+\end{todo}
+
+\hypertarget{parallel-session-16.4}{%
+\subsection*{Parallel Session 16.4}\label{parallel-session-16.4}}
+\addcontentsline{toc}{subsection}{Parallel Session 16.4}
+
+\begin{todo}
+\hypertarget{introduction-to-pressbooks}{%
+\paragraph{Introduction to
+Pressbooks}\label{introduction-to-pressbooks}}
+
+\emph{Verena Roberts, Barbara Brown (University of Calgary)}
+\end{todo}
+
+\hypertarget{break-1230-1245}{%
+\section*{Break (12:30 -- 12:45)}\label{break-1230-1245}}
+\addcontentsline{toc}{section}{Break (12:30 -- 12:45)}
+
+\hypertarget{unconference-session-aka-edcamp-1245-145}{%
+\section{Unconference Session (aka: EdCamp) (12:45 -- 1:45)}\label{unconference-session-aka-edcamp-1245-145}}
+
+\hypertarget{break-145-215-4}{%
+\section*{Break (1:45 -- 2:15)}\label{break-145-215-4}}
+\addcontentsline{toc}{section}{Break (1:45 -- 2:15)}
+
+\hypertarget{parallel-session-17-215-415}{%
+\section*{Parallel Session 17 (2:15 -- 4:15)}\label{parallel-session-17-215-415}}
+\addcontentsline{toc}{section}{Parallel Session 17 (2:15 -- 4:15)}
+
+\hypertarget{parallel-session-17.1-215-415}{%
+\subsection*{Parallel Session 17.1 (2:15-4:15)}\label{parallel-session-17.1-215-415}}
+\addcontentsline{toc}{subsection}{Parallel Session 17.1 (2:15-4:15)}
+
+\begin{todo}
+\hypertarget{analyzing-and-visualizing-survey-questions-using-open-source-software}{%
+\paragraph{Analyzing and Visualizing Survey Questions Using Open-Source
+Software}\label{analyzing-and-visualizing-survey-questions-using-open-source-software}}
+
+\emph{Okan Bulut, University of Alberta}
+\end{todo}
+
+\hypertarget{parallel-session-17.2}{%
+\subsection*{Parallel Session 17.2}\label{parallel-session-17.2}}
+\addcontentsline{toc}{subsection}{Parallel Session 17.2}
+
+\begin{todo}
+\hypertarget{section}{%
+\paragraph{2:15-3:15}\label{section}}
+
+\textbf{Stories of Learning \& Teaching Online Together: Digital
+Literacy Basic Skills with Indigenous Students in Remote Communities}
+
+\emph{Suzanne Jolly}
+\end{todo}
+\begin{todo}
+\hypertarget{section}{%
+\paragraph{3:15-4:15}\label{section}}
+
+\textbf{OER in the Plague Years -- Lessons and a Hands-on Workshop}
+
+\emph{Joshua Halpern, Yasin Dahi, LibreTexts}
+\end{todo}
+
+\hypertarget{parallel-session-17.3}{%
+\subsection*{Parallel Session 17.3}\label{parallel-session-17.3}}
+\addcontentsline{toc}{subsection}{Parallel Session 17.3}
+
+\begin{todo}
+\hypertarget{section}{%
+\paragraph{2:15-3:15}\label{section}}
+
+\textbf{An Innovative Approach to Academic Publishing: Open Books}
+
+\emph{Suzan Koseoglu (University of Greenwich) \& Royce Kimmons
+(Bringham Young University)}
+\end{todo}
+
+\begin{todo}
+\hypertarget{section}{%
+\paragraph{3:15-4:15}\label{section}}
+
+\textbf{Share Access! Using Bookdown to Remove Barriers and Open Up
+Learning}
+
+\emph{Kelly Marjanovic (Trinity Western University)}
+\end{todo}
+
+\hypertarget{break-415-430}{%
+\section*{Break (4:15-- 4:30)}\label{break-415-430}}
+\addcontentsline{toc}{section}{Break (4:15-- 4:30)}
+
+\hypertarget{parallel-session-18-430-530}{%
+\section*{Parallel Session 18 (4:30 -- 5:30)}\label{parallel-session-18-430-530}}
+\addcontentsline{toc}{section}{Parallel Session 18 (4:30 -- 5:30)}
+
+\hypertarget{parallel-session-18.1}{%
+\subsection*{Parallel Session 18.1}\label{parallel-session-18.1}}
+\addcontentsline{toc}{subsection}{Parallel Session 18.1}
+
+\begin{todo}
+\hypertarget{using-360-spaces-to-engage-learners-with-virtual-puzzle-escape-rooms}{%
+\paragraph{Using 360 Spaces to Engage Learners with Virtual Puzzle
+Escape
+Rooms}\label{using-360-spaces-to-engage-learners-with-virtual-puzzle-escape-rooms}}
+
+\emph{Lillian Chumbley (Trent University), Jane Tyerman (University of
+Ottawa)}
+\end{todo}
+
+\hypertarget{parallel-session-18.2}{%
+\subsection*{Parallel Session 18.2}\label{parallel-session-18.2}}
+\addcontentsline{toc}{subsection}{Parallel Session 18.2}
+
+\begin{todo}
+\hypertarget{cricket-an-oer-for-educational-developers-and-instructional-designers}{%
+\paragraph{CRICKET: An OER for Educational Developers and Instructional
+Designers}\label{cricket-an-oer-for-educational-developers-and-instructional-designers}}
+
+\emph{Brenda Smith, Marie Martlett, Brenna Clarke Gray, Carolyn Ives
+(Thompson Rivers University)}
+\end{todo}
+
+\hypertarget{parallel-session-18.3}{%
+\subsection*{Parallel Session 18.3}\label{parallel-session-18.3}}
+\addcontentsline{toc}{subsection}{Parallel Session 18.3}
+
+\begin{todo}
+\hypertarget{the-elearning-design-charrette-a-h5p-workshop}{%
+\paragraph{The eLearning Design Charrette: A H5P
+Workshop}\label{the-elearning-design-charrette-a-h5p-workshop}}
+
+\emph{JR Dingwall, University of Saskatchewan}
+\end{todo}
+
+\hypertarget{closing-comments-530-545}{%
+\section*{Closing Comments (5:30-5:45)}\label{closing-comments-530-545}}
+\addcontentsline{toc}{section}{Closing Comments (5:30-5:45)}
+
+\hypertarget{discussionnetworking-pods-545--}{%
+\section*{Discussion/Networking Pods (5:45 - ♾️)}\label{discussionnetworking-pods-545--}}
+\addcontentsline{toc}{section}{Discussion/Networking Pods (5:45 - ♾️)}
+
+\hypertarget{asynchronous-presentations-may-16-20-2022}{%
+\chapter*{Asynchronous Presentations (May 16-20, 2022)}\label{asynchronous-presentations-may-16-20-2022}}
+\addcontentsline{toc}{chapter}{Asynchronous Presentations (May 16-20, 2022)}
+
+\hypertarget{practice-oriented}{%
+\section*{Practice-Oriented}\label{practice-oriented}}
+\addcontentsline{toc}{section}{Practice-Oriented}
+
+\begin{secondary}
+\hypertarget{eportfolio-pedagogy-stimulating-a-shift-in-mindset}{%
+\paragraph{ePortfolio Pedagogy: Stimulating a Shift in
+Mindset}\label{eportfolio-pedagogy-stimulating-a-shift-in-mindset}}
+
+\emph{Rita Zuba Prokopetz, Athabasca University}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{transitioning-and-why-itll-never-be-enough}{%
+\paragraph{Transitioning, and Why It'll Never Be
+Enough}\label{transitioning-and-why-itll-never-be-enough}}
+
+\emph{Christian Metaxas, Trent University}
+\end{secondary}
+
+\begin{secondary}
+\hypertarget{assessing-the-impact-of-technological-skills-on-students-performance-critical-digital-literacy-and-overconfidence-bias}{%
+\paragraph{Assessing the impact of technological skills on students'
+performance: Critical digital literacy and overconfidence
+bias}\label{assessing-the-impact-of-technological-skills-on-students-performance-critical-digital-literacy-and-overconfidence-bias}}
+
+\emph{Marta Samokishyn, Saint Paul University}
+\end{secondary}
 
 \end{document}
