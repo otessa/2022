@@ -21,6 +21,13 @@
 #### Social Session
 
 ```
+
+```{block, type='protip'}
+
+#### ✨ Note{-}
+
+***All times are in Eastern Time (Canada)***
+```
 --- 
 
 
@@ -44,7 +51,7 @@
 
 ### Parallel Session 9.1 {-}
 
-```{block, type='reflect'}
+```{block, type='wp'}
 #### Embracing Feminist Pedagogies in Learning Design
 
 *Enilda Romero-Hall, University of Tampa*
@@ -52,7 +59,7 @@
 
 ### Parallel Session 9.2 {-}
 
-```{block, type='reflect'}
+```{block, type='wp'}
 #### Using Wikimedia as a Teaching Tool: How Wikidata can support Indigenous and low resource languages on the internet
 
 *Sadik Shahadu*

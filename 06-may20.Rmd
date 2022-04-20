@@ -22,6 +22,13 @@
 #### Social Session
 
 ```
+
+```{block, type='protip'}
+
+#### ✨ Note{-}
+
+***All times are in Eastern Time (Canada)***
+```
 --- 
 
 
@@ -29,7 +36,7 @@
 ##  Welcome Desk Open (10:30 - 12:30) {-}
 
 
-## Conference Welcome & Keynote (11:00 - 12:30) {-}
+## Conference Updates & Keynote (11:00 - 12:30) {-}
 
 
 ## Parallel Session 16 - Workshops (11:30 - 12:30) {-}
@@ -43,7 +50,7 @@
 *Michele Jacobsen, University of Calgary*
 ```
 
-### Parallel Session 16.2
+### Parallel Session 16.2 {-}
 
 ```{block, type='todo'}
 #### “Open Education – Title Forthcoming”
@@ -51,7 +58,7 @@
 *Leo Havemann, University College London*
 ```
 
-### Parallel Session 16.3
+### Parallel Session 16.3 {-}
 
 ```{block, type='todo'}
 #### Decolonisation of learning spaces: It’s not about knowing more but knowing better
@@ -59,33 +66,21 @@
 *Marguerite Koole (University of Saskatchewan), John Traxler (UNESCO, Wolverhampton University), Shri Footring (Independent Researcher)*
 ```
 
-###Parallel Session 16.4
+### Parallel Session 16.4 {-}
 
 ```{block, type='todo'}
 #### Introduction to Pressbooks
 
 *Verena Roberts, Barbara Brown (University of Calgary)*
 ```
-
-
-
 ## Break (12:30 – 12:45) {-}
 
 ## Unconference Session (aka: EdCamp) (12:45 – 1:45)
-
-
-
-
-## Break (1:45 – 2:15)
-
-
+## Break (1:45 – 2:15) {-}
 
 ## Parallel Session 17 (2:15 – 4:15) {-}
  
-
 ### Parallel Session 17.1 (2:15-4:15) {-}
-
-
 
 ```{block, type='todo'}
 #### Analyzing and Visualizing Survey Questions Using Open-Source Software
@@ -94,8 +89,6 @@
 ```
 
 ### Parallel Session 17.2  {-}
-
-
 
 
 ```{block, type='todo'}
@@ -159,7 +152,7 @@
 *Brenda Smith, Marie Martlett, Brenna Clarke Gray, Carolyn Ives (Thompson Rivers University)*
 ```
 
-### Parallel Session 18.3
+### Parallel Session 18.3 {-}
 
 ```{block, type='todo'}
 #### The eLearning Design Charrette: A H5P Workshop
@@ -167,63 +160,8 @@
 *JR Dingwall, University of Saskatchewan*
 ```
 
-
-
 ## Closing Comments (5:30-5:45) {-}
 
 
-
-
-
-
-
-
-Discussion/Networking Pods (5:45 - ♾️)
-
-
-
-
-
-
-
-
-
-
-##  **Asynchronous Sessions (May 16-20, 2022)**
-
-
-
-
-
-
-
-Practice-Oriented
-
-
-
-“ePortfolio Pedagogy: Stimulating a Shift in Mindset”
-*Rita Zuba Prokopetz, Athabasca University*
-
-
-
-
-
-
-Practice-Oriented
-
-
-
-“Transitioning, and Why It’ll Never Be Enough”
-*Christian Metaxas, Trent University*
-
-
-
-
-Practice-Oriented
-
-
-
-“Assessing the impact of technological skills on students’ performance: Critical digital literacy and overconfidence bias”
-*Marta Samokishyn, Saint Paul University*
-
+## Discussion/Networking Pods (5:45 - ♾️) {-}
 

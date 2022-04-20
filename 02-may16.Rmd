@@ -20,7 +20,12 @@
 #### Social Session
 
 ```
+```{block, type='protip'}
 
+#### ✨ Note{-}
+
+***All times are in Eastern Time (Canada)***
+```
 --- 
 
 
