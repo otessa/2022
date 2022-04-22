@@ -89,12 +89,29 @@
 *Géraldine Heilporn (Université Laval), Simon Larose (Université Laval), Catherine Beaulieu (Cégep de Saint-Laurent, Montréal, Québec)*
 ```
 
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/34?classes=btn,mt-4,w-content,block)
+
 ```{block, type='secondary'}
 #### 2:45-3:45
 
 
 **Aspirations for post pandemic teaching and learning: Stepping stones for future possibilities**
 *Lisa Gedak (Royal Roads University & Kwantlen Polytechnic University)*
+
+Keywords: Appreciative Inquiry, Online Learning, Educational Development, Tech-enhanced Practices, COVID-19 Pivot
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/34?classes=btn,mt-4,w-content,block)
+
+#### Abstract
+
+COVID-19 disrupted educational contexts worldwide, providing a possible catalyst for the transformation of teaching and learning. However, without thoughtful reflection and purposeful planning, a post-pandemic return to the status quo seemed likely. The presenters believe that what we focus on determines our perception, and a vision for an ideal future supports purposeful action in that direction.  
+
+This session shares the findings of two distinctive studies. Conducted in unique contexts, both applied an Appreciative Inquiry (AI) approach to explore experiences during the pandemic to identify what is needed for future learning environments. Gedak (2021) examined a British Columbian K-12 school community's experiences during the pandemic and utilized an AI SOAR approach with hopes of positively impacting future district decisions related to education delivery. Waddington (2021) guided a group of post-secondary faculty through an AI-based professional development series to support them to reflect on their initial experience teaching online to identify strengths and opportunities for development and support future adoption of technology and online delivery models. 
+
+The respective findings suggest applicability in other contexts. This session aims to foster dialogue around maximizing the impact of pandemic teaching and learning experiences to meet the needs of diverse learners in a changing world. 
+
+
 ```
 
 ### Parallel Session 14.2 – Sustaining Positive Change: K12 Online {-}

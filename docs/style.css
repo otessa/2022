@@ -83,3 +83,7 @@ div.feedback{
 div.protip{
   color: rgb(255, 255, 255); background: #34495e;
 }
+
+div.btn{
+  @apply px-4 lg:px-8 py-3 leading-6 font-medium rounded-md text-gray-100 hover:text-white bg-primary filter hover:brightness-90 transition duration-300 ease-in-out inline-flex;
+}
