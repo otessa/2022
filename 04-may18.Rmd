@@ -234,6 +234,15 @@
 #### Applying Trauma-informed Design to Online and Face-to-Face Teaching and Learning (Research-Oriented)
 
 *Suzanne Reinhardt (Simon Fraser University)*
+
+**Keywords**: online teaching and learning, trauma-informed practice, trauma-informed, care-centered pedagogy
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/51)
+
+#### Abstract
+
+Schools and educational systems have as their express purpose to provide support for students throughout their learning, but they also have the power to harm. It goes without saying that no student should be harmed in the pursuit of their education. A growing area of research has begun to look at how trauma and retraumatization affect learning in tertiary education in a face-to-face modality. Fewer studies have explored trauma, and its effects, in online classes. This presentation describes a study that uses a constructivist grounded theory approach to examine how college instructors think about and design trauma-informed practices in both their online and face-to-face classes. Using dimensional analysis, the core dimension that emerged from the data was Creating a Learning Environment of Care. A model for the process of Creating a Learning Environment of Care is provided along with a model for Creating a Learning environment of Care online. Theoretical propositions and practical applications are provided based on the data from this research.
+
 ```
 
 ### Parallel Session 11.5 – Transitions of Online Learning and Teaching - PSE {-}

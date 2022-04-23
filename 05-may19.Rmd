@@ -90,7 +90,6 @@
 ```
 
 
-[Materials](https://conference.otessa.org/index.php/conference/article/view/34?classes=btn,mt-4,w-content,block)
 
 ```{block, type='secondary'}
 #### 2:45-3:45
@@ -99,9 +98,9 @@
 **Aspirations for post pandemic teaching and learning: Stepping stones for future possibilities**
 *Lisa Gedak (Royal Roads University & Kwantlen Polytechnic University)*
 
-Keywords: Appreciative Inquiry, Online Learning, Educational Development, Tech-enhanced Practices, COVID-19 Pivot
+**Keywords:** Appreciative Inquiry, Online Learning, Educational Development, Tech-enhanced Practices, COVID-19 Pivot
 
-[Materials](https://conference.otessa.org/index.php/conference/article/view/34?classes=btn,mt-4,w-content,block)
+[Materials](https://conference.otessa.org/index.php/conference/article/view/34)
 
 #### Abstract
 

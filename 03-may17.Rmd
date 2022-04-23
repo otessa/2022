@@ -143,6 +143,16 @@
 **Assessment and Digital Technology in Higher Education: A Review of the Literature (Research-Oriented)**
 
 *Colin Madland (University of Victoria)*
+
+**Keywords:** assessment, technology, higher education, approaches to assessment
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/138)
+
+#### Abstract
+
+Assessment is a core component of teaching and learning in higher education and has been impacted in various ways by the growth of technology in society and education. Assessment is a process of inferring ability (knowledge or skills) based on evidence provided through the completion of various types of performance tasks. Technology has impacted assessment practices in higher education in multiple ways, including large scale admissions and certification exams, classroom assessment practices such as monitoring remote learners as they write exams, and also enabling instructors to more closely align their assessment practices with common outcomes of 21st century higher education including collaboration, problem solving, creativity, and divergent thinking. This review of the literature explores how technology has impacted assessment practices in higher education in light of the model of Pellegrino et al.'s  assessment triangle and DeLuca et al.'s approaches to classroom assessment with the objective of synthesizing current literature to inform ethical assessment policy and practice in technologically mediated higher education.
+
+
 ```
 ### Parallel Session 6.5 - WildCard – PSE Open {-}
 
@@ -161,6 +171,24 @@
 **Addressing the climate crisis through open pedagogy and practices: Affordances and challenges (Research-Oriented)**
 
 *Leigh-Anne Perryman (The Open University UK)*
+
+**Keywords**: open educational practices, open pedagogy, open education, OER, open educational resources, climate emergency, climate change
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/123) 
+
+#### Abstract
+
+Education has a vital role in supporting learners across sectors in understanding the causes and impacts of environmental collapse (UNESCO, 2015) and addressing them through global citizenship, individual and collective direct action, and democratic participation. However, there's abundant evidence that educators, worldwide, lack the knowledge and skills to effectively address the climate emergency in their teaching (Teach the Future, 2021).  
+
+This presentation explores the affordances of open educational practices and open pedagogy for climate emergency-related teaching, including how: 
+
+- connecting learners with online communities offering inspiration and guidance can increase understanding and support effective direct action  
+- connecting learners with people affected by environmental disaster can increase empathetic understanding and raise awareness of climate injustice  
+- using, adapting, co-co-creating and sharing climate-emergency related open educational resources (OER) can support learners’ autonomy and agency and address feelings of powerlessness, while growing the Commons  
+- using renewable assessments with real world value can contribute to community-based awareness and direct action.  
+
+The presentation draws on research with students and educators discussing climate emergency-related teaching and will also promote, and encourage contributions to, a crowd-sourced document sharing ideas and resources to support teaching around the climate emergency using open approaches. 
+
 ```
 
 ## Break (3:45 – 4:00) {-}
