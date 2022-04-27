@@ -85,7 +85,17 @@
 ```{block, type='todo'}
 #### Analyzing and Visualizing Survey Questions Using Open-Source Software
 
-*Okan Bulut, University of Alberta*
+*[Okan Bulut](https://orcid.org/0000-0001-5853-1267), University of Alberta*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/108)
+
+**Keywords**: survey, statistics, data visualization, open-source software, psychometrics
+
+#### Abstract
+
+In social sciences, surveys are widely used by researchers to collect information from or about people to describe, compare, or explain their knowledge, feelings, values, and behaviours. Before using survey data to draw inferences, researchers need to evaluate the quality of survey data through statistical analysis and visualizations. This workshop aims to provide a step-by-step guideline on how to analyze and visualize survey questions using open-source software programs. The workshop will begin with a brief summary of statistical techniques and data visualization tools used for analyzing survey data. Then, participants will be provided with hands-on training on how to use open-source software programs (e.g., JASP and jamovi) to visualize and analyze survey data. The target audience for this session includes graduate students, researchers interested in analyzing survey data, and practitioners working with data from surveys, questionnaires, and psychological scales. 
+
+
 ```
 
 ### Parallel Session 17.2  {-}
@@ -103,6 +113,16 @@
 **OER in the Plague Years – Lessons and a Hands-on Workshop**
 
 *Joshua Halpern, Yasin Dahi, LibreTexts*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/130)
+
+
+**Keywords**: OER, Textbooks, Remixing
+
+#### Abstract
+
+This workshop will describe how one large OER project encountered and met the challenge of the plague years, growing its community, offerings and technology. Participants get a first, hands-on introduction to the system and learn how to start working with it. In the past two years community members have met the challenge of switching to distance learning using wiki based libraries, remixing, editing and creating custom courses. Collaborative text creation exploded. Key improvements were made in ancillary technologies including homework. A common platform allowed rapid introduction of new features. Ease of use by everyone, everywhere became the basic accessibility issue. That applies to making it as easy as possible for faculty to create and for students to reach and use materials that serve their training and needs. It was especially important to provide multiple channels for learner access. Books are available online, via printed books, ebooks, embeddable into LMSs and can be mailed on an SD card as well housed in as a Raspberry Pi with a hotspot. It has been an intense and interesting two years.
+
 ```
 
 ### Parallel Session 17.3 {-}
@@ -114,6 +134,17 @@
 **An Innovative Approach to Academic Publishing: Open Books**
 
 *Suzan Koseoglu (University of Greenwich) & Royce Kimmons (Bringham Young University)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/150)
+
+
+
+**Keywords**: Open educational practice, Open scholarship, Open books, Academic publishing
+
+#### Abstract
+
+In this interactive and creative workshop, participants will explore open books, an innovative approach to academic book publishing. Open books are open not only in terms of their open access licenses, but also in terms of an openness to finding different ways of engaging in academic work.
+
 ```
 
 ```{block, type='todo'}
@@ -141,7 +172,18 @@
 ```{block, type='todo'}
 #### Using 360 Spaces to Engage Learners with Virtual Puzzle Escape Rooms
 
-*Lillian Chumbley (Trent University), Jane Tyerman (University of Ottawa)*
+*Lillian Chumbley (Trent University), [Jane Tyerman](https://orcid.org/0000-0001-8158-0833) (University of Ottawa)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/104)
+
+
+**Keywords**: VIPER, Escape Room, 360
+
+#### Abstract
+
+This presentation will demonstrate the process for developing 360 Virtual Interactive Puzzle Escape Rooms (VIPER) for use in education. VIPERs can provide opportunities for learners to engage in experiential learning in a scalable and more cost effective than traditional methods. Unlike specialized escape room programs, VIPERs provide a 360 space and allow for anyone online to access the completed game and for development files, maps and resources to be easily shared. The presenters will take participants through the process for mapping games, creating or find assets and developing a simple 360 space through a collaborative process. The workshop will also cover principles of VIPERs for educational use and intersections with Game Theory.
+
+
 ```
 
 ### Parallel Session 18.2 {-}
@@ -150,6 +192,17 @@
 #### CRICKET: An OER for Educational Developers and Instructional Designers
 
 *Brenda Smith, Marie Martlett, Brenna Clarke Gray, Carolyn Ives (Thompson Rivers University)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/99)
+
+
+
+**Keywords**: OER, educational development, curriculum development, open education, open educational practices
+
+#### Abstract
+
+In May 2019, Thompson Rivers University (TRU) offered its first version of a week-long course (re)design workshop. Recognizing we had been primarily using resources from other institutions, we opted to create our own resources via a one-day facilitated writing sprint. The project grew from being conceptualized as a few stand-alone documents to a large online open educational resource and space for educational developers, instructional designers, and teaching faculty to form a community for open practices. Moving beyond offering resources simply for course design, we decided to create an OER that encompasses three main areas of curriculum planning and design: composition, mapping, and alignment of learning outcomes at the course, program, and institutional levels; choice and alignment of instructional strategies and learning activities; and alignment of outcomes assessment at all levels. This workshop will share the CRICKET (or Course Resource Kit) OER, and session participants will interact with the site through a targeted worksheet and discussion to explore its various features, offer feedback, and share ideas. It will serve to bridge the field of educational development and curriculum development with OER while demonstrating how a range of faculty development professionals can collaborate to create meaningful resources for their campus and beyond.
+
 ```
 
 ### Parallel Session 18.3 {-}

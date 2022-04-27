@@ -89,6 +89,15 @@
 **Using Teacher Presence to Engage Online Learners (Practice-Oriented)**
 
 *Leanne Huston,* *Rochelle Smith, Rhyanon Logan-Goyette (Langley School District & University of Victoria)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/132)
+
+
+**Keywords**: engagement, asynchronous online learning, blended learning, hybrid learning, social constructivism, community of inquiry, teacher presence
+
+#### Abstract
+
+Consistently, teachers and researchers have questioned how to engage students who are working in asynchronous online environments. Within our context, we noticed a similar trend: student disengagement in asynchronous activities. The purpose of this presentation is to support teachers in evolving online learning environments as it is not a simple matter of digitizing existing content and placing it online. Pedagogy for online learning includes deliberate planning and implementation of teacher presence, one key component for a successful transition. We have created a resource which outlines strategies to increase teacher presence in online learning environments. Our hope is that educators new to teaching online will be able to engage students asynchronously using these strategies. 
 ```
 
 ```{block, type='secondary'}
@@ -97,6 +106,14 @@
 **Implementation of Education Technology in Canada: A Comparison with Korea, Finland and the EU (Research-Oriented)**
 
 *Keith Rispin (West Vancouver School District & University of Victoria), Valerie Irvine (University of Victoria)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/142)
+
+**Keywords:** technology adoption, technology implementation, educational change, learner equity, government planning, access to education
+
+#### Abstract
+
+In this session, we look at how education technology in Canada is distributed to K-12 students and ask whether or not it can be done in a more effective, equitable, and cost-efficient manner. It is recognized that inequity in education already exists across the country, which has been tolerated pre-pandemic, but these inequities have been exacerbated as a result of the pandemic (Stewart, 2020). Our geographical expanse, combined with the decentralized manner in which education in Canada is delivered, creates significant challenges. Education is also a provincial mandate as per the constitution (Government of Canada, 2021). In this session, we will review federal strategies for technology planning in different countries around the world (e.g., Korea, Finland, the European Union, etc.). After providing an environmental scan of these national strategic plans worldwide, we will provide recommendations for national leadership and policy development.
 ```
 
 
@@ -125,6 +142,16 @@
 **Co-designing OER with Learners: A Replacement to Traditional College Level Assessments (Practice-Oriented)**
 
 *Kimberlee Carter, Maria Camila Redondo Morant (Conestoga College)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/110)
+
+
+**Keywords**: Open, OER, Open Educational Resources, Co-Construction with Learners, Co-design with Learners
+
+#### Abstract
+
+Academic integrity issues in higher education have been reported as increasing as the pandemic and need to learn remotely continues. The use of homework sites like Chegg, that provide learners with answers to tests and assignments increased significantly through 2019 and 2020 (Walsh et al., 2021). Open advocates have been espousing the benefits of open educational resource assignments co-constructed with learners and published in the open prior to the pandemic. These have largely been writing assignments taking the form of blogs with a focus on teaching practices. An example of this phenomenon is the Open Learner Patchbook where learners write blog posts to share in the open (Open Education Global, 2019). A faculty involved in two projects that co-designed Open Education Resources (OER) with learners was curious to know what processes learned could be applied to co-designing OER assignments in their own teaching practice as an alternative to traditional assessments where answers can be found on homework sites. Easton et al. (2019) propose that original assignments encourage learners to complete their own work. This presentation focuses on what was learned in the co-design process with learners and what can be applied to teaching practices in college diploma and certificate courses.
+
 ```
 
 
@@ -133,6 +160,17 @@
 **A Critical Examination of Learner-Educator Co-Creation Within a Course (Practice-Oriented)**
 
 *Laura Killam (Queens University), Jess Mitchell (Ontario College of Art and Design University)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/103)
+
+
+
+**Keywords**: Co-creation, Open Pedagogy, Co-design
+
+#### Abstract
+
+Co-creation is an open practice where learners participate in decision-making about aspects of course design, which in our context has included designing assessments and/or determining grades. Co-creation may also include other aspects of course design such as content curation and course planning. Engaging a whole class of learners in co-creation may liberate learners to think critically and develop their evaluative judgment because agency, reflection, and authenticity are embedded in learner-educator interactions. These cognitive skills are essential for graduates to challenge oppression and inequity in their own careers, which has a cascading impact on society. Involving students in decision making also improves learner motivation and engagement in learning. We have witnessed tremendous growth among students through co-creation but have also faced barriers to and criticism of its use. For example, challenges include fostering trusting relationships in large classes, promoting inclusion of diverse voices, and balancing workload. In this discussion, we invite multidisciplinary co-creators to explore strategies for lasting change. We hope to discuss co-creation benefits, challenges, and potential solutions to these challenges. Even though co-creation is a unique experience for each group, ongoing discussion of how to deal with potential barriers may increase our collective readiness to empower future learners.
+
 ```
 
 ### Parallel Session 10.4 {-}
@@ -150,7 +188,18 @@
 
 **Méthodes d'évaluation et technologies : vers des activités authentiques, dans un processus itératif en soutien aux apprentissages (Practice-Oriented)**
 
-*Géraldine Heilporn (Université Laval), Audrey Raynault (Université Laval), Alice Mascarenhas (Université de Sherbrooke), Constance Denis (Université de Sherbrooke)*
+*[Géraldine Heilporn](https://orcid.org/0000-0002-7951-4420) (Université Laval), Audrey Raynault (Université Laval), Alice Mascarenhas (Université de Sherbrooke), Constance Denis (Université de Sherbrooke)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/115)
+
+
+**Keywords**: enseignement supérieur, évaluation, authenticité, activités d'apprentissage, soutien aux apprentissages
+
+#### Abstract
+
+Dans cette communication, nous présenterons diverses façons permettant de diversifier les méthodes d'évaluation avec les technologies, ce qui a pour effet de renforcer l'authenticité et le développement des compétences d'apprentissage et de littératie du 21e siècle. Les auteurs expliqueront également comment le fait de proposer plusieurs méthodes aux étudiants pour une même évaluation peut contribuer à répondre à leurs différents besoins et préférences sans augmenter la charge de travail des enseignants. En outre, les auteurs discuteront de la manière dont la diversification des méthodes d'évaluation grâce aux technologies entraîne souvent une transformation des modalités d'évaluation vers des processus continus ou itératifs comprenant des rétroactions multiples de la part des personnes enseignantes, en soutien aux apprentissages des étudiants.
+
+
 ```
 
 ```{block, type='secondary'}
@@ -159,6 +208,20 @@
 **Quels nouveaux modèles d’affaires pour supporter les communautés de pratique en éducation? (Practice-Oriented)**
 
 *Robert Grégoire, Jacques Cool, Olivier Alfieri (Réseau d'enseignement francophone à distance)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/141)
+
+
+**Keywords**: Français
+
+#### Abstract
+
+With the advent of the so-called 21st century skills which involve information and communication technology, the educational sphere has entered a significant turmoil period. Like so many other domains in which established practices have been upended by Internet-distributed innovative platforms, the traditional actors in education are presented with a multiplicity of potential solutions while their own viability is often questioned.
+
+Like established teaching institutions, public and private educational organizations face this new reality, particularly in the distance learning domain where the COVID-19 pandemic has exponentially accelerated those transformations. Our not-for-profit distance learning organization, francophone and pan-canadian in nature, has therefore launched a review of its business model seeking to explore four main topics: the organization and benefits ot communities of practice, emerging accreditation alternatives, the continuums of the freemium - premium model, and the intangible benefits of membership.
+
+Four online panels hosted by two industry experts and their guests will explore the main issues around those themes. Interviews with organizations similar in nature will document various membership models and fee structure. This presentation will summarize the tendancies and reflective thinking after three of our online panel series.
+
 ```
 
 ### Parallel Session 10.5 {-}
@@ -168,7 +231,20 @@
 
 **Orlando: Broadening the Conversation on Women’s Writing Through A Scholarly Podcast (Practice-Oriented)**
 
-*Christie Hurrell, Karen Bourrier, Kathryn Holland, Jessica J Khuu (University of Calgary)*
+*Christie Hurrell, Karen Bourrier, Kathryn Holland, [Jessica J Khuu](https://orcid.org/0000-0002-8699-141X) (University of Calgary)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/134)
+
+
+**Keywords**: scholarly podcast, women's writing
+
+#### Abstract
+
+Orlando: A Podcast on Women’s Writing focuses on the history of women’s writing from medieval times to the present, with a particular interest in the material conditions that enable women’s writing. Taking cues from the bespoke semantic markup of the digital textbase for which it is named, Orlando: A History of Women’s Writing from the Beginnings to the Present, the podcast stimulates discussion about the conditions of possibility for women’s writing and the goals of feminist literary history. 
+
+Building on the work of McMenemy (2018), Copeland and MacGregor (2020) and others, both the form and the content of the podcast allow the Orlando team to expand, open, and challenge traditional conceptions of scholarly knowledge, and how this knowledge is communicated. By adopting conventions such as peer review and digital archiving, the podcast asserts itself as a legitimate form of scholarship and as a potential Open Educational Resource; at the same time, its conversational and accessible style challenges norms of publishing, teaching, and learning. 
+
+In this presentation, the Orlando team will share lessons learned from this technology-enabled, open project and how they see it contributing to a more equitable, diverse and democratic discussion of women writers and women’s writing, broadly construed.
 ```
 
 ```{block, type='secondary'}
@@ -177,6 +253,17 @@
 **A(nother) Guide for Resisting EdTech: The Case Against (or For?) Course Hero (Practice-Oriented)**
 
 *Brenna Clarke Gray (Thompson Rivers University)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/122)
+
+
+**Keywords**: educational technology, critical digital pedagogy, open processes, modelling processes
+
+#### Abstract
+
+Using Sean Michael Morris and Jesse Stommel’s landmark essay “A Guide for Resisting EdTech: The Case Against Turnitin.” as its foil, this presentation asks participants to apply the same kinds of critiques applied effectively to Turnitin in that piece to Course Hero as we evaluate its claims against the benchmarks of ethical educational technologies. This experiment in collective meaning-making provides a model for critiquing tools that have been carefully marketed but not well-studied by academics, offering a “way in” to these discussions that is rooted in the practical and factual, and not so profoundly shaped by personalities of influence.
+
+
 ```
 
 ## Break 3:45 – 4:00 {-}
@@ -198,7 +285,18 @@
 ```{block, type='secondary'}
 #### Multi-Section Open Course Design: Design and Implications for Faculty, Sessional Instructors, and Learners (Practice-Oriented)
 
-*Valerie Irvine, Michael Paskevicius, Colin Madland, Rich McCue, Verena Roberts (University of Victoria)*
+*Valerie Irvine, Michael Paskevicius, [Colin Madland](https://orcid.org/0000-0002-1761-1903), [Rich McCue](https://orcid.org/0000-0003-3503-5935), [Verena Roberts](https://orcid.org/0000-0003-3336-7805) (University of Victoria)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/148)
+
+
+**Keywords**: open education, co-teaching, course design, instructional design, open educational resources, OER, intellectual property
+
+#### Abstract
+
+As open course designs are being implemented in regular post-secondary credit courses (beyond the massive open online course), new issues and processes need to be considered that are fundamentally different from courses offered within the traditional learning management system. In this session, we will review our approach to multi-section open course design and share our experiences working through emergent issues, such as content placement, intellectual property and attribution, etc. We will provide insights and recommendations for institutional leadership and administration, faculty area advisors, technical support staff, and sessional instructors.
+
+
 ```
 
 ```{block, type='secondary'}

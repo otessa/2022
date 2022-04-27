@@ -79,6 +79,16 @@
 **Truth and Reconciliation Through Inquiry-based Collaborative Learning (Practice-Oriented)**
 
 _Deirdre Houghton (Nechako Lakes School District & University of Victoria), Gary Soles (Nechako Lakes School District & University of Victoria), Andrew Vogelsang (Nechako Lakes School District & University of Victoria), Valerie Irvine (University of Victoria)_
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/126)
+
+
+**Keywords**: Truth and Reconciliation, Inquiry, Secondary school, K-12, Cross-curricular, Project-based learning, Collaboration, Co-Teaching
+
+#### Abstract
+
+In this session, we will share a project conducted at [school name removed for review] in the [district name removed for review], which is in Northern British Columbia, Canada. Three highschool teachers from different disciplines (Social Studies, Digital Media, and Carpentry) launched a cross-curricular inquiry-based project, focusing on truth and reconciliation,  that connected the learners in their highschool and the broader community, including knowledge holders from the local Indigenous communities. Those engaged in the project examined questions around what truth and reconciliation meant to the learners and its significance. Resulting products included a legacy wall containing individual learning represented in motifs, design of the feather using wood from around the world, and a video documentary containing interviews from school and community stakeholders. We will screen clips of videos during our session, but invite participants to pre-screen the two videos (Documentary Parts 1 and 2), which can be accessed on our YouTube playlist, where a process video and a reflection video are also available.
+
 ``` 
 
 ### Parallel Session 2.2 – Sustaining Positive Change: PSE Ethics & PSE Scholarship {-}
@@ -138,6 +148,16 @@ _Helen Dewaard (Lakehead University & University of British Columbia), Leo Havem
 **Incorporating Open Educational Pedagogies and Co-mentorship Practices in Graduate Education (Research-Oriented)** 
 
 _Cindy Ives (Athabasca University)_
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/101)
+
+**Keywords:** open educational pedagogy, collaborative autoethnography, graduate students, co-mentorship
+
+#### Abstract
+
+Our collaborative autoethnographic study (CAE) explores our use of principles of open educational pedagogy (OEP) and co-mentorship to enhance graduate teaching and learning. Working within an open, online university, we are investigating the nature and extent to which we use OEP and co-mentorship, and exploring the outcomes for ourselves and our students. We seek to reduce hierarchical relationships, prioritizing student-centred practices. We aim to improve ourselves as open, flexible distance educators and to support successful student learning and research. Consistent with CAE, we are collecting self-reflective and dialogic data, and artefacts from our co-mentorship and open educational practices. As participants in this study, we are experiencing the power of CAE as a research method that moves us beyond traditional discourse leading to personal and professional growth. We anticipate that our research findings will help position our graduates and ourselves as creative thinkers, learners, and contributors in the 21st century during these times of critical change.
+
+
 ```
 
 ```{block, type='secondary'}
@@ -155,6 +175,22 @@ _Helen DeWaard (Lakehead University & University of British Columbia), Shauna Bu
 **Open educational practice and research resources created by students, for students (Practice-Oriented)**
 
 _Marie Bartlett & Students (Thompson Rivers University)_
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/120)
+
+
+**Keywords**: Undergraduate Research, Students, Open Pedagogical Practice, WordPress, Research Resources
+
+#### Abstract
+
+CURN (Canadian Undergraduate Research Network) is an emerging community supported by the offices of Research and Graduate Studies and Open Learning at Thompson Rivers University (TRU), which is located in Secwepemcúl̓ecw on the unceded land of the Secwépemc peoples, on the interior plateau of British Columbia.
+
+ For a number of years, groups of TRU students have been building a CURN website as part of their undergraduate research ambassador roles, adding to each other’s work every semester: curn.trubox.ca/. 
+
+Since the start of the initiative, the objective has been to create an open resource that would get students interested and engaged in undergraduate research.
+
+Designed as an open pedagogy project, student research ambassadors were given the autonomy to choose the format and the structure of the resource, decide which topics to include, what they wanted to learn from the project, and how to organize their groups and creative efforts. 
+
 ```
 
 ```{block, type='secondary'}
@@ -163,6 +199,20 @@ _Marie Bartlett & Students (Thompson Rivers University)_
 **Building digital fluency skills during the rapid transition to online and hybrid teaching through open access with the Ontario Extend program (Practice-Oriented)**
 
 _Alissa Bigelow (eCampusOntario)_
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/117)
+
+
+
+**Keywords**: online, transitions, teaching and learning, Ontario Extend
+
+
+#### Abstract
+
+At a time of unprecedented change within the educational system due to the COVID-19 global pandemic, the Ontario Extend professional learning program provides a platform for community, collaboration, and digital fluency skill development amongst postsecondary educators across the province of Ontario. A key driver for the Ontario Extend program is to provide educators with the ability to leverage diverse educational technology tools to create a more accessible learning environment for students in online and hybrid learning environments. 
+
+The program framework builds upon “The 21st Century Educator” model (Bates, 2016), which encompasses the knowledge, skills, and attitudes identified as the foundational skills required to “thrive (and not just survive) in a digital world” (Coldwell-Nelson, 2018; Martin & Grudziecki, 2006). Educators are encouraged to engage with six online modules and reflect upon specific elements of their teaching practice. Each of the six modules promotes a learning journey focused on a combination of foundational upskilling and reskilling, with digital badges awarded upon the completion of each module. Once an educator has completed   all six modules, they are awarded the Empowered Educator micro-credential and join the growing community of Extend educators. This session will provide an overview of the program and scaling efforts to date, with time for questions.
+
 ```
 
 ## Break  (3:45 – 4:00) {-}
@@ -224,6 +274,15 @@ _Mara Bordignon (University of Western Ontario)_
 **Online or Remote Learning and Mental Health (Research-Oriented)**
 
 _Stephanie Moore (University of New Mexico), Michael Barbour (Touro University California), George Veletsianos (Royal Roads University)_
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/114)
+
+**Keywords**: online learning, remote learning, mental health
+
+#### Abstract
+
+While there has been a great deal of debate over the impact of online and remote learning on mental health and well-being, there has been no systematic syntheses or reviews of the research on this particular issue. In this session, we will present a review of research on mental health / well-being and online or remote learning. Our preliminary analyses suggest that little scholarship existed prior to 2020 and that most of these studies have been conducted during the COVID-19 pandemic. We report three findings: (a) it’s very difficult, if not impossible, to control for pandemic effects in the data, (b) studies present a very mixed picture, with variability around how mental health and well-being are measured and how / whether any causal inferences are made in relation to online and remote learning, and (c) results across these studies are extremely mixed. Based on this study, we suggest that researchers, policymakers, practitioners, and administrators exercise extreme caution around making generalizable assertions with respect to the impacts of online/remote learning and mental health.
+
 ```
 
 ## Break (5:30 - 6:00) {-}

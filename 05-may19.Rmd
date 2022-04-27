@@ -130,6 +130,17 @@ The respective findings suggest applicability in other contexts. This session ai
 **Professional Learning and Online Tutoring**
 
 *Michael Canuel (LearnQuebec)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/143)
+
+
+
+**Keywords**: Online tutoring, Professional learning
+
+#### Abstract
+
+There is considerable anecdotal evidence that online tutoring benefits students who participate in these virtual sessions, however, there is also reason to believe that there are numerous advantages for the online tutors who modify, improve, and review their regular classroom practice as a result of their work in the online environment.  While working in this virtual environment, these tutors have the opportunity to discover new tools and resources used in online tutorials which can subsequently be transferred and applied into the face-to-face environment.
+
 ```
 
 ### Parallel Session 14.3 – Transitions of Online Learning and Teaching: Community {-}
@@ -147,6 +158,16 @@ The respective findings suggest applicability in other contexts. This session ai
 **Indigenizing Internationalization and Internationalizing Indigenization: Insights from a Virtual Study Abroad to Ireland, Jamaica, and Aotearoa/New Zealand (Research-Oriented)**
 
 *Michael Cottrell, Kristine Dreaver-Charles (University of Saskatchewan)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/135)
+
+**Keywords:** Internationalization, Indigenization, Higher Education teaching and learning, Study Abroad, Epistemological third spaces, Decolonizing curriculum
+
+#### Abstract
+
+This proposal aligns with the themes “The Transitions of Online Learning and Teaching” and “Sustaining Positive Change” and reports on the work of a faculty member and an instructional designer from the University of Saskatchewan, where Indigenization and internationalization are leading institutional priorities. We consider possibilities for greater collaboration between these disciplinary and programmatic imperatives for mutual benefit which the shift to virtual learning during the pandemic enabled. We explore the capacity of Virtual Study Abroad course design to synthesize Indigenous and Western pedagogies and methodologies to conceive innovative curriculum consistent with the negotiation of epistemological third spaces through the design of a Virtual Study Abroad course focusing on educational systems in Ireland, Jamaica and New Zealand. Themes emerging from the data include the capacity of virtual learning to enhance the democratization of knowledge and the potential of participatory pedagogies and innovative assessment approaches to decolonize curriculum. Ultimately, we hope that this work will inform new institutional models, whereby Indigenization strategies serve to decolonize internationalization programs and Indigenization efforts are advanced through innovative programming emanating from internationalization imperatives and initiatives. Such a reconceptualization holds the promise of mobilizing Higher Education in the service of social justice and the ‘global good’.
+
+
 ```
 ### Parallel Session 14.4 – Sustaining Positive Change: Open {-}
 
@@ -154,24 +175,63 @@ The respective findings suggest applicability in other contexts. This session ai
 #### Provocations and Perspectives: A Work in Progress Learning Design Framework (Practice-Oriented)
 
 *Michael Paskevicius (University of Victoria)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/100)
+
+
+**Keywords**: learning design, open pedagogy, Critical Pedagogy
+
+#### Abstract
+
+In this presentation we provide an update on the development of an experimental variation on the open textbook concept. Originally introduced as an “untextbook” in its early stages, as a customized WordPress site we are now calling it an open digital learning resource. Both scholars and graduate students have been invited to contribute as well as participate in further developing the concept through the submission of provocations. With a focus on learning design, the resulting digital publication is designed in a manner to permit an ongoing evolution, extension and reframing of the original content in learning environments. In response to the provocations, students have been invited, through a series of prompts, to engage with this resource as part of their coursework in a process of ongoing co-creation in a manner consistent with open licensing and pedagogy. In particular it is designed to encourage student responses from critical perspectives including issues, lenses, role perspectives, settings. While the focus of this text is learning design, we envision that the model can be adapted to any other field of inquiry where knowledge is continually evolving or problematized and there is a desire to invite and incorporate alternative perspectives in the educational setting.
+
 ```
 
 ```{block, type='secondary'}
 #### Open Learning Design: Principles & Practices (Practice-Oriented)
 
 *Verena Roberts (University of Calgary & Thompson Rivers University), Leo Havemann (University College London), Helen Dewaard (Lakehead University & University of British Columbia)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/102)
+
+
+**Keywords**: open learning design, open educational practices, learning design
+
+#### Abstract
+
+This presentation will consider principles of open learning design, as explored in our forthcoming book chapter which considers the position of open learning designers as ‘Thirdspace professionals’, and highlights our lens as open advocates, open researchers as well as learning designers within higher education (HE) contexts. An intentional, reflective, and open learning design can provide the impetus for a “rethink and redesign” (Ladson-Billings, 2021, p. 73) of teaching and learning environments and curricula.
 ```
 
 ```{block, type='secondary'}
 #### How faculty perceptions of and experiences with open access and predatory publications impact teaching and learning (Research-Oriented)
 
 *Richard Hayman (Mount Royal University)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/107)
+
+**Keywords:** Open access, Scholarly communications, Academic publishing, Teaching and learning
+
+#### Abstract
+
+This presentation presents the results of a research study examining scholars’ awareness and attitudes toward open access (OA) and predatory publishing at a teaching-focused, undergraduate-only university. These faculty (n=154) responded to closed- and open-ended survey questions about their experiences and knowledge using and identifying both quality open access OA and predatory publishing resources as part of their research, teaching, and assessment practices. The results show that while generally supportive of OA, faculty continue to misunderstand OA and are unlikely to use OA resources in their teaching or research. Worse, many did not express strong confidence in their ability to identify and predatory publishers nor to explain predatory publishing to students. Ultimately, scholars may be ill-equipped to teach students and early researchers about open access and predatory publishing practices. This session will primarily highlight the study results focused on the teaching and learning impacts, and seek to address some implications for how new researchers are to gain the essential skills and knowledge needed to navigate the academic publishing landscape.
+
+
 ```
 
 ```{block, type='secondary'}
 #### Conestoga OER Teaching Case Journal: Creating a peer-reviewed, openly licensed, and accessible teaching case journal at Conestoga College (Practice-Oriented)
 
 *Kevin McDermott, Jane Gravill, Fatih Yegal, Kimberlee Carter (Conestoga College)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/109)
+
+
+**Keywords**: OER, Teaching Case Journal, Case Writing, Openly licensed business cases
+
+#### Abstract
+
+Conestoga College is a student-centric community college that services a diverse population of students from a variety of socio-economic backgrounds in south-western Ontario, Canada. To ensure equality for students with less financial means by keeping course material costs low, a group of faculty and administrative staff have created an initiative to encourage faculty members to create quality, OER pedagogical business cases for use in courses. This multi-faceted case writing, and publishing initiative includes three operational pillars: 1) case workshops to help faculty members develop their case writing skills; 2) case roundtable discussions to encourage collaboration and feedback on in-development cases, and; 3) the Conestoga OER Teaching Case Journal, a peer-reviewed, open and accessible, teaching case journal, targeting the submission of cases from a variety of business disciplines. In this session, we will discuss our initial findings related to the efficacy of this initiative and will solicit feedback and collaboration from colleagues.
+
 ```
 
 ### Parallel Session 14.5 – Wildcard: Open {-}
@@ -190,12 +250,35 @@ The respective findings suggest applicability in other contexts. This session ai
 #### The Liberated Learner: How to Learn with Style
 
 *Terry Greene (Trent University), Giulia Forsythe (Brock University)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/106)
+
+
+**Keywords**: education, post-secondary, online learning, study skills, collaboration, learning technology, open education, OER
+
+#### Abstract
+
+The Liberated Learner, funded by the eCampusOntario Virtual Learning Strategy, is an inter-institutional collaboration that brings together student co-designers and elearning professionals. This open resource consists of four modules that mirror the Ontario Extend for Educators modules (Lopes & Porter, 2018), but are customised to the learner context. These modules are Learner (learning strategies), Technologist (digital fluency skills), Collaborator (communication, group work, community member), & Navigator (curating, fact checking, other scholarly skills). The goal is to provide learners a similar opportunity to gain confidence and independence in their post-secondary experience online.
+
+ 
+
+Recognizing that most issues post-secondary students face are complex and ill-structured (Cormier, 2021), the design and development of the Liberated Learner open modules were primarily student-led. During a week-long design sprint, 120 students generated 99 wicked problems. This collection of personal stories document students’ real life post-secondary challenges. These stories then informed the content of the 4 modules as they were developed together with student co-designers from each institution. They also provided a pathway into the Liberated Leaner modular support at multiple levels of experience (beginner, intermediate, advanced). Each module also consists of a student created Beats to Study to intro to help learners get into the learning groove.
 ```
 
 ```{block, type='secondary'}
 #### The role of inquiry-based information literacy curriculum design in fostering self-efficacy in the digital learning environment
 
 *Marta Samokishyn (Saint Paul University)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/139)
+
+
+**Keywords**: Information literacy, Online learning, Self-efficacy
+
+#### Abstract
+
+Students’ motivation and engagement have been a subject of concern in online learning, especially over the last two years (Means & Neisler, 2021). The inquiry-based approach in information literacy education has shown to increase students’ self-efficacy and sense of agency (Leat, 2017), promote engagement and cognitive presence, as essential building blocks for the development of students’ critical thinking skills. This presentation will discuss the development of an inquiry-based IL curriculum for the credit-bearing collaborative 1st-year undergraduate course in Social Sciences and Humanities. The presenter will discuss how inquiry-based learning can facilitate self-efficacy in the digital learning environments, as we move forward.
+
 ```
 
 ```{block, type='secondary'}
@@ -261,13 +344,35 @@ The respective findings suggest applicability in other contexts. This session ai
 ```{block, type='secondary'}
 #### Show Me Your Crystal Ball: An Environmental Scan for Usefulness (Practice-Oriented)
 
-*Jenni Hayman (Cambrian College)*
+*[Jenni Hayman](http://orcid.org/0000-0001-6410-7235) (Cambrian College)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/131)
+
+
+**Keywords**: post-pandemic teaching, multi-modal learning, literature review
+
+#### Abstract
+
+In the past year, there have been a lot of articles. A lot of shared ideas and many strategies, tips, and tricks focused on how to manage the continuity of post-secondary teaching and learning during a relentless global pandemic. It’s my sense that we’re not anywhere near the end of this pandemic, despite what some in positions of political leadership might wish or pretend. There is more uncertainty to come, possibly significant uncertainty as colleges and universities begin to pick up the pieces of their shattered perceptions and begin the difficult work of personal and institutional recovery.
+
+It is hard to imagine anyone in Canadian higher education (learners, faculty, staff, administrators, employer partners) that has not been negatively impacted by COVID-19 decisions, changes in practice, and shifting priorities. It has been a messy two-plus years of chaos. There has been no lack of advice–and perhaps now might be a good time to sort through some of the recommendations, check the accuracy and usefulness of predictions and strategies, and begin a collection of works that support collective success for post-secondary futures. The purpose of this session is to share some useful works and collect and share new favourites from participants.
+
 ```
 
 ```{block, type='secondary'}
 #### Opening a Seminal Work for the Next Century (Practice-Oriented)
 
-*Kristine Dreaver-Charles, Monique Mayer (University of Saskatchewan)*
+*[Kristine Dreaver-Charles](https://orcid.org/0000-0003-2550-163X), [Monique Mayer](https://orcid.org/0000-0003-3414-3918) (University of Saskatchewan)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/97)
+
+
+**Keywords**: Open textbooks, Open education resources (OER), H5P, Equitable access, Catalysts of open
+
+#### Abstract
+
+This contribution is situated at the University of Saskatchewan, where Open Education Resources have been supported since 2014-2015. During the pandemic we began the work of translating The Lymphatic System of the Dog, by Dr. Hermann Baum into English. Originally published in 1918, Dr Baum’s book has been transitioned into Pressbooks, with the addition of ancillary resources. Balancing the legacy of Dr. Baum’s research with our own innovations in assessment and design engages new generations of learners and practitioners. The benefits for faculty and graduate students in designing and publishing openly must also be acknowledged. Locally designed and produced open education resources created with and by our university community is of significance to the academy. The use of open textbooks in university classes establishes a discourse and refinement of knowledge ensuring quality resources are designed and shared.
+
 ```
 
 
@@ -279,6 +384,16 @@ The respective findings suggest applicability in other contexts. This session ai
 **Investigating the Conversational Framework as a design approach (Research-Oriented)**
 
 *Maryam Shirdel Pour, Michael Paskevicius (University of Victoria)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/146)
+
+**Keywords**: Conversational Framework, Open Educational Resources, Open educational practices, students’ engagement, knowledge creation.
+
+#### Abstract
+
+The “Conversational Framework”, which represents a learning design framework for teaching and learning processes, could be used as a guide for integrating Open Educational Resources (OER) into education. With the growing tendency toward open and adaptable pedagogy, OER have achieved popularity as a method for supporting students’ access and enabling contributions to knowledge. These resources provide students with the possibility to play an active role in creating knowledge. However, the development of an effective environment to foster the process of learning can benefit from being grounded in a theoretical framework. The purpose of this paper is to explore the application of the “Conversational Framework” (Laurillard 2002, 2012) in designing effective educational experiences and specifically how OER may support students’ learning and engagement. Moreover, it will be discussed how this framework can help teachers consider how to design open learning experiences.
+
+
 ```
 
 ```{block, type='secondary'}
@@ -287,6 +402,16 @@ The respective findings suggest applicability in other contexts. This session ai
 **Defining Diversity in the Development of a Health Education Media Library (Practice-Oriented)**
 
 *Danielle Dilkes (University of Western Ontario)*
+
+[Materials](https://conference.otessa.org/index.php/conference/article/view/111)
+
+
+**Keywords**: open education, media, representation, cataloguing, participatory design, diversity, diversity theatre
+
+#### Abstract
+
+This interactive session is a reflection on the complexity of diversity and representation in the design of educational materials using the example of the development of the Health Education Media Library, a project funded by the 2021 eCampus Virtual Learning Strategy. This project was a response to the challenges of finding high-quality, diverse and inclusive media while creating health education content. The proposed solution was a community-sourced library of images, video and audio that would be made widely available for health educators. As the project evolved, however, this simplistic approach revealed the complexity of diversity work in higher education, starting with the not simple task of defining diversity, how that definition can codify identity, and the implications of that definition including some groups and excluding others. This session will provide an opportunity to reflect on some of the questions and considerations that were raised through the initial phase of the Health Education Media Library project, linking them to broader diversity discourse in higher education, curricular design, and media cataloguing. The session will reflect on the importance of how we approach this work and who is included, concluding with a reimagining of the participatory design of the project. 
+
 ```
 
 
