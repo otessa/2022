@@ -8,7 +8,6 @@ documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: otessa/2022
 description: "Open Technology in Education, Society, and Scholarship Association"
 ---
 
