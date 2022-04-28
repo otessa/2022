@@ -87,8 +87,10 @@
 
 *[Okan Bulut](https://orcid.org/0000-0001-5853-1267), University of Alberta*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/108)
 
+-->
 **Keywords**: survey, statistics, data visualization, open-source software, psychometrics
 
 #### Abstract
@@ -114,8 +116,10 @@ In social sciences, surveys are widely used by researchers to collect informatio
 
 *Joshua Halpern, Yasin Dahi, LibreTexts*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/130)
 
+-->
 
 **Keywords**: OER, Textbooks, Remixing
 
@@ -135,8 +139,10 @@ This workshop will describe how one large OER project encountered and met the ch
 
 *Suzan Koseoglu (University of Greenwich) & Royce Kimmons (Bringham Young University)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/150)
 
+-->
 
 
 **Keywords**: Open educational practice, Open scholarship, Open books, Academic publishing
@@ -174,8 +180,10 @@ In this interactive and creative workshop, participants will explore open books,
 
 *Lillian Chumbley (Trent University), [Jane Tyerman](https://orcid.org/0000-0001-8158-0833) (University of Ottawa)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/104)
 
+-->
 
 **Keywords**: VIPER, Escape Room, 360
 
@@ -193,8 +201,10 @@ This presentation will demonstrate the process for developing 360 Virtual Intera
 
 *Brenda Smith, Marie Martlett, Brenna Clarke Gray, Carolyn Ives (Thompson Rivers University)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/99)
 
+-->
 
 
 **Keywords**: OER, educational development, curriculum development, open education, open educational practices

@@ -90,7 +90,9 @@
 
 *Marie-Michelle Gouin, [Constance Denis](https://orcid.org/0000-0001-7808-2307), [Nathalie Lefebvre](https://orcid.org/0000-0002-2063-2932), Stéphanie Lanctôt, [Marilou Belisle](https://orcid.org/0000-0003-0457-9139) (Université de Sherbrooke)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/98)
+-->
 
 
 **Keywords**: Formation et usages du numérique, Apprentissage par projet, Démarche SoTL, Apprentissage expérientiel
@@ -126,7 +128,9 @@ Pour résoudre des enjeux dénotés dans l'un des cours d’intégration d’un 
 
 *Don Eldridge, Megan Houghton (eCampusOntario)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/124)
+-->
 
 
 
@@ -160,8 +164,10 @@ Adaptive learning (AL) leverages the power of technology to continuously modify 
 
 *Behnoosh Khoramrooz, Valerie Irvine, [Joan Martin](https://orcid.org/0000-0003-4972-0001) (University of Victoria)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/136)
 
+-->
 
 
 **Keywords**: online learning, motivation, self-determination theory, online teaching, student attribution, e-learning, autonomy, competence, relatedness
@@ -180,8 +186,10 @@ Prior to the COVID-19, online learning has been gradually increasing in educatio
 
 **Keywords:** assessment, technology, higher education, approaches to assessment
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/138)
 
+-->
 #### Abstract
 
 Assessment is a core component of teaching and learning in higher education and has been impacted in various ways by the growth of technology in society and education. Assessment is a process of inferring ability (knowledge or skills) based on evidence provided through the completion of various types of performance tasks. Technology has impacted assessment practices in higher education in multiple ways, including large scale admissions and certification exams, classroom assessment practices such as monitoring remote learners as they write exams, and also enabling instructors to more closely align their assessment practices with common outcomes of 21st century higher education including collaboration, problem solving, creativity, and divergent thinking. This review of the literature explores how technology has impacted assessment practices in higher education in light of the model of Pellegrino et al.'s  assessment triangle and DeLuca et al.'s approaches to classroom assessment with the objective of synthesizing current literature to inform ethical assessment policy and practice in technologically mediated higher education.
@@ -197,8 +205,10 @@ Assessment is a core component of teaching and learning in higher education and 
 
 *[Sara Humphreys](https://orcid.org/0000-0001-6337-5828), Loren Gaudet (University of Victoria)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/133)
 
+-->
 **Keywords**: EDI, anti-racism, decolonization, academic writing, OER
 
 #### Abstract
@@ -222,8 +232,10 @@ The case study in question involved the creation of Why Write, an anti-racist an
 
 **Keywords**: open educational practices, open pedagogy, open education, OER, open educational resources, climate emergency, climate change
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/123) 
 
+-->
 #### Abstract
 
 Education has a vital role in supporting learners across sectors in understanding the causes and impacts of environmental collapse (UNESCO, 2015) and addressing them through global citizenship, individual and collective direct action, and democratic participation. However, there's abundant evidence that educators, worldwide, lack the knowledge and skills to effectively address the climate emergency in their teaching (Teach the Future, 2021).  
@@ -258,8 +270,10 @@ The presentation draws on research with students and educators discussing climat
 
 *Lizzie Iblauk, Kathy Snow, Diane Montgomery (University of Prince Edward Island)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/116)
 
+-->
 **Keywords**: professional developmenent, Decolonizing, Indigenous
 
 #### Abstract
@@ -288,8 +302,10 @@ As with many graduate level programs, the X program was faced with a rapid shift
 
 *[Colin Madland](https://orcid.org/0000-0002-1761-1903) (University of Victoria), [Maxwell Ofosuhene](https://orcid.org/0000-0001-9019-3261) (Trinity Western University), and Jennifer Adkins (Trinity Western University)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/137)
 
+-->
 
 **Keywords**: racial discrimination, algorithmic bias, software, technology, erasure
 
@@ -316,8 +332,10 @@ Considering that most digital tools are built on a foundation of yesterday’s a
 
 *Melanie Opmeer (University of Calgary)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/105)
 
+-->
 
 
 **Keywords**: Technology-enhanced learning environments, Communication, Collaborative Learning, Boundary Object, Social Interdependence Theory, Connectivism, Higher education
@@ -347,8 +365,10 @@ The purpose of this qualitative case study is to examine how technology-enhanced
 
 **Keywords**: feedback, artificial intelligence, learning analytics, educational data mining, assessment
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/125)
 
+-->
 #### Abstract
 
 Feedback is an important part in educational assessment that improves student learning. As education changes with the advancement of technology, educational assessment has also adapted accordingly to the advent of Artificial Intelligence (AI). Despite the increasing use of online assessments during the last decade, a limited number of studies have discussed the process of feedback generation as implemented through AI. To address this gap, we propose a conceptual paper to organize and discuss the application of AI in the feedback generation and delivery processes. Among different branches of AI, Natural Language Processing (NLP), Educational Data Mining (EDM), and Learning Analytics (LA) play the most important roles in the feedback generation process. The process begins with the analysis of students’ data from educational assessments to build a predictive machine learning model with additional features such as students’ interaction with course material using EDM methods to predict students’ learning outcomes. Written feedback can be generated from a model with NLP-based algorithms before being delivered along with non-verbal feedback via a LA dashboard or a digital score report. This paper could contribute to the understanding of the feedback generation process to serve as a venue for the future development of digital feedback.

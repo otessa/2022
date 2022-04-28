@@ -100,8 +100,10 @@
 
 **Keywords:** Appreciative Inquiry, Online Learning, Educational Development, Tech-enhanced Practices, COVID-19 Pivot
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/34)
 
+-->
 #### Abstract
 
 COVID-19 disrupted educational contexts worldwide, providing a possible catalyst for the transformation of teaching and learning. However, without thoughtful reflection and purposeful planning, a post-pandemic return to the status quo seemed likely. The presenters believe that what we focus on determines our perception, and a vision for an ideal future supports purposeful action in that direction.  
@@ -131,8 +133,10 @@ The respective findings suggest applicability in other contexts. This session ai
 
 *Michael Canuel (LearnQuebec)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/143)
 
+-->
 
 
 **Keywords**: Online tutoring, Professional learning
@@ -159,8 +163,10 @@ There is considerable anecdotal evidence that online tutoring benefits students 
 
 *Michael Cottrell, Kristine Dreaver-Charles (University of Saskatchewan)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/135)
 
+-->
 **Keywords:** Internationalization, Indigenization, Higher Education teaching and learning, Study Abroad, Epistemological third spaces, Decolonizing curriculum
 
 #### Abstract
@@ -176,8 +182,10 @@ This proposal aligns with the themes “The Transitions of Online Learning and T
 
 *Michael Paskevicius (University of Victoria)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/100)
 
+-->
 
 **Keywords**: learning design, open pedagogy, Critical Pedagogy
 
@@ -192,8 +200,10 @@ In this presentation we provide an update on the development of an experimental 
 
 *Verena Roberts (University of Calgary & Thompson Rivers University), Leo Havemann (University College London), Helen Dewaard (Lakehead University & University of British Columbia)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/102)
 
+-->
 
 **Keywords**: open learning design, open educational practices, learning design
 
@@ -207,8 +217,10 @@ This presentation will consider principles of open learning design, as explored 
 
 *Richard Hayman (Mount Royal University)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/107)
 
+-->
 **Keywords:** Open access, Scholarly communications, Academic publishing, Teaching and learning
 
 #### Abstract
@@ -223,8 +235,10 @@ This presentation presents the results of a research study examining scholars’
 
 *Kevin McDermott, Jane Gravill, Fatih Yegal, Kimberlee Carter (Conestoga College)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/109)
 
+-->
 
 **Keywords**: OER, Teaching Case Journal, Case Writing, Openly licensed business cases
 
@@ -251,8 +265,10 @@ Conestoga College is a student-centric community college that services a diverse
 
 *Terry Greene (Trent University), Giulia Forsythe (Brock University)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/106)
 
+-->
 
 **Keywords**: education, post-secondary, online learning, study skills, collaboration, learning technology, open education, OER
 
@@ -270,8 +286,10 @@ Recognizing that most issues post-secondary students face are complex and ill-st
 
 *Marta Samokishyn (Saint Paul University)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/139)
 
+-->
 
 **Keywords**: Information literacy, Online learning, Self-efficacy
 
@@ -346,8 +364,10 @@ Students’ motivation and engagement have been a subject of concern in online l
 
 *[Jenni Hayman](http://orcid.org/0000-0001-6410-7235) (Cambrian College)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/131)
 
+-->
 
 **Keywords**: post-pandemic teaching, multi-modal learning, literature review
 
@@ -364,8 +384,10 @@ It is hard to imagine anyone in Canadian higher education (learners, faculty, st
 
 *[Kristine Dreaver-Charles](https://orcid.org/0000-0003-2550-163X), [Monique Mayer](https://orcid.org/0000-0003-3414-3918) (University of Saskatchewan)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/97)
 
+-->
 
 **Keywords**: Open textbooks, Open education resources (OER), H5P, Equitable access, Catalysts of open
 
@@ -385,8 +407,10 @@ This contribution is situated at the University of Saskatchewan, where Open Educ
 
 *Maryam Shirdel Pour, Michael Paskevicius (University of Victoria)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/146)
 
+-->
 **Keywords**: Conversational Framework, Open Educational Resources, Open educational practices, students’ engagement, knowledge creation.
 
 #### Abstract
@@ -403,8 +427,10 @@ The “Conversational Framework”, which represents a learning design framework
 
 *Danielle Dilkes (University of Western Ontario)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/111)
 
+-->
 
 **Keywords**: open education, media, representation, cataloguing, participatory design, diversity, diversity theatre
 

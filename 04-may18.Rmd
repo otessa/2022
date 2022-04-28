@@ -90,8 +90,10 @@
 
 *Leanne Huston,* *Rochelle Smith, Rhyanon Logan-Goyette (Langley School District & University of Victoria)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/132)
 
+-->
 
 **Keywords**: engagement, asynchronous online learning, blended learning, hybrid learning, social constructivism, community of inquiry, teacher presence
 
@@ -107,8 +109,10 @@ Consistently, teachers and researchers have questioned how to engage students wh
 
 *Keith Rispin (West Vancouver School District & University of Victoria), Valerie Irvine (University of Victoria)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/142)
 
+-->
 **Keywords:** technology adoption, technology implementation, educational change, learner equity, government planning, access to education
 
 #### Abstract
@@ -143,8 +147,10 @@ In this session, we look at how education technology in Canada is distributed to
 
 *Kimberlee Carter, Maria Camila Redondo Morant (Conestoga College)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/110)
 
+-->
 
 **Keywords**: Open, OER, Open Educational Resources, Co-Construction with Learners, Co-design with Learners
 
@@ -161,8 +167,10 @@ Academic integrity issues in higher education have been reported as increasing a
 
 *Laura Killam (Queens University), Jess Mitchell (Ontario College of Art and Design University)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/103)
 
+-->
 
 
 **Keywords**: Co-creation, Open Pedagogy, Co-design
@@ -190,8 +198,10 @@ Co-creation is an open practice where learners participate in decision-making ab
 
 *[Géraldine Heilporn](https://orcid.org/0000-0002-7951-4420) (Université Laval), Audrey Raynault (Université Laval), Alice Mascarenhas (Université de Sherbrooke), Constance Denis (Université de Sherbrooke)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/115)
 
+-->
 
 **Keywords**: enseignement supérieur, évaluation, authenticité, activités d'apprentissage, soutien aux apprentissages
 
@@ -209,8 +219,10 @@ Dans cette communication, nous présenterons diverses façons permettant de dive
 
 *Robert Grégoire, Jacques Cool, Olivier Alfieri (Réseau d'enseignement francophone à distance)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/141)
 
+-->
 
 **Keywords**: Français
 
@@ -233,8 +245,10 @@ Four online panels hosted by two industry experts and their guests will explore 
 
 *Christie Hurrell, Karen Bourrier, Kathryn Holland, [Jessica J Khuu](https://orcid.org/0000-0002-8699-141X) (University of Calgary)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/134)
 
+-->
 
 **Keywords**: scholarly podcast, women's writing
 
@@ -254,8 +268,10 @@ In this presentation, the Orlando team will share lessons learned from this tech
 
 *Brenna Clarke Gray (Thompson Rivers University)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/122)
 
+-->
 
 **Keywords**: educational technology, critical digital pedagogy, open processes, modelling processes
 
@@ -287,8 +303,10 @@ Using Sean Michael Morris and Jesse Stommel’s landmark essay “A Guide for Re
 
 *Valerie Irvine, Michael Paskevicius, [Colin Madland](https://orcid.org/0000-0002-1761-1903), [Rich McCue](https://orcid.org/0000-0003-3503-5935), [Verena Roberts](https://orcid.org/0000-0003-3336-7805) (University of Victoria)*
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/148)
 
+-->
 
 **Keywords**: open education, co-teaching, course design, instructional design, open educational resources, OER, intellectual property
 
@@ -335,8 +353,10 @@ As open course designs are being implemented in regular post-secondary credit co
 
 **Keywords**: online teaching and learning, trauma-informed practice, trauma-informed, care-centered pedagogy
 
+<!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/51)
 
+-->
 #### Abstract
 
 Schools and educational systems have as their express purpose to provide support for students throughout their learning, but they also have the power to harm. It goes without saying that no student should be harmed in the pursuit of their education. A growing area of research has begun to look at how trauma and retraumatization affect learning in tertiary education in a face-to-face modality. Fewer studies have explored trauma, and its effects, in online classes. This presentation describes a study that uses a constructivist grounded theory approach to examine how college instructors think about and design trauma-informed practices in both their online and face-to-face classes. Using dimensional analysis, the core dimension that emerged from the data was Creating a Learning Environment of Care. A model for the process of Creating a Learning Environment of Care is provided along with a model for Creating a Learning environment of Care online. Theoretical propositions and practical applications are provided based on the data from this research.
