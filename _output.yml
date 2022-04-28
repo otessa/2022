@@ -7,7 +7,7 @@ bookdown::gitbook:
       collapse: section
       scroll_highlight: true
       before: |
-        <li><a href="https://otessa.org/2022-fr/program" target="blank">En Français</a></li>
+        <li><a href="https://otessa.org/otessa22-fr/program" target="blank">En Français</a></li>
       after: |
         <li><a href="https://bookdown.org" target="blank">Published with bookdown</a></li>
     download: ["epub"]
