@@ -60,6 +60,15 @@
 #### Digital Inequalities in Education by Design
 
 *Simon Collin, Université du Québec à Montréal*
+
+**Keywords:** digital inequalities, design, use
+
+
+#### Abstract 
+
+Digital inequalities in education have primarily been studied in terms of disparate technological access, uses, and skills embedded in academic and social inequalities (Brotcorne, 2022). However, it is possible to think that digital inequalities are configured upstream from the use of technologies by educational actors. From this systemic perspective, inequalities of use represent the culmination of a process of configuration of digital inequalities that begins with the design of educational technologies. 
+
+To account for this, we draw on "social shaping of technology" studies from a critical perspective, borrowing the "script" metaphor developed by Akrich and Latour (1992). Applied to digital inequalities in education, the design and use of educational technologies constitute one and the same process during which power scripts are progressively forged and stabilized by certain actors (industrial, political, IT, educational) at the expense of others, particularly educational actors from disadvantaged environments. Thus, digital inequalities result from the greater or lesser convergence between the educational actors targeted by the design of educational technologies and those who use them.
 ```
 
 ### Parallel Session 13.2 {-}
@@ -68,6 +77,12 @@
 #### The Ripple Effect: Reflecting Upon and Developing an Open Learning Identity Through the Pandemic and Beyond
 
 *Verena Roberts, Thompson Rivers University*
+
+**Keywords:** open advocate, open identity, open educational practices, open learning design 
+
+#### Abstract 
+
+At the beginning of the pandemic, I had just completed my dissertation research which considered the potential of open educational practices in high school contexts. I was excited to go back into K-12 to help support my perceived need for open and online learning during the time of remote access learning. However, I quickly learned that the open learning design intervention (OLDI) principles and findings from my research (Roberts, 2019) had more prospects in Higher Education than in K-12 contexts. As I transitioned through short-term contract positions, I am now a contract Instructional Designer at TRU (Thompson Rivers University) supporting the ZTC Associate Science diploma pathway. My reflective writing and open learning experiences in open pandemic pedagogy (Havemann & Roberts, 2021), open participatory practices including blogging (DeWaard & Roberts, 2021), collaborative picture books (Roberts et. al, 2020), twitter (Brown & Roberts, 2022) and podcasts (Roberts & Neutzling, 2022) and open learning design (Roberts, 2021; Brown et. al, 2021) has inspired my future open research opportunities (Roberts et al., 2022). This talk will tell the story of how the pandemic experiences helped me envision the potential of the Ripple Effect which  encouraged me to balance my open learning designer identity with my professional reality.  Participants will be encouraged to consider their open learning journeys and how to be an open learning advocate in spirit and as a calling. 
 ```
 
 
@@ -456,6 +471,14 @@ This interactive session is a reflection on the complexity of diversity and repr
 *Tim Maughan (script writer)*  
 *Hingman Leung (director)*  
 *Lesley Marshall (co-producer)*  
+
+**Keywords:** ed tech, surveillance, AR, acab 
+
+#### Abstract 
+
+The sudden shift from in-person to online classes due to COVID 19 has led to increasingly invasive surveillance technologies in education, including the use of problematic online proctoring software purportedly aimed at addressing academic integrity. 
+
+#tresdancing, the fourth film in the Screening Surveillance series (www.screeningsurveillance.com), speculates on the effects of escalating surveillance and control through educational technology. In this near future fiction narrative, a young person has little choice as they are forced to ramp up their engagement with a new, experimental technology in order to make up for a failing grade.
 ```
 
 ## Closing Comments - Conference Co-Chairs / Introducing Workshops & Unconference (6:45 – 6:55) {-}
