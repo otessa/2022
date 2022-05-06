@@ -1,7 +1,12 @@
 # Thursday, May 19, 2022 
 ### Legend {-}
 
+```{block, type='protip'}
 
+#### ✨ Note{-}
+
+***All times are in Eastern Time (Canada)***
+```
 
 ```{block, type='reflect'}
 #### Keynote
@@ -22,12 +27,6 @@
 
 ```
 
-```{block, type='protip'}
-
-#### ✨ Note{-}
-
-***All times are in Eastern Time (Canada)***
-```
 --- 
 
 
@@ -199,7 +198,7 @@ This proposal aligns with the themes “The Transitions of Online Learning and T
 ```{block, type='secondary'}
 #### Provocations and Perspectives: A Work in Progress Learning Design Framework (Practice-Oriented)
 
-*Michael Paskevicius (University of Victoria)*
+*Michael Paskevicius (University of Victoria), Michelle Harrison (Thompson Rivers University), and Irwin DeVries (Royal Roads University)*
 
 <!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/100)

@@ -1,7 +1,12 @@
 # Wedesday, May 18, 2022 
 ### Legend {-}
 
+```{block, type='protip'}
 
+#### ✨ Note{-}
+
+***All times are in Eastern Time (Canada)***
+```
 
 ```{block, type='reflect'}
 #### Keynote

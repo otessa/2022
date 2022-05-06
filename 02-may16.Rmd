@@ -2,6 +2,13 @@
 
 ### Legend {-}
 
+```{block, type='protip'}
+
+#### ✨ Note{-}
+
+***All times are in Eastern Time (Canada)***
+```
+
 ```{block, type='reflect'}
 #### Keynote
 
@@ -20,12 +27,7 @@
 #### Social Session
 
 ```
-```{block, type='protip'}
 
-#### ✨ Note{-}
-
-***All times are in Eastern Time (Canada)***
-```
 --- 
 
 
