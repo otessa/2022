@@ -178,6 +178,12 @@ Adaptive learning (AL) leverages the power of technology to continuously modify 
 **Students Feel More Dignified”: Alternative Grading and Self-Assessment in Online Courses (Research-Oriented)**
 
 *Sharon Lauricella (Ontario Tech University)*
+
+**Keywords:** alternative grading, peer assessment, self assessment, ungrading
+
+#### Abstract 
+
+Judging, marking, and ranking students is a common practice in higher education, though the pervasive dependence upon grades to dictate a student’s success or failure has come under increased scrutiny.  While “ungrading” and alternative grading practices are endorsed by progressive educators, there are few systematic, empirical studies of student responses to nontraditional grading.  This study analyzed student reports of the benefits, challenges, and suggested improvements for “ungrading” using peer and self assessment in two fourth-year undergraduate courses (n=87).  Student responses were overwhelmingly positive; notable positive effects of ungrading include increased motivation, decreased stress, and improved connection with peers.  Challenges included being too self-critical and needing the guidance of a rubric for a gauge of where students stand in the course.  Implications of this study include suggestions for freedom from the restriction, stress, and competition associated with grades, and the potential to move toward a postsecondary experience characterized by authenticity and and intrinsic motivation.
 ```
 
 ```{block, type='secondary'}
@@ -327,6 +333,12 @@ Feeling isolated or disconnected has always been present for some university com
 **From Study Abroad to Virtual Study Abroad: Decolonizing and Opening the Academy (Practice-Oriented)**
 
 *Kristine Dreaver-Charles (University of Saskatchewan), Michael Cottrell (University of Saskatchewan)*
+
+**Keywords:** open textbooks, open education resources, OER, equitable access, catalysts of open
+
+#### Abstract 
+
+This contribution is situated at the University of Saskatchewan, where Open Education Resources have been supported since 2014-2015. During the pandemic we began the work of translating The Lymphatic System of the Dog, by Dr. Hermann Baum into English. Originally published in 1918, Dr Baum’s book has been transitioned into Pressbooks, with the addition of ancillary resources. Balancing the legacy of Dr. Baum’s research with our own innovations in assessment and design engages new generations of learners and practitioners. The benefits for faculty and graduate students in designing and publishing openly must also be acknowledged. Locally designed and produced open education resources created with and by our university community is of significance to the academy. The use of open textbooks in university classes establishes a discourse and refinement of knowledge ensuring quality resources are designed and shared.
 ```
 
 ```{block, type='secondary'}
@@ -358,6 +370,14 @@ Considering that most digital tools are built on a foundation of yesterday’s a
 **Humanizing with Humility: The Challenge of Creating Caring, Compassionate, and Critical Educational Spaces in Higher Education (Practice-Oriented)**
 
 *Sarah Driessens (Nipissing University), Michelann Parr (Nipissing University)*
+
+**Keywords:** humanizing learning, pedagogy of care, reflective practice
+
+#### Abstract 
+
+Leading with care and compassion, critically reflecting on our teaching practices, and  collaboration has always been central to our pedagogical practices. It is no wonder that we were both immediately drawn to participate in the #OnHumanLearn project, an initiative designed to humanize learning in higher education. The more we learned/unlearned/relearned to take our professional practice one step further, the more we noticed the divide between our engaged and disengaged learners growing. We also started to notice our own sense of powerlessness intensify alongside feelings of fatigue and frustration for our inability to reach the disengaged. We wondered what we could be doing differently to reach them. 
+
+As we reflect on the process, we humbly accept that leading with care also means caring for ourselves, and that any initiative working to humanize higher learning ought to firmly embed and embody co-learning as a relational and reciprocal approach. In this session, we seek to broaden Figure 1 (see below) by paying attention to inequities that became more apparent or were created as we sought to humanize education, the opportunities we have found, and our developing awareness of what is needed to sustain change. 
 ```
 
 ```{block, type='secondary'}

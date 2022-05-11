@@ -300,8 +300,6 @@ Due to the COVID-19 pandemic, many students are facing potential learning gaps d
 
 The Liberated Learner, funded by the eCampusOntario Virtual Learning Strategy, is an inter-institutional collaboration that brings together student co-designers and elearning professionals. This open resource consists of four modules that mirror the Ontario Extend for Educators modules (Lopes & Porter, 2018), but are customised to the learner context. These modules are Learner (learning strategies), Technologist (digital fluency skills), Collaborator (communication, group work, community member), & Navigator (curating, fact checking, other scholarly skills). The goal is to provide learners a similar opportunity to gain confidence and independence in their post-secondary experience online.
 
- 
-
 Recognizing that most issues post-secondary students face are complex and ill-structured (Cormier, 2021), the design and development of the Liberated Learner open modules were primarily student-led. During a week-long design sprint, 120 students generated 99 wicked problems. This collection of personal stories document students’ real life post-secondary challenges. These stories then informed the content of the 4 modules as they were developed together with student co-designers from each institution. They also provided a pathway into the Liberated Leaner modular support at multiple levels of experience (beginner, intermediate, advanced). Each module also consists of a student created Beats to Study to intro to help learners get into the learning groove.
 ```
 
@@ -384,9 +382,9 @@ This practice-oriented session addresses two identified gaps: (a) the absence of
 
 #### Building Open Education Resources with Teacher Candidates – Reflections from the Field
 
-*Natalie Currie Patterson*
+*Natalie Currie Patterson, Emma Facca, Victoria Crocco, Brock University*
 
-**Keywords:** open pedagogical practice, OER, pre-service teacher education, complexity
+**Keywords:** open pedagogy, OER, teacher education, ungrading, collaborative grading, open educational resources
 
 #### Abstract
 

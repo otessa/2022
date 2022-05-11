@@ -148,6 +148,13 @@ _Vivekanandan Kumar (Athabasca University), Mohamed Ally (Athabasca University),
 **Investigating the effects of computer-generated contextual landmarks on short-term recall of e-texts (Research-Oriented)**
 
 _Jon Dron, Rory McGreal, Vive Kumar, Jennifer Davies (Athabasca University)_
+
+**Keywords:**
+
+#### Abstract 
+
+E-texts have many advantages over their paper counterparts, especially when reflowable and available as open educational resources (OERs). Unfortunately, research suggests that e-texts are, on the whole, less memorable than p-texts, in part due to their relative lack of visual navigational landmarks that help to anchor recall. The Landmarks project team is, therefore, building an application that inserts computer-generated artificial imperfections – abstract or representational landmarks - into the display of e-texts, that remain consistently associated with text passages even when documents are reflowed or reformatted. We hypothesize that it may consequently be easier to recall the associated contents. The application is designed to provide the means to present modified open texts using a range of generated landmarks and variations on them, and to test recall of the content. In this initial pilot study, results of tests for readers receiving different landmarks will be compared, with the intent of identifying promising approaches to use for future studies.
+
 ```
 
 ```{block, type='secondary'}
@@ -282,6 +289,12 @@ _Scott Warren, Scott Moran, Kristen McGuffin (University of North Texas)_
 **Sustaining Complexity: Why Higher Education Should Avoid TechnoSolutionism (Practice-Oriented)**
 
 _Jim Luke (Lansing Community College), Bonnie Stewart (University of Windsor)_
+
+**Keywords:** change, technology, complexity, technosolutionism, cynefin
+
+#### Abstract 
+
+During the pandemic, two long-separate perspectives on digital technologies and the work of higher education have become even more distinct. This presentation will frame these distinctions in terms of ‘complicated’ and ‘complex’ domains, using Snowden & Boone’s (2007) Cynefin framework. The session will demonstrate how management perspectives on higher education reflect complicated approaches to problems in Cynefin terms. We will show how, in relation to educational technology and online learning, complicated approaches obscure the complexity of learning for claims of simple, technical answers, or what Morozov (2013) calls ‘technosolutionism.’ We will suggest, on the other hand, that critical pedagogies and open educational practices align with what Cynefin calls the complex domain. Complex problems - like the human problems of pedagogy and learning - cannot be solved with the complicated approaches that technosolutionism lends itself to. Post-pandemic, with the huge incursion technological platforms - and promises - have made into higher education, choosing complicated approaches to pedagogical problems risks failing to address the core mission of teaching and learning entirely. Thus, we explore how to distinguish between complicated and complex problems, and suggest practices and pathways to allow higher education professionals to build on the pandemic’s changes in positive ways.
 ```
 
 

@@ -342,6 +342,12 @@ As open course designs are being implemented in regular post-secondary credit co
 **Nonverbal Communication (NVC) and teacher presence in collaborative online learning in primary school (Research-Oriented)**
 
 *Ayşegül Liman Kaban (Bahcesehir University)*
+
+**Keywords:** online learning, nonverbal communication, teaching presence, cognitive presence, interaction
+
+#### Abstract 
+
+Communication process requires a powerful combination of verbal and nonverbal processes that is one of the abilities that every teacher needs to master. In communication, the estimation of sixty-five to seventy percent of the message is received by nonverbal and only thirty to thirty-five percent by verbal communication. This research seeks to analyze the effect of nonverbal communication by primary teachers on the motivation and presence of students in a collaborative online learning environment. The information was gathered by questionnaires and interviews from both instructors and learners. Qualitative research methods were used in this study. The results showed that Nonverbal Communication can be an essential source of inspiration and attention for the learning process of students and a medium to attract their attention. Relying on the research outcomes that show the important role of Nonverbal Communication (NVC) in the teaching and learning process teachers by using the appropriate NVC types, eventually, play a critical role during online collaborative teaching which can affect students’ motivation and higher collaborative learning participation. To accurately convey learning content to students, teachers will have to improve and expand positive interactions.
 ```
 
 ```{block, type='secondary'}
@@ -388,6 +394,12 @@ Schools and educational systems have as their express purpose to provide support
 #### The SAMR Model as a Framework for Scaffolding Online Chat (Research-Oriented)
 
 *Janine Aldous Arantes*
+
+**Keywords:** SAMR, technology-enhanced learning, WhatsApp, online learning community
+
+#### Abstract 
+
+With its increasing reach, accessibility, and frequency of use, WhatsApp can shape the way educators and students share content and communicate in higher education. The purpose of this paper is to report on an Online Learning Community (OLC) using WhatsApp that explored the ‘Implications and Impacts' component of the Australian Digital Technologies Curriculum with seven pre-service teachers (PST). Through analysis of online chats and thematic analysis, the paper demonstrates the potential use of Puentedura’s (2014) Substitution, Augmentation, Modification and Redefinition (SAMR) model in both online learning communities and as a research method via WhatsApp. This paper reports on an example of the findings of the Substitution prompt, to support the discussion and demonstration. Unique contributions to the discussion, include the interpretive and critical approaches discussed in the paper, in terms of research methods and a guided example of using the SAMR model in a research context. The paper may be of value to both researchers who are interested in a scaffolded means to engage with participants through an online learning community, as well as teachers using technology in educational contexts.
 ```
 
 ## Break (5:30 – 6:00) {-}
