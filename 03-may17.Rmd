@@ -423,7 +423,7 @@ Feedback is an important part in educational assessment that improves student le
 
 #### Abstract
 
-Cette session examine les progrès de la recherche sur l'apprentissage et l'éducation et sa lutte pour être libre et accessible à tous les enseignants, étudiants et chercheurs du monde entier. Elle examine les progrès d'IRRODL, qui est passé d'une revue en ligne naissante à l'une des revues les plus lues et citées dans notre domaine. Il examine ensuite les modèles or, argent et platine de publication formelle, le développement de ces modèles dans le monde quasi monopolistique de l'édition commerciale, l'impact des revues et conférences prédatrices. Enfin, la présentation examine les opportunités et les défis présentés par les modèles de publication au noir qui échappent aux restrictions du droit d'auteur.
+This session examines the progress of research on learning and education and its struggle to be free and accessible to all teachers, students, and researchers around the world. It examines the progress of IRRODL from a fledgling online journal to one of the most widely read and cited journals in our field. It then examines the gold, silver, and platinum models of formal publication, the development of these models in the near-monopolistic world of commercial publishing, the impact of predatory journals and conferences. Finally, the presentation examines the opportunities and challenges presented by black publishing models that escape copyright restrictions.
 ```
 
 ### Parallel Session 8.2 {-}
