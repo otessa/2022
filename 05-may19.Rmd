@@ -101,6 +101,12 @@ At the beginning of the pandemic, I had just completed my dissertation research 
 **Évolution de pratiques pédagogiques inclusives au collégial en contexte pandémique (Research-Oriented)**
 
 *Géraldine Heilporn (Université Laval), Simon Larose (Université Laval), Catherine Beaulieu (Cégep de Saint-Laurent, Montréal, Québec)*
+
+**Keywords:** inclusion, pratiques pédagogiques, postsecondaire, recherche mixte, pandémie
+
+#### Abstract 
+
+La pandémie a amené de nombreux changements en enseignement postsecondaire, notamment une transition des cours en présentiel vers des cours hybrides et en ligne. Afin d'améliorer l'accessibilité de ces cours pour tous les étudiants, l'usage de pratiques pédagogiques inclusives par les enseignants vise à éliminer les barrières potentielles aux apprentissages et à l'engagement des étudiants en répondant à des besoins diversifiés. Toutefois, la recherche sur les pratiques pédagogiques inclusives est encore peu développée, quelles que soient les modalités de cours ou les ordres d'enseignement. Cette étude analyse l'évolution des pratiques pédagogiques inclusives engendrées par le contexte pandémique en enseignement collégial, suivant une approche méthodologique de recherche mixte. Les perceptions d'étudiants de 10 établissements d'enseignement collégial au Québec (Canada) ont été recueillies sur les usages de pratiques pédagogiques inclusives dans leurs cours avant et pendant la pandémie, par questionnaires (n = 1242) et entrevues (n = 25). Les principaux résultats dégagés dans cette étude seront présentés à la conférence.
 ```
 
 
@@ -280,25 +286,6 @@ Due to the COVID-19 pandemic, many students are facing potential learning gaps d
 ```
 
 ```{block, type='secondary'}
-#### The Liberated Learner: How to Learn with Style
-
-*Terry Greene (Trent University), Giulia Forsythe (Brock University)*
-
-<!--
-[Materials](https://conference.otessa.org/index.php/conference/article/view/106)
-
--->
-
-**Keywords**: education, post-secondary, online learning, study skills, collaboration, learning technology, open education, OER
-
-#### Abstract
-
-The Liberated Learner, funded by the eCampusOntario Virtual Learning Strategy, is an inter-institutional collaboration that brings together student co-designers and elearning professionals. This open resource consists of four modules that mirror the Ontario Extend for Educators modules (Lopes & Porter, 2018), but are customised to the learner context. These modules are Learner (learning strategies), Technologist (digital fluency skills), Collaborator (communication, group work, community member), & Navigator (curating, fact checking, other scholarly skills). The goal is to provide learners a similar opportunity to gain confidence and independence in their post-secondary experience online.
-
-Recognizing that most issues post-secondary students face are complex and ill-structured (Cormier, 2021), the design and development of the Liberated Learner open modules were primarily student-led. During a week-long design sprint, 120 students generated 99 wicked problems. This collection of personal stories document students’ real life post-secondary challenges. These stories then informed the content of the 4 modules as they were developed together with student co-designers from each institution. They also provided a pathway into the Liberated Leaner modular support at multiple levels of experience (beginner, intermediate, advanced). Each module also consists of a student created Beats to Study to intro to help learners get into the learning groove.
-```
-
-```{block, type='secondary'}
 #### The role of inquiry-based information literacy curriculum design in fostering self-efficacy in the digital learning environment
 
 *Marta Samokishyn (Saint Paul University)*
@@ -393,11 +380,7 @@ This practice-oriented session addresses two identified gaps: (a) the absence of
 ```{block, type='secondary'}
 #### Graduate Supervision Webinar Series: Open, Online, and Transdisciplinary Faculty Development (Research-Oriented)
 
-*Michele Jacobsen, PhD, Werklund School of Education, University of Calgary  
-Hawazen Alharbi, PhD, King Abdulaziz University, Saudi Arabia  
-Shauna Reckseidler-Zenteno, PhD, Athabasca University   
-Shawn Fraser, PhD, Athabasca University  
-Sonja Johnston, PhD student, Werklund School of Education, University of Calgary*  
+*Michele Jacobsen (University of Calgary), Hawazen Alharbi (King Abdulaziz University, Saudi Arabia), Shauna Reckseidler-Zenteno, (Athabasca University),Shawn Fraser (Athabasca University), Sonja Johnston (University of Calgary)*  
 
 **Keywords:** webinars, MOOCs, online community of practice, graduate supervision, faculty development
 

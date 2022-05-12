@@ -97,6 +97,8 @@ Schön (1983) describes reflection-in-action as a sort of conversation that desi
 
 *Audrey Raynault*
 
+**Keywords:** IEP, collaborative practice, student agency
+
 #### Abstract 
 
 Research agrees on the fact that the student who actively participates in the process of his plan of intervention (IP) is positively linked to the commitment of the parents in the latter, to the desired learning results, to an increase in the number of high school diplomas in addition to encouraging interprofessional collaboration. Unfortunately, research highlights that practitioners make little use of their collaborative practices and insufficiently promote student agency during the IEP process. The MIXITÉ collaborative research project adopts a collaborative partnership approach in which adults collaborate and maximize their agency and that of the student in the Digital-ACTIVE process of their IP. A collaborative methodology taking place at a distance allowed students, their parents and teachers, the management and the psychoeducator of a school, a patient-partner, social workers and managers of a CIUSSS to co-create two strategies to be implemented. attempt to improve collaborative practices focused on student agency in their IP. This communication presents 1) the process of the IP Digital-ACTIVE to be tested and 2) the planning of intersectoral meetings in order to better understand the roles of each and create cohesion between the actors.
@@ -166,7 +168,16 @@ We examine and reflect on sustaining positive change and innovation in Scholarsh
 #### 2:15-2:45
 
 **Design Strategy Plus Pandemic Serendipity: Technology-Enhanced Entrepreneurship Education using Open Learning and Micro-credentials (Practice-Oriented)**
+
 *Sonja Johnston, Michele Jacobsen (University of Calgary)*
+
+**Keywords:** open learning, entrepreneurship education, micro-credentials, work-integrated learning, pedagogy
+
+#### Abstract 
+
+In a recent pilot for a redesign of an undergraduate entrepreneurship course, factors for consideration included: materials and resource costs, ability for work-integrated learning, and responding to the contemporary needs of the workplace outside of the postsecondary institution. The utilization of an industry leader’s open learning platform and the implementation of micro-credential certificates supported student experience to bridge theory to experience and work-integrated learning. The use of multiple credentials (in addition to course grading) provided additional dimensions of learning and experience.
+
+This redesign was developed through 2019 and launched just prior to the COVID-19 pandemic in the winter semester of 2020. The intentional strategy of the course design was to build competency through theory and content, develop application with micro-credential certificates, and then to utilize work-integrated learning by creating an ecommerce website to service an existing business or start-up plan. Serendipitously, as businesses and the ecommerce platform were forced to quickly adjust in response to the impacts of the pandemic, students were able to learn and design in real circumstances and applications. Critical questions are being raised concerning equitable access to technology and the reciprocity of gains in the open learning platform between students, institutions, and profitable businesses.
 ```
 
 ```{block, type='secondary'}
@@ -198,6 +209,12 @@ Adaptive learning (AL) leverages the power of technology to continuously modify 
 **Teaching, learning, and assessment activities used in additional language courses in blended contexts in Quebec’s higher education (Research-Oriented)**
 
 *Paula Andrea Arancibia Erazo (Université de Sherbrooke)*
+
+**Keywords:** blended learning, additional language teaching, second language, foreign language, activities, assessment, teaching and learning
+
+#### Abstract 
+
+Knowing and additional language (AL) is an essential skill to master in the 21st century since it allows individuals to interact with people from different countries and cultures (Shih, 2010). In Canada and Quebec, due to the high immigration rates (Ministère de l’Immigration de la Francisation et de l’intégration, 2020) AL courses are necessary for immigrants to learn either English or French. Moreover, after the COVID-19 pandemic, delivery methods such as online and blended learning have become prevalent since they allow to assure the continuity of learning. Consequently, the aim of this study is to describe the teaching, learning and assessment activities used by instructors in blended courses to promote AL skills development in Quebec’s higher education. To do this, we adopt a qualitative methodology and the use of secondary data including semi-structured interviews and course documentation. Data analysis methods include a thematic and documentary analysis. The sample is constituted by 3 additional language instructors (N=3). Finally, the results will consist of effective activities that promote the development of AL skills in blended courses in higher education. They are expected to be of interest for practitioners in the field and to contribute to fill a gap in the literature.
 ```
 
 ```{block, type='secondary'}
@@ -216,7 +233,7 @@ Judging, marking, and ranking students is a common practice in higher education,
 ```{block, type='secondary'}
 **Student Motivation in Online Learning Based on Self Determination Theory: A Literature Review (Research-Oriented)**
 
-*Behnoosh Khoramrooz, Valerie Irvine, [Joan Martin](https://orcid.org/0000-0003-4972-0001) (University of Victoria)*
+*Behnoosh Khoramrooz, Valerie Irvine, [Joan Martin](https://orcid.org/0000-0003-4972-0001), Mariel Miller (University of Victoria)*
 
 <!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/136)
@@ -278,6 +295,25 @@ The case study in question involved the creation of Why Write, an anti-racist an
 ```
 
 ```{block, type='secondary'}
+#### TBA
+
+```
+<!--
+```{block, type='secondary'}
+#### Making in-roads toward multi-access learning and teaching (Practice-Oriented)
+
+*Mariel Miller, Valerie Irvine, Hayley Hewson (University of Victoria)*
+
+**Keywords:** 
+
+#### Abstract 
+
+In response to the COVID-19 global pandemic, the University of Victoria implemented two multi-access classrooms enabling face-to-face and online learners to attend and participate in classes concurrently. While multi-access learning can support more flexible, accessible, and equitable learning, it requires faculty to substantially reconsider and redesign their teaching. As such, a significant barrier to the adoption of high-quality multi-access learning is the time and effort required of faculty, particularly for those already fatigued by the massive pivots to emergency online teaching brought about by the pandemic. In this session, we will draw on our experiences as educators to describe three practical ways faculty can approach and gain confidence in multi-access learning: (a) multi-access as a contingency, (b) multi-access as a limited event, where multi-access learning is provided for certain or select classes rather than the full course; (c) team-teaching with an experienced multi-access instructor, and (d) multi-access courses designed in three layers with instructional hours divided into whole group, decentralized synchronous learning pods for peer discussion, and asynchronous engagement (e.g., with resource materials, annotation, blogging, and backchannel chat). For each, we will discuss benefits and limitations and key considerations for preserving the integrity of the learning experience.
+-->
+
+```
+<!--
+```{block, type='secondary'}
 #### 2:45-3:45
 
 **Addressing the climate crisis through open pedagogy and practices: Affordances and challenges (Research-Oriented)**
@@ -286,10 +322,10 @@ The case study in question involved the creation of Why Write, an anti-racist an
 
 **Keywords**: open educational practices, open pedagogy, open education, OER, open educational resources, climate emergency, climate change
 
-<!--
+
 [Materials](https://conference.otessa.org/index.php/conference/article/view/123) 
 
--->
+
 #### Abstract
 
 Education has a vital role in supporting learners across sectors in understanding the causes and impacts of environmental collapse (UNESCO, 2015) and addressing them through global citizenship, individual and collective direct action, and democratic participation. However, there's abundant evidence that educators, worldwide, lack the knowledge and skills to effectively address the climate emergency in their teaching (Teach the Future, 2021).  
@@ -304,6 +340,7 @@ This presentation explores the affordances of open educational practices and ope
 The presentation draws on research with students and educators discussing climate emergency-related teaching and will also promote, and encourage contributions to, a crowd-sourced document sharing ideas and resources to support teaching around the climate emergency using open approaches. 
 
 ```
+-->
 
 ## Break (3:45 – 4:00) {-}
 
@@ -320,14 +357,33 @@ The presentation draws on research with students and educators discussing climat
 ### Parallel Session 7.1 – Addressing the New Inequities: Online Ed {-}
 
 ```{block, type='secondary'}
+#### Integration of Technology with UDL and RTI in Inclusive Classrooms (Research-Oriented)
+
+*Diane Montgomery (University of Prince Edward Island)*
+
+**Keywords:** inclusion, UDL, RTI, screening, interventions, assessments, technology
+
+#### Abstract 
+
+The transition to inclusive classrooms in Ontario meant classroom environments had to adapt to the needs of students instead of students being expected to adapt to a standardized curriculum (Parekh, 2018). Although challenges existed in the implementation of this student centered approach, some teachers addressed these obstacles through the use of technology, Universal Design for Learning (UDL) and the Response to Intervention (RTI) frameworks.
+
+This paper combined two studies which included both teachers’ and students’ perspectives of inclusive classrooms. The primary study examined the instructional practices of eight elementary school teachers who experienced successful transitions to inclusion in bricks and mortar and virtual classrooms. The second study explored the experiences of students with and without disabilities who participated in virtual learning during the COVID-19 pandemic.
+
+Through online interviews and classroom observations, the teachers demonstrated how technology could increase student engagement, differentiate instruction, and provide students with alternative instruction and assessment methods. However, inconsistencies were revealed in screening approaches to identify the needs of students and monitor students’ progress. The students engaged in multiple options of learning with some experiences more positive than others.
+
+The paper concludes with a summary of technology-based inclusive practices shared by teachers and students.
+```
+
+<!--
+```{block, type='secondary'}
 **Naamaktuq? A question of balancing professional learning needs of educators and online learning in Nunavut (Research-Oriented)**
 
 *Lizzie Iblauk, Kathy Snow, Diane Montgomery (University of Prince Edward Island)*
 
-<!--
+
 [Materials](https://conference.otessa.org/index.php/conference/article/view/116)
 
--->
+
 **Keywords**: professional developmenent, Decolonizing, Indigenous
 
 #### Abstract
@@ -335,11 +391,18 @@ The presentation draws on research with students and educators discussing climat
 As with many graduate level programs, the X program was faced with a rapid shift to online in the face of COVID-19 restrictions. Health and travel restrictions were far greater in Nunavut than many other regions of Canada considering the limited housing and medical services in most communities. The experiential nature of educator professional development that grounds the program created both educational and ethical considerations when faced with moving online. This research shares the perceptions of the educators involved, from instructors, students and program coordinators with response to the question naamaktuk? Is it enough? In the redesign of offerings, given the challenges of technological infrastructure in Nunavut, access to tools for learning in schools and educational and language expectations, have we done enough to compensate for what was lost in this rapid shift? Responses from participants suggest there is room for improvement, and also highlight considerations for online learning design in remote communities. 
 
 ```
+-->
 
 ```{block, type='secondary'}
 **Parity of Participation and the Digital Divide (Practice-Oriented)**
 
 *Tanya Elias, University of Calgary*
+
+**Keywords:** learning design, low bandwidth technology, small-scale technology
+
+#### Abstract 
+
+Fraser’s defines “parity of participation” as a holistic social arrangement that enables full participation, involving processes of redistribution, recognition and representation. These ideas stand in stark contrast to many of the current and historical patterns of disparity of participation within distance education that increasingly involve complex “learning solutions” that rely heavily on the use of video conferencing, streaming video and LMSs that limit participation in a variety of ways. This approach appears to be based on two underlying assumptions: first, students have consistent access to stable, high-bandwidth internet connection; and second, sharing student data and use in machine learning/ artificial intelligence is benign. Despite these assumptions, there is ample evidence that both internet access and the effects of data tracking are not evenly distributed. Northern, rural, Indigenous and poor communities consistently lack access to stable internet; data tracking and machine learning/ AI tend to cause the most harm to historically disadvantaged groups, particularly people of colour. This session considers how we got to a place where learning design is almost completely dependent on highly inequitable technological platforms and how older, small-scale and low bandwidth approaches to learning design might assist in resetting out trajectory towards parity of participation.
 ```
 
 

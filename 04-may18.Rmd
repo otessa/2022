@@ -100,6 +100,12 @@ This presentation will focus on how you can use Wikimedia as a teaching tool, th
 **Flipped Learning in Grade 7 and 9 Mathematics (Research-Oriented)**
 
 *Barb Brown, Nadia Delanoy, Mark Webster (University of Calgary)*
+
+**Keywords:** mathematics, student engagement, flipped learning, K-12
+
+#### Abstract 
+
+This design-based study focused on supporting ELL students in grade 7 and 9 math classes by implementing a flipped learning model. This study explored the perceptions of teachers and students about the benefits and challenges of a technology-enhanced pedagogy such as flipped learning. We conducted a small-scale from January to June 2021 with two junior high math classes in a high ELL populated school, at a time when classes in Alberta were shifting between in-person and online learning frequently due to COVID-19. Through a design-based approach, we engaged teachers in reflective conversations and journaling to support ideation of practice, surveyed students surrounding their pre-learning experiences and flipped learning engagement and analyzed data analytics from the web platform used to integrate the flipped learning (i.e., EdPuzzle). The TPACK framework was used for data analysis to explore the relationship between: (1) technology, (2) teaching pedagogy, and (3) content knowledge. The results from this study demonstrated the efficacy of the procedures, instruments and value in extending the study to involve more classes. Research in flipped learning will help inform teachers and schools in any teaching scenario whether in person, when teaching online, in blended learning environments, and when employing emergency remote learning.
 ```
 
 ```{block, type='secondary'}
@@ -147,6 +153,13 @@ In this session, we look at how education technology in Canada is distributed to
 **Taking Experiential Learning Online During COVID-19 (Research-Oriented)**
 
 *Theodora Kapoyannis, Astrid Kendrick, Patricia Danyluk (University of Calgary)*
+
+**Keywords:** online learning, experiential learning, preservice education, COVID-19
+
+#### Abstract 
+
+This presentation will share findings from a from a mixed- methods study examining Bachelor of Education students’ experiences with the shift of the second field experience component of their program to a fully online course due to COVID-19. To minimize disruption, four hundred thirty- five preservice teachers pivoted to this fully online field experience course when they were made aware that they would not be completing their one -month practicum in schools. To ensure preservice teachers were able to progress in their program without disruption, the presenters designed a unique online course to replace the traditional in-school practicum. This presentation will explore the key findings of an online survey completed by the preservice teachers who made the shift to an online environment as well as examination of course documents and discussions with instructors during weekly community of practice meetings. Analysis of the data indicated that through the innovation of the newly created online practicum course, preservice teachers developed an enhanced appreciation for online learning. However, in the absence of kindergarten to grade 12 students, the online practicum was unable to provide some of the more practical aspects of an in-school practicum. 
+
 ```
 
 ```{block, type='secondary'}
@@ -155,6 +168,12 @@ In this session, we look at how education technology in Canada is distributed to
 **What we do today will change what happens tomorrow – Exploring university teaching during a pandemic to derive recommendations for post-pandemic times (Research-Oriented)**
 
 *Joerdis Weilandt, Sandra Dixon, Richelle Marynowski, Lorraine Beaudin, Rumi Graham, Stavroula Malla, Angeliki Pantazi (University of Lethbridge)*
+
+**Keywords:** online teaching, emergency online teaching, equity, resilience, pedagogy of care, online educator roles, trauma-informed teaching
+
+#### Abstract 
+
+Our faculty research is motivated by a desire to inform future teaching practices and learning support, and thus we’ve been asking ourselves:  *How, after the rupture of the pandemic, after our exploration of the immediate impact of teaching in such uncertain, challenging, and changing times, could we engage in practices, pedagogy and policies that help address the gaps and barriers that were revealed? How, after the pandemic, do we go back to “normal”? Will we go back to normal or should we rather capture the moment of disruption in ways that navigate for positive change in education and do something different, do something closer to equitable, resilient, and responsive teaching and learning?*
 ```
 
 ### Parallel Session 10.3 – Addressing the New Inequities: PSE {-}
@@ -342,10 +361,11 @@ As open course designs are being implemented in regular post-secondary credit co
 
 ```
 
-```{block, type='secondary'}
-#### Parallel Session 11.2 – Transitions of Online Learning and Teaching: K12 Online
+### Parallel Session 11.2 – Transitions of Online Learning and Teaching: K12 Online {-}
 
-**Nonverbal Communication (NVC) and teacher presence in collaborative online learning in primary school (Research-Oriented)**
+```{block, type='secondary'}
+
+#### Nonverbal Communication (NVC) and teacher presence in collaborative online learning in primary school (Research-Oriented)
 
 *Ayşegül Liman Kaban (Bahcesehir University)*
 
@@ -356,28 +376,19 @@ As open course designs are being implemented in regular post-secondary credit co
 Communication process requires a powerful combination of verbal and nonverbal processes that is one of the abilities that every teacher needs to master. In communication, the estimation of sixty-five to seventy percent of the message is received by nonverbal and only thirty to thirty-five percent by verbal communication. This research seeks to analyze the effect of nonverbal communication by primary teachers on the motivation and presence of students in a collaborative online learning environment. The information was gathered by questionnaires and interviews from both instructors and learners. Qualitative research methods were used in this study. The results showed that Nonverbal Communication can be an essential source of inspiration and attention for the learning process of students and a medium to attract their attention. Relying on the research outcomes that show the important role of Nonverbal Communication (NVC) in the teaching and learning process teachers by using the appropriate NVC types, eventually, play a critical role during online collaborative teaching which can affect students’ motivation and higher collaborative learning participation. To accurately convey learning content to students, teachers will have to improve and expand positive interactions.
 ```
 
-```{block, type='secondary'}
-#### Integration of Technology with UDL and RTI in Inclusive Classrooms (Research-Oriented)
-
-*Diane Montgomery (University of Prince Edward Island)*
-
-**Keywords:** inclusion, UDL, RTI, screening, interventions, assessments, technology
-
-#### Abstract 
-
-The transition to inclusive classrooms in Ontario meant classroom environments had to adapt to the needs of students instead of students being expected to adapt to a standardized curriculum (Parekh, 2018). Although challenges existed in the implementation of this student centered approach, some teachers addressed these obstacles through the use of technology, Universal Design for Learning (UDL) and the Response to Intervention (RTI) frameworks.
-
-This paper combined two studies which included both teachers’ and students’ perspectives of inclusive classrooms. The primary study examined the instructional practices of eight elementary school teachers who experienced successful transitions to inclusion in bricks and mortar and virtual classrooms. The second study explored the experiences of students with and without disabilities who participated in virtual learning during the COVID-19 pandemic.
-
-Through online interviews and classroom observations, the teachers demonstrated how technology could increase student engagement, differentiate instruction, and provide students with alternative instruction and assessment methods. However, inconsistencies were revealed in screening approaches to identify the needs of students and monitor students’ progress. The students engaged in multiple options of learning with some experiences more positive than others.
-
-The paper concludes with a summary of technology-based inclusive practices shared by teachers and students.
-```
 
 ```{block, type='secondary'}
 #### Creating a Socially Inclusive Learning Environment Through Mobile Technologies for Students with Autism Spectrum Disorders (Research-Oriented)
 
 *Rahim Pira (University of Calgary)*
+
+**Keywords:** mobile technologies, social inclusion, enclusive education, students with autism
+
+#### Abstract 
+
+Autism Spectrum Disorder (ASD) is the most commonly diagnosed neurodevelopment disorder in Canada, and children with autism have difficulties with communicating and interacting socially with their peers, educators, and parents. One of the latest interventions is the use of mobile technologies in assisting these children in developing their social, communication, language, and other educational skills required for their academic success. However, social inclusion of these students in the classroom is still challenging. Hence, there is a need to determine effective ways of integrating mobile technologies in the classroom to promote the social inclusion of students with ASD.
+
+In this case study research, educators, other education professionals, and parents participated in surveys and one-on-one interviews to provide insights about their experiences in meeting students’ diverse needs via mobile technologies. The findings of the study indicated various aspects that are important in promoting the social inclusion of students with ASD via mobile technologies: the importance of balance between mobile technologies and personal interaction; availability of various resources and supports such as research and development, funding, and training; the importance of establishing goals when addressing the needs of students via mobile technologies; and the collaboration among different stakeholders when implementing these technologies.
 ```
 
 ### Parallel Session 11.3 – Transitions of Online Learning and Teaching – PSE Assessment {-}
@@ -385,7 +396,7 @@ The paper concludes with a summary of technology-based inclusive practices share
 ```{block, type='secondary'}
 #### The Power of Teaching Talks: Supporting and Sustaining a University Community Through Critical Conversations (4:30-4:50 PM)  
 
-*Sarah Driessens, Nipissing University*
+*Sarah Driessens,Heather Carroll, Christopher Bird, Rob Boulet (Nipissing University)*
 
 **Keywords:** community, professional development, teaching talks
 

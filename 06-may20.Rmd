@@ -61,7 +61,7 @@ In practice, DBR is the application of knowledge and expertise about learning to
 ### Parallel Session 16.2 {-}
 
 ```{block, type='todo'}
-#### Open Education – Title Forthcoming
+#### Open Education – What’s policy got to do with it?
 
 *Leo Havemann, University College London*
 ```
@@ -122,13 +122,15 @@ In social sciences, surveys are widely used by researchers to collect informatio
 
 ### Parallel Session 17.2  {-}
 
-
+<!--
 ```{block, type='todo'}
 #### 2:15-3:15
 **Stories of Learning & Teaching Online Together: Digital Literacy Basic Skills with Indigenous Students in Remote Communities**
 
 *Suzanne Jolly*
 ```
+-->
+
 ```{block, type='todo'}
 #### 3:15-4:15
 

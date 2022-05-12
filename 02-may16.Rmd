@@ -114,7 +114,7 @@ Elders are held in high regard in First Nations, Metis, and Inuit (FNMI) communi
 
 **Truth and Reconciliation Through Inquiry-based Collaborative Learning (Practice-Oriented)**
 
-_Deirdre Houghton (Nechako Lakes School District & University of Victoria), Gary Soles (Nechako Lakes School District & University of Victoria), Andrew Vogelsang (Nechako Lakes School District & University of Victoria), Valerie Irvine (University of Victoria)_
+_Deirdre Houghton (Nechako Lakes School District & University of Victoria), Gary Soles (Nechako Lakes School District & University of Victoria), Andrew Vogelsang (Nechako Lakes School District & University of Victoria), Valerie Irvine (University of Victoria), Frances “Guy” Prince (Knowledge Holder, Nak’azdli Whut’en), Leona Prince (Nechako Lakes School District), Carla Martin (Nechako Lakes School District), Jean-Paul Restoule (University of Victoria), Michael Paskevicius (University of Victoria)_
 
 <!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/126)
@@ -325,6 +325,12 @@ The program framework builds upon “The 21st Century Educator” model (Bates, 
 **Improving environmental sustainability by using public school systems as centers of green energy production and conservation: Approaches to offsetting the cost of increased technology use and associated pollution (Practice-Oriented)**
 
 _Scott Warren, Scott Moran, Kristen McGuffin (University of North Texas)_
+
+**Keywords:** environmental sustainability, public schools, renewable energy production, environmental and financial sustainability
+
+#### Abstract 
+
+As the earth’s climate changes, the costs to communities in terms of energy consumption and related financial expenses continue to increase. Improving overall sustainability can occur by focusing on public schools as energy generation sites and opportunities to model sustainable communities for the world.The purpose of this session is to model potential environmental and financial gains that may be expected to contribute to improved sustainability that come from using rooftops and other potentially unused public school community land. When coupled with the use of sustainable building practices such as aquaculture and permaculture, we demonstrate how this approach could generate needed energy to make them more sustainable while also helping fund the facilities to make the communities they serve more sustainable as well. Such approaches may help reduce the negative impacts resulting from rising, environmental change-fueled school expenses that require finding new sources of revenue and savings.
 ```
 
 
@@ -351,6 +357,12 @@ During the pandemic, two long-separate perspectives on digital technologies and 
 **Rejecting the ready-made future: Reimagining technologies from and for the classroom (Research-Oriented)**
 
 _Esteban Morales, Rachel Horst (University of British Columbia)_
+
+**Keywords:** imagination, technology, case study
+
+#### Abstract 
+
+Discussions about technology are often rooted in a combination of technological determinism, libertarianism, and free-market economics. This growing trend prioritizes a vision of an optimistic future driven by never-ending innovation. Nevertheless, this ideology is criticized as it frequently favours some future visions over others—those of entrepreneurs and investors over those of everybody else. Missing perspectives include teachers and students, whose technological environments are increasingly privatized and commercialized. Accordingly, this presentation explores the possibilities of reimagining the future of technology with students and teachers. To achieve this, we present two case studies. The first case study explores the imagined future of social media and violence with Colombian undergraduate students, highlighting the possibilities to reach transformative learning through imagination. The second case study explores a futures literacies workshop in which teacher candidates critique the technological futures embedded within a selection of cultural and artistic texts. Overall, this presentation emphasizes the importance of opening discussions of the future of technology to those involved in educational settings.
 ```
 
 
@@ -399,6 +411,27 @@ Invited Speakers
 
 ### Parallel Session 4.1 {-}
 
+
+```{block, type='wp'}
+#### The Liberated Learner: How to Learn with Style
+
+*Terry Greene (Trent University), Giulia Forsythe (Brock University)*
+
+<!--
+[Materials](https://conference.otessa.org/index.php/conference/article/view/106)
+
+-->
+
+**Keywords**: education, post-secondary, online learning, study skills, collaboration, learning technology, open education, OER
+
+#### Abstract
+
+The Liberated Learner, funded by the eCampusOntario Virtual Learning Strategy, is an inter-institutional collaboration that brings together student co-designers and elearning professionals. This open resource consists of four modules that mirror the Ontario Extend for Educators modules (Lopes & Porter, 2018), but are customised to the learner context. These modules are Learner (learning strategies), Technologist (digital fluency skills), Collaborator (communication, group work, community member), & Navigator (curating, fact checking, other scholarly skills). The goal is to provide learners a similar opportunity to gain confidence and independence in their post-secondary experience online.
+
+Recognizing that most issues post-secondary students face are complex and ill-structured (Cormier, 2021), the design and development of the Liberated Learner open modules were primarily student-led. During a week-long design sprint, 120 students generated 99 wicked problems. This collection of personal stories document students’ real life post-secondary challenges. These stories then informed the content of the 4 modules as they were developed together with student co-designers from each institution. They also provided a pathway into the Liberated Leaner modular support at multiple levels of experience (beginner, intermediate, advanced). Each module also consists of a student created Beats to Study to intro to help learners get into the learning groove.
+```
+
+<!--
 ```{block, type='reflect'}
 #### Land-use Metaphor in Scholarly Communication: A Brief Inventory and Inspection {-}
 
@@ -410,6 +443,7 @@ _AJ Boston_
 
 Practitioners in information-centered fields regularly use metaphors in the professional literature and in everyday use. Many of these are based on land use or a general understanding of the natural sciences, and sometimes (but not always) relate to a broader metaphorical concept of information ecology or information ecosystem. Discourse in fields like scholarly communication is no exception. What I recommend in this presentation is that we begin to take inventory of our earthly metaphors in scholarly communication. Then, through a deliberate inspection of our metaphorical concepts, we can check whether the assumptions each implies are consistent with our values and do not lead us to draw false, misleading, or premature conclusions. In recognizing the usefulness and effect of metaphors, we should seek to replace old ones when they cease to bear wise fruit. 
 ```
+-->
 
 ### Parallel Session 4.2 {-}
 
