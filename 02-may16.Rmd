@@ -144,7 +144,7 @@ _Bonnie Stewart (University of Windsor), Samatha Szcyrek (University of Windsor)
 
 Over recent decades, higher education infrastructures have become increasingly digitized and datafied. The COVID-19 pandemic accelerated adoption of online learning platforms, trading the walls of the classroom for digital systems. Yet the surveillance, privacy, and security issues that such systems raise are minimally understood by those who teach and learn within them. This presentation overviews a 2020 pilot survey and 2021-22 qualitative study of higher education instructors from different parts of the globe. These projects explored the ways in which instructors from various locales and academic status positions understand data and classroom tools; the presentation draws on those studies to frame concerns about datafication amplifying inequity in higher education. Its premises are twofold: first, if higher education instructors, as knowledge workers, are not knowledgeable about the contexts within which they teach and conduct scholarship, then the construct of shared governance within higher education is inevitably undermined. Secondly, if faculty and academic decision-makers are not intentional about equitable and ethical use of digital platforms within higher education, students’ privacy and data is at risk. The presentation will outline findings and frame datafication as a critical change within higher education culture that could be addressed through a sector-wide ethics approach.
 ```
-
+<!--
 ```{block, type='secondary'}
 ####  2:45-3:45 {-}
 
@@ -158,7 +158,7 @@ _Vivekanandan Kumar (Athabasca University), Mohamed Ally (Athabasca University),
 
 Over the past decade, opportunities for online learning have dramatically increased. Learners around the world now have digital access to a wide array of corporate trainings, certifications, comprehensive academic degree programs, and other educational and training options. Some organizations are blending traditional instruction methods with online technologies. Blended learning generates large volumes of data about both the content (quality and usage) and the learners (study habits and learning outcomes). Correspondingly, the need to properly process voluminous, continuous, and often disparate data has prompted the advent of cognification. Cognification is the art of making something increasingly, ethically, and regulatably smart. Cognification techniques design complex data analytic models that allow natural intelligence to engage artificial smartness in ways that can enhance the learning experience. This panel will highlight how emerging trends in cognification and the Fourth Industrial Revolution could disrupt online education.
 ```
-
+-->
 ### Parallel Session 2.3 – Transitions of Online Learning and Teaching: E-Texts / OER {-}
 
 ```{block, type='secondary'}
@@ -224,7 +224,7 @@ This session is an exploration of stories and lived experiences with opening the
 
 **Incorporating Open Educational Pedagogies and Co-mentorship Practices in Graduate Education (Research-Oriented)** 
 
-_Cindy Ives (Athabasca University)_
+_Cindy Ives, Beth Perry, Pamela Walsh (Athabasca University)_
 
 <!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/101)

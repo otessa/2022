@@ -110,7 +110,7 @@ At the beginning of the pandemic, I had just completed my dissertation research 
 
 
 **Aspirations for post pandemic teaching and learning: Stepping stones for future possibilities**
-*Lisa Gedak (Royal Roads University & Kwantlen Polytechnic University)*
+*Lisa Gedak (Royal Roads University & Kwantlen Polytechnic University), Leeann Waddington, (Kwantlen Polytechnic University)*
 
 **Keywords:** Appreciative Inquiry, Online Learning, Educational Development, Tech-enhanced Practices, COVID-19 Pivot
 
@@ -131,18 +131,6 @@ The respective findings suggest applicability in other contexts. This session ai
 
 ### Parallel Session 14.2 – Sustaining Positive Change: K12 Online {-}
 
-```{block, type='secondary'}
-#### 2:15-2:45
-
-
-**Project MIXITÉ: Towards a Numér-ACTIF process of the intervention plan promoting the active participation of the student, his parents, and interprofessional collaborative practices (Practice-Oriented)**
-
-*Audrey Raynault*
-
-#### Abstract 
-
-Research agrees on the fact that the student who actively participates in the process of his plan of intervention (IP) is positively linked to the commitment of the parents in the latter, to the desired learning results, to an increase in the number of high school diplomas in addition to encouraging interprofessional collaboration. Unfortunately, research highlights that practitioners make little use of their collaborative practices and insufficiently promote student agency during the IEP process. The MIXITÉ collaborative research project adopts a collaborative partnership approach in which adults collaborate and maximize their agency and that of the student in the Digital-ACTIVE process of their IP. A collaborative methodology taking place at a distance allowed students, their parents and teachers, the management and the psychoeducator of a school, a patient-partner, social workers and managers of a CIUSSS to co-create two strategies to be implemented. attempt to improve collaborative practices focused on student agency in their IP. This communication presents 1) the process of the IP Digital-ACTIVE to be tested and 2) the planning of intersectoral meetings in order to better understand the roles of each and create cohesion between the actors.
-```
 
 ```{block, type='secondary'}
 #### 2:45-3:45
@@ -358,6 +346,20 @@ The authors will discuss the process of building WordPress sites as ePortfolio t
 ### Parallel Session 15.1 – Sustaining Positive Change: PSE Online Teacher Education {-}
 
 ```{block, type='secondary'}
+
+#### Building Open Education Resources with Teacher Candidates – Reflections from the Field (Practice-Oriented)
+
+*Natalie Currie Patterson, Emma Facca, Victoria Crocco, Brock University*
+
+**Keywords:** open pedagogy, OER, teacher education, ungrading, collaborative grading, open educational resources
+
+#### Abstract
+
+This paper will share reflections on the ideation, process, and outcome of cultivating an open pedagogical practice and the creation of a collaborative Open Education Resource (OER) with students in a pre-service education course. The OER co-created by the class is the outcome of a major class assignment, the planning of a course from the Canadian and World Studies Ontario curriculum, grades 7 through 12. The creation of this OER is embedded in a broader shift in course design to open pedagogical practices and collaborative grading strategies.  
+
+The course instructor alongside student contributors reflect on the ways the enactment of open pedagogical practice, a privileging of learning processes and collaboration impacted their teaching and learning environment. Teacher candidates will share insight into their experiences with modelled open pedagogy, opportunities for critical reflection, and multi-directional collaboration. For teacher candidates these experiences encouraged contemplation on the complexities of enacting open practice and the ways these approaches might be enacted in the K-12 field while also offering insight on various challenges involved in such practice. For the instructor, the shifts in course design brought also brought benefits, opportunities, and challenges. The experience highlighted the complexity of open pedagogy in practice in post-secondary education.  
+```
+```{block, type='secondary'}
 #### Practicum During the Pandemic: Zooming In (Practice-Oriented) 
 
 *Christine Ho Younghusband (University of Northern British Columbia)*
@@ -385,20 +387,6 @@ This practice-oriented session addresses two identified gaps: (a) the absence of
 3. What are the impacts on professional learning of pre-service teachers when they have field experiences with online educators?
 ```
 
-```{block, type='secondary'}
-
-#### Building Open Education Resources with Teacher Candidates – Reflections from the Field
-
-*Natalie Currie Patterson, Emma Facca, Victoria Crocco, Brock University*
-
-**Keywords:** open pedagogy, OER, teacher education, ungrading, collaborative grading, open educational resources
-
-#### Abstract
-
-This paper will share reflections on the ideation, process, and outcome of cultivating an open pedagogical practice and the creation of a collaborative Open Education Resource (OER) with students in a pre-service education course. The OER co-created by the class is the outcome of a major class assignment, the planning of a course from the Canadian and World Studies Ontario curriculum, grades 7 through 12. The creation of this OER is embedded in a broader shift in course design to open pedagogical practices and collaborative grading strategies.  
-
-The course instructor alongside student contributors reflect on the ways the enactment of open pedagogical practice, a privileging of learning processes and collaboration impacted their teaching and learning environment. Teacher candidates will share insight into their experiences with modelled open pedagogy, opportunities for critical reflection, and multi-directional collaboration. For teacher candidates these experiences encouraged contemplation on the complexities of enacting open practice and the ways these approaches might be enacted in the K-12 field while also offering insight on various challenges involved in such practice. For the instructor, the shifts in course design brought also brought benefits, opportunities, and challenges. The experience highlighted the complexity of open pedagogy in practice in post-secondary education.  
-```
 
 ### Parallel Session 15.2 – Sustaining Positive Change: PSE Graduate Ed {-}
 
@@ -406,10 +394,10 @@ The course instructor alongside student contributors reflect on the ways the ena
 #### Graduate Supervision Webinar Series: Open, Online, and Transdisciplinary Faculty Development (Research-Oriented)
 
 *Michele Jacobsen, PhD, Werklund School of Education, University of Calgary  
-Hawazen Alharbi, PhD, King Abdulaziz University, Saudi Arabia, hsalharbe@kau.edu.sa  
-Shauna Reckseidler-Zenteno, PhD, Athabasca University, shaunaz@athabascau.ca  
-Shawn Fraser, PhD, Athabasca University, shawnf@athabascau.ca  
-Sonja Johnston, PhD student, Werklund School of Education, University of Calgary, sonja.johnston@ucalgary.ca*  
+Hawazen Alharbi, PhD, King Abdulaziz University, Saudi Arabia  
+Shauna Reckseidler-Zenteno, PhD, Athabasca University   
+Shawn Fraser, PhD, Athabasca University  
+Sonja Johnston, PhD student, Werklund School of Education, University of Calgary*  
 
 **Keywords:** webinars, MOOCs, online community of practice, graduate supervision, faculty development
 
