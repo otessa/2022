@@ -102,6 +102,12 @@ Schön (1983) describes reflection-in-action as a sort of conversation that desi
 **Global viewpoints on Open Educational Resources for Blended Learning (Research-Oriented)**
 
 *Connie Blomgren (Athabasca University)*
+
+**Keywords:** open educational resources, OER, MOOCs, teacher perceptions, natural language analysis
+
+#### Abstract 
+
+The purpose of this exploratory research is to examine the perspectives of educators who have participated in the Blended Learning Practice MOOC with regards to their understanding of Open Educational Resources (OER). OER form part of the United Nation's Sustainable Development Goal number 4 ( i.e. Education for all) and UNESCO has been supporting OER since 2002. Yet, the understanding and uptake of OER has not reached saturation at either higher education or K-12. This research project captured a global OER perspective by educators and examined the impressions of MOOC participants with regards to OER as part of blended learning and teaching. This study includes participants from many countries including the Global South, which positions this study uniquely. These areas of the world may deeply benefit from OER and openness in education yet are seldom represented within studies. Researchers used natural language process automation analysis through Amazon Web Services and Ronin. Matters and concerns  regarding cloud computing for educational research also informs this presentation using Lewin's force field analysis of the potential change.  
 ```
 ### Parallel Session 6.2  {-}
 
@@ -131,6 +137,12 @@ Pour résoudre des enjeux dénotés dans l'un des cours d’intégration d’un 
 **Sustaining Positive Change in the Teaching Scholars’ Online Community of Practice (Research-Oriented)**
 
 *Andrew Mardjetko, Michele Jacobsen, Beth Archer-Kuhn, Cari Din, Lorelli Nowell, Heather Jamniczky (University of Calgary)*
+
+**Keywords:** community of practice, online learning, educational leadership, SOTL
+
+#### Abstract 
+
+We examine and reflect on sustaining positive change and innovation in Scholarship of Teaching and Learning (SOTL) research and practice through collective engagement in an Online Community of Practice (OCoP). Academic faculty, educational developers and educational leaders from adult education, educational technology, kinesiology, nursing, medicine, and social work are bound by shared commitments to educational leadership, SOTL, mentorship, and sustaining positive change in learner focused practices in higher education. Our interdisciplinary OCoP is supported and extended through institutionally sponsored research, expert support, and a robust technological infrastructure to amplify online educational leadership of teaching and learning within and across diverse disciplines. Members collaborate and learn online with colleagues who lead diverse change initiatives, connect and communicate using a range of online technologies, access shared expertise and curated resources, and collectively provide awareness within and beyond our OCoP. In this presentation, we share how and why members are engaged 1) in navigating changes in modality for individual SOTL projects, 2) as educational leaders and mentors in leading innovation with each other, and 3) in sustaining positive change across campus as educational leaders of learning and teaching in higher education.
 ```
 
 ### Parallel Session 6.3 – Transitions of Online Learning and Teaching – PSE {-}
@@ -403,9 +415,17 @@ The purpose of this qualitative case study is to examine how technology-enhanced
 ### Parallel Session 7.4 – Transitions of Online Learning and Teaching – PSE Online {-}
 
 ```{block, type='secondary'}
-**Turning to uncertainty for online learning (Practice-Oriented)**
+#### Turning to uncertainty for online learning: A potential model (Practice-Oriented)
 
 *David Cormier, University of Windsor*
+
+**Keywords:** ill-structured problems, wicked problems, rhizomatic learning
+
+#### Abstract 
+
+Online teaching has increasingly come under fire since the start of the pandemic, both questioning it as a means of effective learning and bemoaning it as a frustrating way to teach. With a huge influx of inexperienced online teachers, forced to teach online for the first time, the need for effective frameworks for faculty development are more important than ever. Teacher’s are concerned with a lack of student engagement and are worried that students are turning to the Internet for answers rather than doing the work. But what if we’re asking the wrong question? Literally. What if the way that we are asking questions is the problem? Existing language on problem setting can be seen as falling into two general categories: Well-structured problems, where the question, the process of solving the problem and the answer are known to the instructor; Ill-structured problems, where one, two or all three of those are not knowable.
+
+By looking at the some classic representations of problem setting through the lens of constructivism, this work suggests a framework that will allow us to discuss the intersection of question styles in online learning and, maybe, preparing students to live in an uncertain world.
 ```
 
 ### Parallel Session 7.5 – Transitions of Online Learning and Teaching: PSE {-}
@@ -434,6 +454,16 @@ Feedback is an important part in educational assessment that improves student le
 
 
 *Brad Wuetherick (University of British Columbia), Cherie Woolmer (Mount Royal University), Isabelle Barrette-Ng (University of Windsor), Patrick Maher (Nipissing University), Jill McSweeney-Flaherty (Dalhousie University), Laura Chittle (University of Windsor), Brett McCollum (Mount Royal University), Kaitlin Sibbald (Dalhousie University), Lori Tran (Mount Royal University), Heather Carroll (Nipissing University), Brittany McBride (Nipissing University), Charlotte Foster (Nipissing University), Kyle Scholz (University of Waterloo), Alise de Bie Das (McMaster University), Christopher Ostrowdun (University of Calgary)*
+
+**Keywords:** equity, institutional policy, equitable elarning environment, online learning environment, pandemic, COVID-19
+
+#### Abstract 
+
+The COVID-19 pandemic caused a rupture in how post-secondary institutions supported learning. The complexity of shifting to online modes of delivery has been shown to have impacted almost all aspects of learning and teaching. However, there is less evidence in emerging literature that explores the extent to which institutions considered and attended to equity and inclusion within a pandemic context.
+
+This paper will present data from a multi-institutional study that examines the impact of the pandemic on providing equitable learning environments online. Data were collected from four Canadian institutions, differing in size and geographic location. Phase 1 and 2 of our study focused on analysis of institutional policy and communications to students at the beginning of the pandemic, interviews with faculty, and surveys of students. Phase 3 of our data (in progress) focuses on interviews with senior administrators.
+
+These data reveal the fragmented and isolated conversations that occurred about equitable learning environments and the impact on delivery and engagement. Our interim analysis highlights the need for greater alignment between institutional policy and guidance on how to enact equity in the online environment, and for more robust mechanisms for systematically capturing and responding to the experience of students from equity-seeking groups.
 ```
 
 ## Break (5:30 – 6:00) {-}

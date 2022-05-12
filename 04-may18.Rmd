@@ -208,6 +208,12 @@ Co-creation is an open practice where learners participate in decision-making ab
 **The use of design-based research to design and evaluate an online microlearning intervention aiming to interrupt COVID-19 vaccine misinformation (Research-Oriented)**
 
 *George Veletsianos (Royal Roads University), Shandell Houlden (Royal Roads University), Jaigris Hodson (Royal Roads University), Darren Reid (University College London), Christiani Thompson (University of Saskatchewan)*
+
+**Keywords:** design-based research, learning intervention, COVID-19 misinformation, learning design, iterative design
+
+#### Abstract 
+
+In this presentation, we report on a design-based research effort to develop educational interventions intended to interrupt the flow of COVID-19 vaccine misinformation. Funded by a grant from the Canadian Institutes for Health Research in February 2020, one aspect of this two-year research project aimed at designing, developing, and evaluating COVID-19 microlearning interventions. By showcasing two iterations of our learning designs, we hope to inform other researchers and practitioners on how we used design-based research to address a societal problem of concern. Specifically, during our session we will (a) describe the principles that we developed to guide the development of the first iteration, (b) present our evaluation of the first iteration, and (c) explain how this evaluation informed the design and development of the second iteration of our learning design.
 ```
 
 ```{block, type='secondary'}
@@ -354,6 +360,19 @@ Communication process requires a powerful combination of verbal and nonverbal pr
 #### Integration of Technology with UDL and RTI in Inclusive Classrooms (Research-Oriented)
 
 *Diane Montgomery (University of Prince Edward Island)*
+
+**Keywords:** inclusion, UDL, RTI, screening, interventions, assessments, technology
+
+#### Abstract 
+
+The transition to inclusive classrooms in Ontario meant classroom environments had to adapt to the needs of students instead of students being expected to adapt to a standardized curriculum (Parekh, 2018). Although challenges existed in the implementation of this student centered approach, some teachers addressed these obstacles through the use of technology, Universal Design for Learning (UDL) and the Response to Intervention (RTI) frameworks.
+
+This paper combined two studies which included both teachers’ and students’ perspectives of inclusive classrooms. The primary study examined the instructional practices of eight elementary school teachers who experienced successful transitions to inclusion in bricks and mortar and virtual classrooms. The second study explored the experiences of students with and without disabilities who participated in virtual learning during the COVID-19 pandemic.
+
+Through online interviews and classroom observations, the teachers demonstrated how technology could increase student engagement, differentiate instruction, and provide students with alternative instruction and assessment methods. However, inconsistencies were revealed in screening approaches to identify the needs of students and monitor students’ progress. The students engaged in multiple options of learning with some experiences more positive than others.
+
+The paper concludes with a summary of technology-based inclusive practices shared by teachers and students.
+```
 
 ```{block, type='secondary'}
 #### Creating a Socially Inclusive Learning Environment Through Mobile Technologies for Students with Autism Spectrum Disorders (Research-Oriented)
