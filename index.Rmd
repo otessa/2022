@@ -25,9 +25,9 @@ Welcome to our searchable program. We will continue to update this site througho
 
 ![](assets/media/image2.jpeg)
 
-All OTESSA Participants can attend the [Congress “Big Thinking” lecture series](https://www.federationhss.ca/en/congress/congress-2022/open-programming){target="_blank"}. These take place each day of the conference. Congress has “[open events](https://www.federationhss.ca/en/congress/congress-2022/calendar-open-events)” available as well (open to registrants across association conferences at Congress as well as those who hold community passes).
+All OTESSA Participants can attend the [Congress “Big Thinking” lecture series](https://www.federationhss.ca/en/congress/congress-2022/open-programming){target="_blank"}. These take place each day of the conference. Congress has “[open events](https://www.federationhss.ca/en/congress/congress-2022/calendar-open-events){target="_blank"}” available as well (open to registrants across association conferences at Congress as well as those who hold community passes).
 
-All OTESSA Registrants can also attend conference sessions offered by the [Canadian Association for the Study of Education (CSSE)](https://csse-scee.ca/), [Canadian Association for the Study of Higher Education (CSSHE)](https://csshe-scees.ca/), [Canadian Association of Learned Journals (CALJ)](https://www.calj-acrs.ca/), and [Canadian Association for the Study of Adult Education (CASAE)](https://www.casae-aceea.ca/) as we have reciprocity agreements in place. 
+All OTESSA Registrants can also attend conference sessions offered by the [Canadian Association for the Study of Education (CSSE)](https://csse-scee.ca/){target="_blank"}, [Canadian Association for the Study of Higher Education (CSSHE)](https://csshe-scees.ca/){target="_blank"}, [Canadian Association of Learned Journals (CALJ)](https://www.calj-acrs.ca/){target="_blank"}, and [Canadian Association for the Study of Adult Education (CASAE)](https://www.casae-aceea.ca/){target="_blank"} as we have reciprocity agreements in place. 
 
 Please note that presenters must register in each conference in which they are presenting. 
 
@@ -35,23 +35,23 @@ Please note that presenters must register in each conference in which they are p
 
 ### Advocates {-}
 
-[![eCampus Ontario](assets/media/ecampuso.jpg)](https://www.ecampusontario.ca/) 
+[![eCampus Ontario](assets/media/ecampuso.jpg)](https://www.ecampusontario.ca/){target="_blank"}  
 
 
 ### Partners {-}
 
-[![Campus Manitoba](assets/media/CampusMB.jpg)](https://www.campusmanitoba.ca/)
+[![Campus Manitoba](assets/media/CampusMB.jpg)](https://www.campusmanitoba.ca/){target="_blank"}  
 
 ### Friends {-}
 
-[![BCcampus](assets/media/bccampus.jpg)](https://bccampus.ca)  
+[![BCcampus](assets/media/bccampus.jpg)](https://bccampus.ca){target="_blank"}  
 <br>  
 
-[![UVic Education](assets/media/uvic-ed.jpg)](https://uvic.ca/education)  
+[![UVic Education](assets/media/uvic-ed.jpg)](https://uvic.ca/education){target="_blank"}  
 <br>
 
-[![UVic Office of the President](assets/media/Uvic-pres.jpg)](https://uvic.ca/president)  
-[![Trent Online](assets/media/TrentOnline.jpg)](https://trentu.ca/online)  
+[![UVic Office of the President](assets/media/Uvic-pres.jpg)](https://uvic.ca/president){target="_blank"}  
+[![Trent Online](assets/media/TrentOnline.jpg)](https://trentu.ca/online){target="_blank"}  
 
 ## Interaction Tips {-}
 

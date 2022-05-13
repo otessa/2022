@@ -43,6 +43,8 @@
 
 Open is not an unambiguous good, a panacea, or accessible to everyone. But maybe it could be more of all of those things if, as a community, we could talk more openly about open’s borders and limitations. What does it mean to say we are a community of open educators? What is the edge of open-ness, and how do we account for its definition? What — and whose — truths remain unsaid or unspoken even in communities that define themselves as open? And who is safe to choose open? Offering an autoethnography of pregnancy loss set against the backdrop of the pandemic university as a place to start this exploration, this talk looks to chart the margins and limits of open and to ask about the benefits of expanding the scope and possibilities of openness in our institutions. It invites all of us to imagine a more perfect open, or at least to consider how more of us can be supported to speak our things unsaid.
 
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 
@@ -71,6 +73,8 @@ Open is not an unambiguous good, a panacea, or accessible to everyone. But maybe
 Digital inequalities in education have primarily been studied in terms of disparate technological access, uses, and skills embedded in academic and social inequalities (Brotcorne, 2022). However, it is possible to think that digital inequalities are configured upstream from the use of technologies by educational actors. From this systemic perspective, inequalities of use represent the culmination of a process of configuration of digital inequalities that begins with the design of educational technologies. 
 
 To account for this, we draw on "social shaping of technology" studies from a critical perspective, borrowing the "script" metaphor developed by Akrich and Latour (1992). Applied to digital inequalities in education, the design and use of educational technologies constitute one and the same process during which power scripts are progressively forged and stabilized by certain actors (industrial, political, IT, educational) at the expense of others, particularly educational actors from disadvantaged environments. Thus, digital inequalities result from the greater or lesser convergence between the educational actors targeted by the design of educational technologies and those who use them.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Parallel Session 13.2 {-}
@@ -85,6 +89,8 @@ To account for this, we draw on "social shaping of technology" studies from a cr
 #### Abstract 
 
 At the beginning of the pandemic, I had just completed my dissertation research which considered the potential of open educational practices in high school contexts. I was excited to go back into K-12 to help support my perceived need for open and online learning during the time of remote access learning. However, I quickly learned that the open learning design intervention (OLDI) principles and findings from my research (Roberts, 2019) had more prospects in Higher Education than in K-12 contexts. As I transitioned through short-term contract positions, I am now a contract Instructional Designer at TRU (Thompson Rivers University) supporting the ZTC Associate Science diploma pathway. My reflective writing and open learning experiences in open pandemic pedagogy (Havemann & Roberts, 2021), open participatory practices including blogging (DeWaard & Roberts, 2021), collaborative picture books (Roberts et. al, 2020), twitter (Brown & Roberts, 2022) and podcasts (Roberts & Neutzling, 2022) and open learning design (Roberts, 2021; Brown et. al, 2021) has inspired my future open research opportunities (Roberts et al., 2022). This talk will tell the story of how the pandemic experiences helped me envision the potential of the Ripple Effect which  encouraged me to balance my open learning designer identity with my professional reality.  Participants will be encouraged to consider their open learning journeys and how to be an open learning advocate in spirit and as a calling. 
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 
@@ -110,6 +116,8 @@ At the beginning of the pandemic, I had just completed my dissertation research 
 #### Abstract 
 
 La pandémie a amené de nombreux changements en enseignement postsecondaire, notamment une transition des cours en présentiel vers des cours hybrides et en ligne. Afin d'améliorer l'accessibilité de ces cours pour tous les étudiants, l'usage de pratiques pédagogiques inclusives par les enseignants vise à éliminer les barrières potentielles aux apprentissages et à l'engagement des étudiants en répondant à des besoins diversifiés. Toutefois, la recherche sur les pratiques pédagogiques inclusives est encore peu développée, quelles que soient les modalités de cours ou les ordres d'enseignement. Cette étude analyse l'évolution des pratiques pédagogiques inclusives engendrées par le contexte pandémique en enseignement collégial, suivant une approche méthodologique de recherche mixte. Les perceptions d'étudiants de 10 établissements d'enseignement collégial au Québec (Canada) ont été recueillies sur les usages de pratiques pédagogiques inclusives dans leurs cours avant et pendant la pandémie, par questionnaires (n = 1242) et entrevues (n = 25). Les principaux résultats dégagés dans cette étude seront présentés à la conférence.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 
@@ -134,6 +142,8 @@ COVID-19 disrupted educational contexts worldwide, providing a possible catalyst
 This session shares the findings of two distinctive studies. Conducted in unique contexts, both applied an Appreciative Inquiry (AI) approach to explore experiences during the pandemic to identify what is needed for future learning environments. Gedak (2021) examined a British Columbian K-12 school community's experiences during the pandemic and utilized an AI SOAR approach with hopes of positively impacting future district decisions related to education delivery. Waddington (2021) guided a group of post-secondary faculty through an AI-based professional development series to support them to reflect on their initial experience teaching online to identify strengths and opportunities for development and support future adoption of technology and online delivery models. 
 
 The respective findings suggest applicability in other contexts. This session aims to foster dialogue around maximizing the impact of pandemic teaching and learning experiences to meet the needs of diverse learners in a changing world. 
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 
 
 ```
@@ -160,6 +170,8 @@ The respective findings suggest applicability in other contexts. This session ai
 
 There is considerable anecdotal evidence that online tutoring benefits students who participate in these virtual sessions, however, there is also reason to believe that there are numerous advantages for the online tutors who modify, improve, and review their regular classroom practice as a result of their work in the online environment.  While working in this virtual environment, these tutors have the opportunity to discover new tools and resources used in online tutorials which can subsequently be transferred and applied into the face-to-face environment.
 
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+
 ```
 
 ### Parallel Session 14.3 – Transitions of Online Learning and Teaching: Community {-}
@@ -176,6 +188,8 @@ There is considerable anecdotal evidence that online tutoring benefits students 
 #### Abstract 
 
 This presentation focuses on teaching practices of two Chinese language teachers who are also doctoral literacy researchers in virtual Chinese language classrooms during COVID-19. Through a self-study, they conducted an autobiographical narrative inquiry to explore and reflect how digital technology changes their pedagogical practices in early elementary level Chinese language classes. Drawing on Multiliteracies and the notion of new literacies, they look at the multiple literacies embedded in their teaching in the digital space. This paper will shed light on pedagogical practices in Chinese complementary schools in Canada, especially for the post pandemic era.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -194,6 +208,8 @@ This presentation focuses on teaching practices of two Chinese language teachers
 #### Abstract
 
 This proposal aligns with the themes “The Transitions of Online Learning and Teaching” and “Sustaining Positive Change” and reports on the work of a faculty member and an instructional designer from the University of Saskatchewan, where Indigenization and internationalization are leading institutional priorities. We consider possibilities for greater collaboration between these disciplinary and programmatic imperatives for mutual benefit which the shift to virtual learning during the pandemic enabled. We explore the capacity of Virtual Study Abroad course design to synthesize Indigenous and Western pedagogies and methodologies to conceive innovative curriculum consistent with the negotiation of epistemological third spaces through the design of a Virtual Study Abroad course focusing on educational systems in Ireland, Jamaica and New Zealand. Themes emerging from the data include the capacity of virtual learning to enhance the democratization of knowledge and the potential of participatory pedagogies and innovative assessment approaches to decolonize curriculum. Ultimately, we hope that this work will inform new institutional models, whereby Indigenization strategies serve to decolonize internationalization programs and Indigenization efforts are advanced through innovative programming emanating from internationalization imperatives and initiatives. Such a reconceptualization holds the promise of mobilizing Higher Education in the service of social justice and the ‘global good’.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 
 
 ```
@@ -215,6 +231,8 @@ This proposal aligns with the themes “The Transitions of Online Learning and T
 
 In this presentation we provide an update on the development of an experimental variation on the open textbook concept. Originally introduced as an “untextbook” in its early stages, as a customized WordPress site we are now calling it an open digital learning resource. Both scholars and graduate students have been invited to contribute as well as participate in further developing the concept through the submission of provocations. With a focus on learning design, the resulting digital publication is designed in a manner to permit an ongoing evolution, extension and reframing of the original content in learning environments. In response to the provocations, students have been invited, through a series of prompts, to engage with this resource as part of their coursework in a process of ongoing co-creation in a manner consistent with open licensing and pedagogy. In particular it is designed to encourage student responses from critical perspectives including issues, lenses, role perspectives, settings. While the focus of this text is learning design, we envision that the model can be adapted to any other field of inquiry where knowledge is continually evolving or problematized and there is a desire to invite and incorporate alternative perspectives in the educational setting.
 
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+
 ```
 
 ```{block, type='secondary'}
@@ -232,6 +250,8 @@ In this presentation we provide an update on the development of an experimental 
 #### Abstract
 
 This presentation will consider principles of open learning design, as explored in our forthcoming book chapter which considers the position of open learning designers as ‘Thirdspace professionals’, and highlights our lens as open advocates, open researchers as well as learning designers within higher education (HE) contexts. An intentional, reflective, and open learning design can provide the impetus for a “rethink and redesign” (Ladson-Billings, 2021, p. 73) of teaching and learning environments and curricula.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -248,6 +268,8 @@ This presentation will consider principles of open learning design, as explored 
 #### Abstract
 
 This presentation presents the results of a research study examining scholars’ awareness and attitudes toward open access (OA) and predatory publishing at a teaching-focused, undergraduate-only university. These faculty (n=154) responded to closed- and open-ended survey questions about their experiences and knowledge using and identifying both quality open access OA and predatory publishing resources as part of their research, teaching, and assessment practices. The results show that while generally supportive of OA, faculty continue to misunderstand OA and are unlikely to use OA resources in their teaching or research. Worse, many did not express strong confidence in their ability to identify and predatory publishers nor to explain predatory publishing to students. Ultimately, scholars may be ill-equipped to teach students and early researchers about open access and predatory publishing practices. This session will primarily highlight the study results focused on the teaching and learning impacts, and seek to address some implications for how new researchers are to gain the essential skills and knowledge needed to navigate the academic publishing landscape.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 
 
 ```
@@ -268,6 +290,8 @@ This presentation presents the results of a research study examining scholars’
 
 Conestoga College is a student-centric community college that services a diverse population of students from a variety of socio-economic backgrounds in south-western Ontario, Canada. To ensure equality for students with less financial means by keeping course material costs low, a group of faculty and administrative staff have created an initiative to encourage faculty members to create quality, OER pedagogical business cases for use in courses. This multi-faceted case writing, and publishing initiative includes three operational pillars: 1) case workshops to help faculty members develop their case writing skills; 2) case roundtable discussions to encourage collaboration and feedback on in-development cases, and; 3) the Conestoga OER Teaching Case Journal, a peer-reviewed, open and accessible, teaching case journal, targeting the submission of cases from a variety of business disciplines. In this session, we will discuss our initial findings related to the efficacy of this initiative and will solicit feedback and collaboration from colleagues.
 
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+
 ```
 
 ### Parallel Session 14.5 – Wildcard: Open {-}
@@ -286,6 +310,8 @@ Conestoga College is a student-centric community college that services a diverse
 #### Abstract 
 
 Due to the COVID-19 pandemic, many students are facing potential learning gaps due to periods of emergency teaching, and they lack practice with regulating exam stress. In connection, test anxiety concerns remain a pressing issue in schools. In Alberta, students were initially scheduled to write provincially mandated diploma examinations during the 2021-2 school year; January exams were cancelled, but a decision has not yet been made about upcoming administrations (Government of Alberta, 2021). Although various forms of e-proctoring have garnered interest, research has yet to determine whether such conditions help prepare students for in-person testing or if they foster greater anxiety (Eaton & Turner, 2020). Developed for an online K-12 school, this presentation will highlight a blended test anxiety resource intended to help grade 12 students face in-person standardized testing with confidence. For its asynchronous component, students receive access to web-based content based on the key components of Putwain et al.'s (2014) Strategies to Tackle Exam Pressure and Stress (STEPS). On in-person exam days, students will also receive access to regulatory tools through calming kits.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -304,6 +330,8 @@ Due to the COVID-19 pandemic, many students are facing potential learning gaps d
 
 Students’ motivation and engagement have been a subject of concern in online learning, especially over the last two years (Means & Neisler, 2021). The inquiry-based approach in information literacy education has shown to increase students’ self-efficacy and sense of agency (Leat, 2017), promote engagement and cognitive presence, as essential building blocks for the development of students’ critical thinking skills. This presentation will discuss the development of an inquiry-based IL curriculum for the credit-bearing collaborative 1st-year undergraduate course in Social Sciences and Humanities. The presenter will discuss how inquiry-based learning can facilitate self-efficacy in the digital learning environments, as we move forward.
 
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+
 ```
 
 ```{block, type='secondary'}
@@ -318,6 +346,8 @@ Students’ motivation and engagement have been a subject of concern in online l
 #### Abstract 
 
 The authors will discuss the process of building WordPress sites as ePortfolio templates for faculty and students to adopt in their coursework and as digital spaces to showcase their learning. Eportfolios themselves are not a novel innovation of the pandemic, however, they were used in creative ways to replace field work, practicums, and art galleries. The authors saw a desperate need for faculty and students to be supported with open source portfolio technologies. In addition, many faculty and students had little technical expertise or funds to develop a website or ePortfolio, which is why the authors developed a series of clonable WordPress ePortfolio template sites. Initially, their aim was to support students by creating open ePortfolio templates with a simple structure and step-by-step instructions for website building, artifact curation and reflection. As they implemented the ePortfolio templates into their respective workplaces, they humbly realized how large some of the technical and pedagogical gaps in understanding can be and so an iterative approach was taken to refine the authors’ instructional process, and the templates themselves were revamped to be more user friendly for the beginner content creator.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 
@@ -329,6 +359,8 @@ The authors will discuss the process of building WordPress sites as ePortfolio t
 #### Dr Jones (DJ)
 
 *Beats*
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ## Parallel Session 15 (4:30 – 5:30) {-}
@@ -348,6 +380,8 @@ The authors will discuss the process of building WordPress sites as ePortfolio t
 This paper will share reflections on the ideation, process, and outcome of cultivating an open pedagogical practice and the creation of a collaborative Open Education Resource (OER) with students in a pre-service education course. The OER co-created by the class is the outcome of a major class assignment, the planning of a course from the Canadian and World Studies Ontario curriculum, grades 7 through 12. The creation of this OER is embedded in a broader shift in course design to open pedagogical practices and collaborative grading strategies.  
 
 The course instructor alongside student contributors reflect on the ways the enactment of open pedagogical practice, a privileging of learning processes and collaboration impacted their teaching and learning environment. Teacher candidates will share insight into their experiences with modelled open pedagogy, opportunities for critical reflection, and multi-directional collaboration. For teacher candidates these experiences encouraged contemplation on the complexities of enacting open practice and the ways these approaches might be enacted in the K-12 field while also offering insight on various challenges involved in such practice. For the instructor, the shifts in course design brought also brought benefits, opportunities, and challenges. The experience highlighted the complexity of open pedagogy in practice in post-secondary education.  
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 ```{block, type='secondary'}
 #### Practicum During the Pandemic: Zooming In (Practice-Oriented) 
@@ -359,6 +393,8 @@ The course instructor alongside student contributors reflect on the ways the ena
 #### Abstract 
 
 Universities in British Columbia pivoted to remote online learning in March 2020 and remained online in the upcoming school year. Teacher Education Programs also pivoted to remote online learning, with exception to practicum. Teacher candidates returned K-12 schools for practicum as of the Fall 2020 term while coursework at universities remained online. Teacher candidates were placed in their home communities, if possible, for practicum. At one university, some teacher candidates were formally observed and supported by the practicum mentor remotely due to limited staffing, location of placement, and COVID safety protocols. Formal observations and pre- and post-conferences with the Teacher Candidate were held on Zoom. This session will discuss the pros and cons of remote observations for practicum, privacy and policy issues, and recommendations regarding the use of video conferencing applications for formal observations.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -375,6 +411,8 @@ This practice-oriented session addresses two identified gaps: (a) the absence of
 1. What skills do 21st century teachers need to create inclusive, equitable, human-centred learning environments and serve students in a variety of modalities?
 2. Where should pre-service teachers complete their field experience to best prepare them for all teaching and learning opportunities in British Columbia (BC)?
 3. What are the impacts on professional learning of pre-service teachers when they have field experiences with online educators?
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 
@@ -390,6 +428,8 @@ This practice-oriented session addresses two identified gaps: (a) the absence of
 #### Abstract 
 
 The Quality Graduate Supervision (QGS) MOOC engages academics from across disciplines at different universities in sharing and examining effective graduate supervision practice. Our MOOC combines synchronous and asynchronous learning activities and rich resources on various topics and issues in graduate education and supervisory relationships. Academics join an online community of practice (OCoP) to discuss and explore transdisciplinary strategies for effective graduate supervision and mentoring. The focus of this paper is the QGS MOOC Webinar series that brings faculty and expert panelists together in real time to discuss and explore complex issues in graduate supervision.  The Weekly Webinar series invites supervisors into live conversations with peers, course instructors and expert panelists. Faculty attendance was high every week. During a demanding semester, busy faculty regularly showed up to engage in dynamic conversations. The Webinars increased supervisors’ sense of belonging in the OCoP and enhanced the value of the course. Online faculty development offers significant opportunities for democratizing knowledge about graduate supervision. The open and online design of the MOOC and Webinar series increased access to a broad and diverse community of professors and enhanced possibilities for collaboration across institutions that leveraged expertise and capacity in graduate supervision. 
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Parallel Session 15.3 - Wildcard: PSE Online {-}
@@ -404,6 +444,8 @@ The Quality Graduate Supervision (QGS) MOOC engages academics from across discip
 #### Abstract 
 
 How would you like to experience a day in a life of a Forensic Toxicologist?  This session will describe the design and development of digital content MODULES and virtual labs to introduce toxicological concepts for their analysis, reporting and interpretation in forensic context. The MODULE I will focus on 7 classes of toxic chemicals, and MODULE II will overview current testing technologies in forensic science field. Using the interactive H5P Course Presentations which will include slide decks, and podcasts, the intricate link between chemical toxicity and testing will be demonstrated in relation to crime scenes and cases. The virtual laboratory component will showcase 5 independent experiments targeting specific chemical, and how current instrumentation is used for their analysis, reporting and interpretation. Lab videos alongside worksheets/datasets will provide an opportunity to partake in a forensic toxicology lab setting. The assessments by forensic toxicology students will be discussed as well. This project was funded through the VLS eOntario program and Ontario Government.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Parallel Session 15.4 – Transitions of Online Learning and Teaching – Open {-}
@@ -423,6 +465,8 @@ Like all educators in 2020, we struggled with the transition to online learning.
 Instead of staying stuck in our remote course mistakes, we used them to create something new: an attractive, accessible, and inclusive Open Education Resource (OER) textbook for our technical communication course. Our presentation will walk through our process of taking a lackluster online course and turning it into an effective textbook.   
 
 Additionally, we will share tips and strategies for designing H5P activities and case studies that stimulate higher order thinking, discuss best practices for making an online text accessible and inclusive, and explain how we sorted through an unlimited amount of existing OER texts to create our own. 
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -443,6 +487,8 @@ In the past year, there have been a lot of articles. A lot of shared ideas and m
 
 It is hard to imagine anyone in Canadian higher education (learners, faculty, staff, administrators, employer partners) that has not been negatively impacted by COVID-19 decisions, changes in practice, and shifting priorities. It has been a messy two-plus years of chaos. There has been no lack of advice–and perhaps now might be a good time to sort through some of the recommendations, check the accuracy and usefulness of predictions and strategies, and begin a collection of works that support collective success for post-secondary futures. The purpose of this session is to share some useful works and collect and share new favourites from participants.
 
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+
 ```
 
 ```{block, type='secondary'}
@@ -460,6 +506,8 @@ It is hard to imagine anyone in Canadian higher education (learners, faculty, st
 #### Abstract
 
 This contribution is situated at the University of Saskatchewan, where Open Education Resources have been supported since 2014-2015. During the pandemic we began the work of translating The Lymphatic System of the Dog, by Dr. Hermann Baum into English. Originally published in 1918, Dr Baum’s book has been transitioned into Pressbooks, with the addition of ancillary resources. Balancing the legacy of Dr. Baum’s research with our own innovations in assessment and design engages new generations of learners and practitioners. The benefits for faculty and graduate students in designing and publishing openly must also be acknowledged. Locally designed and produced open education resources created with and by our university community is of significance to the academy. The use of open textbooks in university classes establishes a discourse and refinement of knowledge ensuring quality resources are designed and shared.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 
 ```
 
@@ -483,6 +531,8 @@ This contribution is situated at the University of Saskatchewan, where Open Educ
 
 The “Conversational Framework”, which represents a learning design framework for teaching and learning processes, could be used as a guide for integrating Open Educational Resources (OER) into education. With the growing tendency toward open and adaptable pedagogy, OER have achieved popularity as a method for supporting students’ access and enabling contributions to knowledge. These resources provide students with the possibility to play an active role in creating knowledge. However, the development of an effective environment to foster the process of learning can benefit from being grounded in a theoretical framework. The purpose of this paper is to explore the application of the “Conversational Framework” (Laurillard 2002, 2012) in designing effective educational experiences and specifically how OER may support students’ learning and engagement. Moreover, it will be discussed how this framework can help teachers consider how to design open learning experiences.
 
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+
 
 ```
 
@@ -503,6 +553,8 @@ The “Conversational Framework”, which represents a learning design framework
 #### Abstract
 
 This interactive session is a reflection on the complexity of diversity and representation in the design of educational materials using the example of the development of the Health Education Media Library, a project funded by the 2021 eCampus Virtual Learning Strategy. This project was a response to the challenges of finding high-quality, diverse and inclusive media while creating health education content. The proposed solution was a community-sourced library of images, video and audio that would be made widely available for health educators. As the project evolved, however, this simplistic approach revealed the complexity of diversity work in higher education, starting with the not simple task of defining diversity, how that definition can codify identity, and the implications of that definition including some groups and excluding others. This session will provide an opportunity to reflect on some of the questions and considerations that were raised through the initial phase of the Health Education Media Library project, linking them to broader diversity discourse in higher education, curricular design, and media cataloguing. The session will reflect on the importance of how we approach this work and who is included, concluding with a reimagining of the participatory design of the project. 
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 
 ```
 
@@ -530,6 +582,8 @@ This interactive session is a reflection on the complexity of diversity and repr
 The sudden shift from in-person to online classes due to COVID 19 has led to increasingly invasive surveillance technologies in education, including the use of problematic online proctoring software purportedly aimed at addressing academic integrity. 
 
 #tresdancing, the fourth film in the Screening Surveillance series (www.screeningsurveillance.com), speculates on the effects of escalating surveillance and control through educational technology. In this near future fiction narrative, a young person has little choice as they are forced to ramp up their engagement with a new, experimental technology in order to make up for a failing grade.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ## Closing Comments - Conference Co-Chairs / Introducing Workshops & Unconference (6:45 – 6:55) {-}
@@ -538,5 +592,7 @@ The sudden shift from in-person to online classes due to COVID 19 has led to inc
 ## Discussion/Networking Pods 6:55 – ♾️ {-}
 
 
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"} {-}
 
 
