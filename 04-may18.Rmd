@@ -45,6 +45,10 @@
 ```{block, type='reflect'}
 #### Outside-In: Openness as Subversion
 *Maha Bali, American University in Cairo*
+
+We often talk about how open education expands access, supports knowledge sharing, and potentially enhances the quality of education. We also critique open education for sometimes reproducing inequalities despite promising to promote social justice.  
+But what about the ways in which "openness" removes/destroys barriers within us? In what ways does openness empower us from the outside-in? When does openness influence critical change and when might it fail to do so?  
+In this interactive session, we will explore some of the things openness makes possible that are often not possible within the walls of institutions, and which can end up challenging and subverting injustice.
 ```
 
 

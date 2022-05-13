@@ -4,6 +4,8 @@
 
 ## Martin Weller {-}
 
+***Monday, May 16, 11:00 AM***
+
 ```{block, type='reflect'}
 ### Metaphors of EdTech
 
@@ -13,6 +15,8 @@ In this talk, I will explore why metaphors are both a useful and potentially mis
 
 ## Sherri Spelic {-}
 
+***Tuesday, May 17, 11:00 AM***
+
 ```{block, type='reflect'}
 ### Hide and Seek: On Kids, Power, and Resistance in Education
 
@@ -20,6 +24,8 @@ I want to explore what happens when the learners in our care resist our offer of
 ```
 
 ## Maha Bali {-}
+
+***Wednesday, May 18, 11:00 AM***
 
 ```{block, type='reflect'}
 ### Outside-In: Openness as Subversion
@@ -32,6 +38,8 @@ In this interactive session, we will explore some of the things openness makes p
 
 ## Brenna Clarke Gray {-}
 
+***Thursday, May 19, 11:00 AM***
+
 ```{block, type='reflect'}
 ### Things Unsaid: Exploring the Margins and Limits of Open
 
@@ -39,4 +47,12 @@ In this interactive session, we will explore some of the things openness makes p
 
 
 Open is not an unambiguous good, a panacea, or accessible to everyone. But maybe it could be more of all of those things if, as a community, we could talk more openly about open’s borders and limitations. What does it mean to say we are a community of open educators? What is the edge of open-ness, and how do we account for its definition? What — and whose — truths remain unsaid or unspoken even in communities that define themselves as open? And who is safe to choose open? Offering an autoethnography of pregnancy loss set against the backdrop of the pandemic university as a place to start this exploration, this talk looks to chart the margins and limits of open and to ask about the benefits of expanding the scope and possibilities of openness in our institutions. It invites all of us to imagine a more perfect open, or at least to consider how more of us can be supported to speak our things unsaid.
+```
+
+## Congress Events {-}
+
+```{block, type='feedback'}
+
+### [Click here to access a schedule of all open Congress events.](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886187226)
+
 ```
