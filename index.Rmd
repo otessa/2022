@@ -25,7 +25,7 @@ Welcome to our searchable program. We will continue to update this site througho
 
 ![](assets/media/image2.jpeg)
 
-All OTESSA Participants can attend the [Congress “Big Thinking” lecture series](https://www.federationhss.ca/en/congress/congress-2022/open-programming). These take place each day of the conference. Congress has “[open events](https://www.federationhss.ca/en/congress/congress-2022/calendar-open-events)” available as well (open to registrants across association conferences at Congress as well as those who hold community passes).
+All OTESSA Participants can attend the [Congress “Big Thinking” lecture series](https://www.federationhss.ca/en/congress/congress-2022/open-programming){target="_blank"}. These take place each day of the conference. Congress has “[open events](https://www.federationhss.ca/en/congress/congress-2022/calendar-open-events)” available as well (open to registrants across association conferences at Congress as well as those who hold community passes).
 
 All OTESSA Registrants can also attend conference sessions offered by the [Canadian Association for the Study of Education (CSSE)](https://csse-scee.ca/), [Canadian Association for the Study of Higher Education (CSSHE)](https://csshe-scees.ca/), [Canadian Association of Learned Journals (CALJ)](https://www.calj-acrs.ca/), and [Canadian Association for the Study of Adult Education (CASAE)](https://www.casae-aceea.ca/) as we have reciprocity agreements in place. 
 
@@ -78,3 +78,7 @@ Each time we build the page, we will generate an up-to-date ePub document for do
 ### Information {-}
 
 Tips for navigating the program with your keyboard.
+
+### Session Links {-}
+
+In each session in the program, you will see a 'Session Link'. This link will take you to the Congress platform, where you will need to sign in and navigate to the specific day and session within that interface.
