@@ -294,11 +294,7 @@ The case study in question involved the creation of Why Write, an anti-racist an
 
 ```
 
-```{block, type='secondary'}
-#### TBA
 
-```
-<!--
 ```{block, type='secondary'}
 #### Making in-roads toward multi-access learning and teaching (Practice-Oriented)
 
@@ -309,7 +305,6 @@ The case study in question involved the creation of Why Write, an anti-racist an
 #### Abstract 
 
 In response to the COVID-19 global pandemic, the University of Victoria implemented two multi-access classrooms enabling face-to-face and online learners to attend and participate in classes concurrently. While multi-access learning can support more flexible, accessible, and equitable learning, it requires faculty to substantially reconsider and redesign their teaching. As such, a significant barrier to the adoption of high-quality multi-access learning is the time and effort required of faculty, particularly for those already fatigued by the massive pivots to emergency online teaching brought about by the pandemic. In this session, we will draw on our experiences as educators to describe three practical ways faculty can approach and gain confidence in multi-access learning: (a) multi-access as a contingency, (b) multi-access as a limited event, where multi-access learning is provided for certain or select classes rather than the full course; (c) team-teaching with an experienced multi-access instructor, and (d) multi-access courses designed in three layers with instructional hours divided into whole group, decentralized synchronous learning pods for peer discussion, and asynchronous engagement (e.g., with resource materials, annotation, blogging, and backchannel chat). For each, we will discuss benefits and limitations and key considerations for preserving the integrity of the learning experience.
--->
 
 ```
 <!--
