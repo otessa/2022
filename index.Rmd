@@ -1,7 +1,7 @@
 --- 
 title: "OTESSA 2022 Program"
 author: "Open Technology in Education, Society, and Scholarship Association"
-date: "Last updated `r Sys.Date()`"
+date: "Last updated `r format(Sys.time(), '%A, %b %d, %H:%M %p, %Z')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
