@@ -1,4 +1,9 @@
 # Tuesday, May 17, 2022 
+
+```{block, type='protip'}
+#### Join us for the #OTESSA22 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
+```
+
 ### Legend {-}
 
 ```{block, type='protip'}
@@ -26,10 +31,7 @@
 #### Social Session
 
 ```
-
 --- 
-
-
 
 ##  Welcome Desk Open (10:30 - 12:30) {-}
 
@@ -589,7 +591,7 @@ These data reveal the fragmented and isolated conversations that occurred about 
 ### Parallel Session 8.1  {-}
 
 
-```{block, type='reflect'}
+```{block, type='wp'}
 #### (learning) Information Wants to Be Free - Open Access Publishing - Challenges and Successes
 
 *Terry Anderson, Athabasca University*
@@ -604,7 +606,8 @@ This session examines the progress of research on learning and education and its
 ```
 
 ### Parallel Session 8.2 {-}
-```{block, type='reflect'}
+
+```{block, type='wp'}
 #### Exploring the Inquiry Classroom
 
 *Trevor Mackenzie, Greater Victoria School District (#61)*

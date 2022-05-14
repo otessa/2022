@@ -1,4 +1,8 @@
 # Wedesday, May 18, 2022 
+
+```{block, type='protip'}
+#### Join us for the #OTESSA22 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
+```
 ### Legend {-}
 
 ```{block, type='protip'}
@@ -152,6 +156,7 @@ Consistently, teachers and researchers have questioned how to engage students wh
 [Materials](https://conference.otessa.org/index.php/conference/article/view/142)
 
 -->
+
 **Keywords:** technology adoption, technology implementation, educational change, learner equity, government planning, access to education
 
 #### Abstract

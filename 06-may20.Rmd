@@ -8,26 +8,10 @@
 ***All times are in Eastern Time (Canada)***
 ```
 
-```{block, type='reflect'}
-#### Keynote
+```{block, type='todo'}
+#### Workshop
 
 ```
-
-```{block, type='wp'}
-#### Invited Speaker
-
-```
-
-```{block, type='secondary'}
-#### Regular Session
-
-```
-
-```{block, type='gh'}
-#### Social Session
-
-```
-
 
 --- 
 
@@ -199,7 +183,7 @@ In this interactive and creative workshop, participants will explore open books,
 
 **Share Access! Using Bookdown to Remove Barriers and Open Up Learning**
 
-*Kelly Marjanovic, Barish Golland (Trinity Western University)*
+*Kelly Marjanovic, Barish Golland, Colin Madland (Trinity Western University)*
 
 **Keywords:** elearning, bookdown, accessibility, GitHub, course design, R
 

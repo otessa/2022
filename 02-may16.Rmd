@@ -1,5 +1,8 @@
 # Monday, May 16, 2022 
 
+```{block, type='protip'}
+#### Join us for the #OTESSA22 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
+```
 ### Legend {-}
 
 ```{block, type='protip'}
@@ -142,7 +145,7 @@ In this session, we will share a project conducted at [school name removed for r
 ### Parallel Session 2.2 – Sustaining Positive Change: PSE Ethics & PSE Scholarship {-}
 
 ```{block, type='secondary'}
-#### 2:15-2:45 {-}
+#### 2:15-3:00 {-}
 
 **Surveillance in the System: Data as Critical Change in Higher Education (Research-Oriented)**
 
@@ -474,7 +477,7 @@ Recognizing that most issues post-secondary students face are complex and ill-st
 ```
 
 <!--
-```{block, type='reflect'}
+```{block, type='wp'}
 #### Land-use Metaphor in Scholarly Communication: A Brief Inventory and Inspection {-}
 
 _AJ Boston_
@@ -489,7 +492,7 @@ Practitioners in information-centered fields regularly use metaphors in the prof
 
 ### Parallel Session 4.2 {-}
 
-```{block, type='reflect'}
+```{block, type='wp'}
 #### Critical Change in Online Education - What We Can Learn (And Not Learn) From COVID as a Context {-}
 
 _Matt Bower_
