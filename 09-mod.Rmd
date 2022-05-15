@@ -2,6 +2,8 @@
 
 Each session will be moderated by the presenter who is scheduled to present last during the session. The following guidelines have been provided by Congress.
 
+Please contact support@otessa.org if you need urgent assistance.
+
 ## Land Acknowledgement {-}
 Suggested virtual land acknowledgment statement:  
   
@@ -63,6 +65,7 @@ Chair/Host Housekeeping notes to be discussed in the 15-minute green room time p
 
 ## Code of Conduct Concerns {-}
 
+- The host/chair can also reach out to the Event Technician privately via chat about anything that they feel uncomfortable about or wish to take action on within the session. Congress Ombuds can be reached directly at congressh.ombuds@gmail.com.
 - **Important**: The event tech will confirm with the chair/host that they (chair/host) will be the lead for decisions arising from a code of conduct concern. The event tech will be prepared to react, with direction from the chair/host, to do the following within the first 2 to 3 minutes:  
   - Mute the attendee presenting inappropriate discourse  
   - Turn off the video of the attendee  
@@ -76,3 +79,9 @@ Chair/Host Housekeeping notes to be discussed in the 15-minute green room time p
 The chair/host does not need to expand on the situation that just occurred, but indicate that it is our intent to maintain a safe environment for all attendees. If any attendee feels they wish to discuss this matter after the session, the Congress Ombuds Team can be reached at the confidential email address of congressh.ombuds@gmail.com. The event tech will add the email address to the chat shortly.  
 
 **Note:** If the event tech is not able to engage with the chair/host through chat after the 2-minute time period, the event tech will contact the Federation Duty Manager to assist and possibly make the decision. The Federation does not wish to intervene, and would prefer to have the association make the decision about their own attendees, however, the safety of all attendees is our top priority.
+
+## Contingencies {-}
+
+1. In the event that a presenter does not show up and the host has made a consistent effort to get in touch with them we will simply continue onto the next presenter. As all presenters should be online 15 minutes prior, if a presenter has not arrived in time for their actual presentation start time, we will not be able to wait for them...the show must go on!
+2. Should folks be having serious internet issues we will recommend they either give their talk without a slide deck or stay off video or a combination of these things. If the chair is having connectivity issues, we will ask them to remain off video as well.
+3. Should we need to exit a session and re-open a new one we will adjust the link in the virtual platform as quickly as possible.
