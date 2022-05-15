@@ -5,11 +5,11 @@ Each session will be moderated by the presenter who is scheduled to present last
 ## Land Acknowledgement {-}
 Suggested virtual land acknowledgment statement:  
   
-  > I’d like to acknowledge the Indigenous Peoples of all the lands that we are on today. While we meet here on a virtual platform, we should take a moment to recognize the importance of the land on which we are each located. We acknowledge the territory to reaffirm our commitment and responsibility in building positive relationships between nations and in developing a deep understanding of Indigenous peoples and their cultures. From coast to coast to coast, we acknowledge the ancestral and unceded territory of all Inuit, First Nations, and Métis peoples.  
+> I’d like to acknowledge the Indigenous Peoples of all the lands that we are on today. While we meet here on a virtual platform, we should take a moment to recognize the importance of the land on which we are each located. We acknowledge the territory to reaffirm our commitment and responsibility in building positive relationships between nations and in developing a deep understanding of Indigenous peoples and their cultures. From coast to coast to coast, we acknowledge the ancestral and unceded territory of all Inuit, First Nations, and Métis peoples.  
 
 ## Code of Conduct {-}
 
-In line with the Federation’s commitment to respectful, inclusive and collegial discourse and engagement, we ask that all attendees treat others with respect and abide by the Federation’s Code of Conduct during our time together online and on social media before, during and after the conference itself. The Congress Ombuds is available as an independent, neutral, and confidential resource for all Congress attendees to share their concerns and receive support in finding appropriate resolutions. For more information on the Federation’s Code of Conduct, please refer to the [Congress website under Registration](https://www.federationhss.ca/en/about-us/about-federation/code-conduct){target="_blank"}. The Congress Ombuds Team can be reached at congressh.ombuds@gmail.com. The Congress team will put both the URL link and the email address in the chat now, otherwise you can locate both at the Registration/Information greeting table found via the lobby.  
+> In line with the Federation’s commitment to respectful, inclusive and collegial discourse and engagement, we ask that all attendees treat others with respect and abide by the Federation’s Code of Conduct during our time together online and on social media before, during and after the conference itself. The Congress Ombuds is available as an independent, neutral, and confidential resource for all Congress attendees to share their concerns and receive support in finding appropriate resolutions. For more information on the Federation’s Code of Conduct, please refer to the [Congress website under Registration](https://www.federationhss.ca/en/about-us/about-federation/code-conduct){target="_blank"}. The Congress Ombuds Team can be reached at congressh.ombuds@gmail.com. The Congress team will put both the URL link and the email address in the chat now, otherwise you can locate both at the Registration/Information greeting table found via the lobby.  
 
 ## Technical Notes {-}
 
@@ -27,13 +27,13 @@ In line with the Federation’s commitment to respectful, inclusive and collegia
 
 ## Networking lounges {-}
 
-We encourage the conversation to continue even after this session has ended. Please head over to the networking lounge (the link can be found in your session links listing) to continue the conversation about this session.  
+>We encourage the conversation to continue even after this session has ended. Please head over to the networking lounge (the link can be found in your session links listing) to continue the conversation about this session.  
 
 ## Optional Technical Notes {-}
 
 **Zoom Meeting view**: 
 
-We recommend that you change your view to speaker view which you can find in the top right-hand corner. If and when a presenter has shared their screen, at the top of your screen beside the green share screen bar that pops up, you will see viewing options available. Select side by side mode to view both the presenter and their presentation at the same time.  
+>We recommend that you change your view to speaker view which you can find in the top right-hand corner. If and when a presenter has shared their screen, at the top of your screen beside the green share screen bar that pops up, you will see viewing options available. Select side by side mode to view both the presenter and their presentation at the same time.  
 
 ## Optional Acknowledgements {-}
 
@@ -47,7 +47,7 @@ Other events:
 
 ## Optional Q&A Notes {-}
 
-We understand and appreciate that during this session it is an opportunity to network with your peers. To help us monitor and not miss a question, we ask you to add the word QUESTION in capital letters before your question (or your name) to help guide us through all the dialogue in the chat.
+>We understand and appreciate that during this session it is an opportunity to network with your peers. To help us monitor and not miss a question, we ask you to add the word QUESTION in capital letters before your question (or your name) to help guide us through all the dialogue in the chat.
 
 ## Green Room Discussions {-}
 
@@ -69,7 +69,7 @@ Chair/Host Housekeeping notes to be discussed in the 15-minute green room time p
   - Disengage chat and/or Q&A feature  
   - Remove attendee from the session and put them into the waiting room  
   - Submit via chat feature to the waiting room the following text:  
-    - Under the guidelines of our Code of Conduct, we are committed to offering a safe space for all attendees. The conduct demonstrated did not support maintaining a safe space and therefore the decision was made to remove you from the session. You may reach out to the Congress Ombuds to discuss your concerns. Confidential email: Congressh.ombuds@gmail.com.  
+    > Under the guidelines of our Code of Conduct, we are committed to offering a safe space for all attendees. The conduct demonstrated did not support maintaining a safe space and therefore the decision was made to remove you from the session. You may reach out to the Congress Ombuds to discuss your concerns. Confidential email: Congressh.ombuds@gmail.com.  
 - 
 **Note:** the number of steps taken above will be determined by the chair/host.  
 
