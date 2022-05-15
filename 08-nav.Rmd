@@ -11,11 +11,13 @@ There are three ways to do this.
 2. From the Congress Homepage, go to the **Your Sessions / Open events** tab  
 3. From the Congress Homepage, go to the **Associations tab**   
 
-### **OPTION 1:** {-}
+### **OPTION 1** {-}
 
 In the bottom corner of each session on the [OTESSA Program page](https://otessa.org/2022/program), there is a 'Session Link', which will take you to the Events listing page in the Congress virtual platform. You may need to sign in.
 
-![More Info option](assets/media/nav/image3.png)
+Each session contains the same link to the Events listing page, so if you don't see one, pick another!
+
+![OTESSA Program Link](assets/media/nav/image9.png)
 
 Find your date, and then select **Attend Webcast** or **More info**
 
@@ -26,7 +28,7 @@ Find your date, and then select **Attend Webcast** or **More info**
   
 ![More Info option](assets/media/nav/image3.png)
 
-### **OPTION 2:** {-}
+### **OPTION 2** {-}
 Go to **Your Sessions / Open events** tab and choose '314-OTESSA Sessions' from the dropdown menu.
 
 You will also see that you have access to several other Associations' programs. We have reciprocal attendance agreements with these associations and you are welcome to attend their sessions as a paid OTESSA registrant.
@@ -42,9 +44,9 @@ Find your date, and then select **Attend Webcast** or **More info**
 
 ![More Info option](assets/media/nav/image3.png)
 
-### **OPTION 3:** {-}
+### **OPTION 3** {-}
 
-Hover over the **Associations** tab and hoose **Association Hall B**.
+Hover over the **Associations** tab and choose **Association Hall B**.
 
 ![Congress Homepage; Associations tab](assets/media/nav/image4.png)
 
@@ -64,9 +66,6 @@ Find your date, and then select **Attend Webcast** or **More info**
 - If you choose **More info**, select the **Attend Webcast** button in the popup to launch Zoom and join the session.  
   
 ![More Info option](assets/media/nav/image3.png)
-
-### **Option 3:** {-}
-
 
 
 ## Presenter Information {-}
