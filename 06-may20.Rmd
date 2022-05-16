@@ -132,7 +132,7 @@ In social sciences, surveys are widely used by researchers to collect informatio
 ```{block, type='todo'}
 #### 3:15-4:15
 
-**OER in the Plague Years – Lessons and a Hands-on Workshop**
+#### **OER in the Plague Years – Lessons and a Hands-on Workshop**
 
 *Joshua Halpern, Yasin Dahi, LibreTexts*
 
@@ -157,7 +157,7 @@ This workshop will describe how one large OER project encountered and met the ch
 #### 2:15-3:15
 
 
-**An Innovative Approach to Academic Publishing: Open Books**
+#### **An Innovative Approach to Academic Publishing: Open Books**
 
 *Suzan Koseoglu (University of Greenwich) & Royce Kimmons (Bringham Young University)*
 
@@ -181,7 +181,7 @@ In this interactive and creative workshop, participants will explore open books,
 ```{block, type='todo'}
 #### 3:15-4:15
 
-**Share Access! Using Bookdown to Remove Barriers and Open Up Learning**
+#### **Share Access! Using Bookdown to Remove Barriers and Open Up Learning**
 
 *Kelly Marjanovic, Barish Golland, Colin Madland (Trinity Western University)*
 
