@@ -94,7 +94,7 @@ Are you considering using or making pressbooks – but do not know where to star
 ## Unconference Session (aka: EdCamp) (12:45 – 1:45) {-}
 
 ```{block, type='todo'}
-#### Click 'Unconference' in the table of contents for details and to sign up! {-}
+#### Click 'Unconference' below in the program table of contents for details and to sign up! {-}
 
 ```
 
