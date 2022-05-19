@@ -20,7 +20,7 @@
 ##  Welcome Desk Open (10:30 - 12:30) {-}
 
 
-## Conference Updates & Keynote (11:00 - 12:30) {-}
+## Conference Updates(11:00 - 12:30) {-}
 
 
 ## Parallel Session 16 - Workshops (11:30 - 12:30) {-}
@@ -92,6 +92,12 @@ Are you considering using or making pressbooks – but do not know where to star
 ## Break (12:30 – 12:45) {-}
 
 ## Unconference Session (aka: EdCamp) (12:45 – 1:45) {-}
+
+```{block, type='todo'}
+#### Click 'Unconference' in the table of contents for details and to sign up! {-}
+
+```
+
 ## Break (1:45 – 2:15) {-}
 
 ## Parallel Session 17 (2:15 – 4:15) {-}
